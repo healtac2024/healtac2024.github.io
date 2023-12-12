@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "HealTAC 2024"
-  avatar : "/assets/images/bio-photo.jpg"
+#  avatar : "/assets/images/bio-photo.jpg"
   bio    : "7th Healthcare Text Analytics Conference"
   links:
     - label: "Website"
@@ -70,10 +70,31 @@ author:
 #      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/NLPAICS/"
+      url: "https://github.com/healtac2024/"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
+
+main:
+  links:
+    - label: "HealTAC-2023"
+      icon: "fas fa-fw fa-link"
+      url: http://healtex.org/healtac-2023/
+    - label: "HealTAC-2022"
+      icon: "fas fa-fw fa-link"
+      url: https://healtac2022.github.io/
+    - label: "HealTAC-2021"
+      icon: "fas fa-fw fa-link"
+      url: http://healtex.org/healtac-2021/
+    - label: "HealTAC-2020"
+      icon: "fas fa-fw fa-link"
+      url: http://healtex.org/healtac-2020/
+    - label: "HealTAC-2019"
+      icon: "fas fa-fw fa-link"
+      url: http://healtex.org/healtac-2019/
+    - label: "HealTAC-2018"
+      icon: "fas fa-fw fa-link"
+      url: http://healtex.org/healtac-2018/
 
 footer:
   links:
