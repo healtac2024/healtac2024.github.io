@@ -16,11 +16,22 @@ title: "Committees"
 ### Industrial forum and demos
 - TBA
 
-### Tutorials
+### Tutorials and workshops
 - TBA
 
 ### Post-conference publication chairs
 - TBA
 
-### Program Committee 
+### Local Organisers
+- Mo El-Haj, Lancaster University
+- Richard Gnosill, Lancaster University
+- Daisy Harvey, Lancaster University
+- Daisy Lal, Lancaster University
+- Ruslan Mitkov, Lancaster University
+- Scott Piao, Lancaster University
+
+### Advisory group and Program Committee
+- Jo Knight, Lancaster University
+- Angus Roberts, King’s College London
+- Honghan Wu, University College London
 - TBA
