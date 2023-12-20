@@ -10,14 +10,18 @@ title: "Committees"
 - Elizabeth Ford, Brighton and Sussex Medical School
 - Goran Nenadic, University of Manchester
 
-### PhD forum chairs
+### PhD and ECR forum chairs
 - TBA
 
-### Industrial forum and demos
+### Industrial forum and demos chairs
 - TBA
 
-### Tutorials and workshops
+### Tutorials and workshops chairs
 - TBA
+
+### Publicity chairs
+- Jaya Chaturvedi, King's College London
+- Daisy Harvey, Lancaster University
 
 ### Post-conference publication chairs
 - TBA
@@ -31,6 +35,7 @@ title: "Committees"
 - Scott Piao, Lancaster University
 
 ### Advisory group and Program Committee
+- Vishnu V Chandrabalan, Lancashire Teaching Hospitals NHS Foundation Trust
 - Jo Knight, Lancaster University
 - Angus Roberts, King’s College London
 - Honghan Wu, University College London
