@@ -30,6 +30,7 @@ title: "Committees"
 - Mo El-Haj, Lancaster University
 - Richard Gnosill, Lancaster University
 - Daisy Harvey, Lancaster University
+- Nick King, Lancaster University
 - Daisy Lal, Lancaster University
 - Ruslan Mitkov, Lancaster University
 - Scott Piao, Lancaster University
