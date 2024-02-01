@@ -19,8 +19,9 @@ Panel discussions can be proposed to address the main challenges in processing h
 <h4>Software demo sessions</h4>
 Demo sessions will provide a forum for demonstration of solutions and projects to the wider community. Proposals for demos should use the template for extended abstracts.
 
-<br>
+<p>
 Submission templates can be accessed here: <a href="https://github.com/healtac2024/healtac2024.github.io/blob/main/_data/template-2024.docx" download>template-2024</a>
+</p>
 
 </body>
 </html>
