@@ -20,8 +20,8 @@ Panel discussions can be proposed to address the main challenges in processing h
 Demo sessions will provide a forum for demonstration of solutions and projects to the wider community. Proposals for demos should use the template for extended abstracts.
                                                                                                                                                                                                                                                                                                                                         
 <p> </p>
-Submission template can be accessed here: <a href="https://github.com/healtac2024/healtac2024.github.io/blob/main/_data/template-2024.docx" download>template-2024</a>
-
+Submission template can be accessed here: <a href="https://github.com/healtac2024/healtac2024.github.io/blob/main/_data/template-2024.docx" download>template-2024</a>,
+ <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fhealtac2024%2Fhealtac2024.github.io%2Fmain%2F_data%2Ftemplate-2024.docx&wdOrigin=BROWSELINK" download>template</a>
 <p> </p>
 The submission site will open shortly.
 </body>
