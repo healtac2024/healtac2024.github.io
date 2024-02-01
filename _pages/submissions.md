@@ -23,20 +23,7 @@ Demo sessions will provide a forum for demonstration of solutions and projects t
 Submission template can be accessed here: <a href="https://github.com/healtac2024/healtac2024.github.io/blob/main/_data/template-2024.docx" download>template-2024</a>
 
 <p> </p>
-<!--spinner color-->
-<!--default spinner-->
-<div class="spinner"></div>
-
-<!--spinner color-->
-<div class="spinner red"></div>
-
-<!--spinner thickness-->
-<div class="spinner bw-6"></div>
-
-<!--spinner size-->
-<div class="spinner w-l3 h-l3"></div>
-
-<div class="spinner red"></div> The submission site will open shortly.
+The submission site will open shortly.
 </body>
 </html>
 
