@@ -24,6 +24,18 @@ Submission template can be accessed here: <a href="https://github.com/healtac202
 
 <p> </p>
 <!--spinner color-->
+<!--default spinner-->
+<div class="spinner"></div>
+
+<!--spinner color-->
+<div class="spinner red"></div>
+
+<!--spinner thickness-->
+<div class="spinner bw-6"></div>
+
+<!--spinner size-->
+<div class="spinner w-l3 h-l3"></div>
+
 <div class="spinner red"></div> The submission site will open shortly.
 </body>
 </html>
