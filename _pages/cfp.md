@@ -34,6 +34,7 @@ HealTAC 2024 invites contributions that address any aspect of healthcare text an
   <li>Evaluation and assessment of text analytics methods</li>
 </ul>  
 
+<!--  
 <h2>Contribution types</h2>
 <h4>Extended abstracts</h4>
 Extended abstracts will describe either methodological or application work that has not been previously presented in a conference. Contributions should be prepared based on a template. Authors will specify their preferred way of presenting their contribution: as an oral presentation, flash/lightning talk, poster or demo. As in previous years, there will be a post-conference open call to submit a journal length paper for further peer review and publication in Frontiers in Digital Health.  We have already published four issues following the previous HealTAC events.
@@ -46,7 +47,7 @@ Panel discussions can be proposed to address the main challenges in processing h
 
 <h4>Software demo sessions</h4>
 Demo sessions will provide a forum for demonstration of solutions and projects to the wider community. Proposals for demos should use the template for extended abstracts.
-
+-->
 </body>
 </html>
 
