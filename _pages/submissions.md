@@ -3,11 +3,6 @@ permalink: /submissions/
 title: "Submissions"
 ---
 
----
-permalink: /cfp/
-title: "Calls"
----
-
 <html>
 <body>
 
@@ -23,6 +18,8 @@ Panel discussions can be proposed to address the main challenges in processing h
 
 <h4>Software demo sessions</h4>
 Demo sessions will provide a forum for demonstration of solutions and projects to the wider community. Proposals for demos should use the template for extended abstracts.
+
+Submission templates can be accessed here: "/_data/template-2024.docx"
 
 </body>
 </html>
