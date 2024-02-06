@@ -11,7 +11,8 @@ title: "Committees"
 - Goran Nenadic, University of Manchester
 
 ### PhD and ECR forum chairs
-- TBA
+- Arlene Casey, University of Edinburgh
+- Ruizhe Li, University of Aberdeen 
 
 ### Industrial forum and demos chairs
 - TBA
