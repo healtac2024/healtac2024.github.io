@@ -25,7 +25,7 @@ title: "Committees"
 - Daisy Harvey, Lancaster University
 
 ### Post-conference publication chairs
-- TBA
+- Phoey Lee Teh, Prifysgol Wrecsam / Wrexham University
 
 ### Local Organisers
 - Mo El-Haj, Lancaster University
