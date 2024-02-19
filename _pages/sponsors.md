@@ -6,10 +6,8 @@ title: "Sponsors"
 <html>
 <body>
 
-<h2>SPONSORS</h2>
-
 <p><a href="https://www.lancaster.ac.uk/dsi/">Data Science Institute, Lancaster University</a></p>
-<img src="../assets/images/DSI%20Logo%20small%20(1)%5B22%5D.jpg" style="width:350px;height:100px;">
+<img src="../assets/images/DSI%20Logo%20small%20(1)%5B22%5D.jpg" style="width:350px;height:85px;">
 
 <br>
 <br>
