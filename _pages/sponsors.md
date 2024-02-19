@@ -6,7 +6,7 @@ title: "Sponsors"
 <html>
 <head>
 <style>
-img {
+img{
   width: 100%;
 }
 </style>
