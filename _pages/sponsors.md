@@ -4,13 +4,6 @@ title: "Sponsors"
 ---
 
 <html>
-<head>
-<style>
-img{
-  width: 100%;
-}
-</style>
-</head>
 <body>
 
 <h2>SPONSORS</h2>
