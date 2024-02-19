@@ -9,8 +9,8 @@ main:
     url: /dates/
   - title: "Committees"
     url: /committees/
- - title: "Sponsors"
-   url: /sponsors/
+  - title: "Sponsors"
+    url: /sponsors/
   - title: "News"
     url: /posts/
 #  - title: "Categories"
