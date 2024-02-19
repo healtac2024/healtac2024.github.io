@@ -20,10 +20,9 @@ img {
 
 <br>
 <br>
-<br>
 
 <p>Healtex: UK Healthcare Text Analytics Network</p>
-<img src="https://github.com/healtac2024/healtac2024.github.io/blob/main/assets/images/Healtex%20Logo.jpeg" alt="HTML5 Icon" style="width:350px;height:120px;">
+<img src="https://github.com/healtac2024/healtac2024.github.io/blob/main/assets/images/Healtex%20Logo.jpeg" alt="HTML5 Icon" style="width:350px;height:100px;">
 
 </body>
 </html>
