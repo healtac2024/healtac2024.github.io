@@ -17,7 +17,7 @@ title: "Committees"
       <p> </p>
       <p>Paul Rayson, Lancaster University</p>
     </div>
-    <footer class="w3-container w3-BlanchedAlmond">
+    <footer class="w3-container BlanchedAlmond">
       <h5> </h5>
     </footer>
   </div>
