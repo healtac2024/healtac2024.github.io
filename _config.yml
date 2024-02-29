@@ -92,12 +92,14 @@ author:
     - label: "HealTAC-2018"
       icon: "fas fa-fw fa-link"
       url: http://healtex.org/healtac-2018/
-  label: "Data Science Institute, Lancaster University"
+  name: "Data Science Institute, Lancaster University"
   avatar: "../assets/images/DSI%20Logo%20small%20(1)%5B22%5D.jpg"
-  url: https://www.lancaster.ac.uk/dsi/
-  label: "Healtex: UK Healthcare Text Analytics Network"
+  links:
+      url: https://www.lancaster.ac.uk/dsi/
+  name: "Healtex: UK Healthcare Text Analytics Network"
   avatar: "../assets/images/Healtex%20Logo.jpeg"
-  url: http://healtex.org/
+  links: 
+      url: http://healtex.org/
 
 footer:
   links:
