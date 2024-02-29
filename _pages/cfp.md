@@ -15,7 +15,7 @@ title: "Calls"
 .column {
   float: left;
   width: 30%;
-  padding: 0 0px;
+  padding: 0 10px;
 }
 
 /* Remove extra left and right margins, due to padding */
