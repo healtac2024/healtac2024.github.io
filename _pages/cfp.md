@@ -64,18 +64,6 @@ HealTAC 2024 invites contributions that address any aspect of healthcare text an
 
   <div class="column">
     <div class="card">
-      <p>Information extraction: identification of clinical variables and their values in free-text</p>
-    </div>
-  </div>
-  
-  <div class="column">
-    <div class="card">
-      <p>Processing patient-generated data (e.g. social media, health forums, diaries)</p>
-    </div>
-  </div>
-  
-  <div class="column">
-    <div class="card">
       <p>Machine-learning approaches to healthcare text analytics</p>
     </div>
   </div>
@@ -168,12 +156,6 @@ HealTAC 2024 invites contributions that address any aspect of healthcare text an
 
   <div class="column">
     <div class="card">
-      <p>Sharing resources for healthcare text analytics (data and methods)</p>
-    </div>
-  </div>
-  
-  <div class="column">
-    <div class="card">
       <p>Reproducibility in the healthcare text analytics</p>
     </div>
   </div>
@@ -183,6 +165,25 @@ HealTAC 2024 invites contributions that address any aspect of healthcare text an
       <p>Evaluation and assessment of text analytics methods</p>
     </div>
   </div>
+
+  <div class="column">
+    <div class="card">
+      <p>Sharing resources for healthcare text analytics (data and methods)</p>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <p>Information extraction: identification of clinical variables and their values in free-text</p>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <p>Processing patient-generated data (e.g. social media, health forums, diaries)</p>
+    </div>
+  </div>
+  
   
   <div class="column">
     <div class="card">
