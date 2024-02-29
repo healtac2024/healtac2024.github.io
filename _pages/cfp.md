@@ -14,8 +14,8 @@ title: "Calls"
 /* Float four columns side by side */
 .column {
   float: left;
-  width: 25%;
-  padding: 0 5px;
+  width: 30%;
+  padding: 0 0px;
 }
 
 /* Remove extra left and right margins, due to padding */
