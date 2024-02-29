@@ -9,7 +9,7 @@ title: "Committees"
 <body>
 <p> </p>
 <div class="w3-container">
-  <div class="w3-card-4" style="width:40%;">
+  <div class="w3-card-4" style="width:60%;">
     <header class="w3-container w3-blue">
       <h3>General Chair</h3>
     </header>
@@ -22,9 +22,10 @@ title: "Committees"
     </footer>
   </div>
 </div>
-
+<p> </p>
+<p> </p>
 <div class="w3-container">
-  <div class="w3-card-4" style="width:40%;">
+  <div class="w3-card-4" style="width:60%;">
     <header class="w3-container w3-khaki">
       <h3>Programme Committee Co-chairs</h3>
     </header>
