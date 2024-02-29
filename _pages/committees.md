@@ -156,7 +156,7 @@ title: "Committees"
       <p>Jo Knight, Lancaster University</p>
       <p>Angus Roberts, King’s College London</p>
       <p>Honghan Wu, University College London</p>
-      <p>TBAMo El-Haj, Lancaster University</p>
+      <p>TBA</p>
     </div>
     <footer class="w3-container w3-light-blue">
       <h5> </h5>
