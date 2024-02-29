@@ -20,17 +20,7 @@ title: "Venue"
   margin-left: -12px;
   margin-right: 8px;
 }
-</style>
-</head>
-<body>
 
-<button class="buttonload">
-  <i class="fa fa-circle-o-notch fa-spin"></i>Coming Soon...
-</button>
-
-
-George Fox building
-<style>
 * {box-sizing: border-box;}
 body {font-family: 'Candara';}
 .mySlides {display: none;}
@@ -95,11 +85,13 @@ img {vertical-align: middle;}
   .text {font-size: 10px}
 }
 </style>
-</head>
-<body>
 
-<!-- <h2>Automatic Slideshow</h2>
-<p>Change image every 2 seconds:</p> -->
+<body>
+<button class="buttonload">
+  <i class="fa fa-circle-o-notch fa-spin"></i>Coming Soon...
+</button>
+
+<h2>George Fox building</h2>
 
 <div class="slideshow-container">
 
@@ -151,7 +143,6 @@ function showSlides() {
   setTimeout(showSlides, 2000); // Change image every 2 seconds
 }
 </script>
-
 
 
 </body>
