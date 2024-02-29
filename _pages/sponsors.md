@@ -13,7 +13,7 @@ title: "Sponsors"
 <br>
 
 <p><a href="http://healtex.org/">Healtex: UK Healthcare Text Analytics Network</a></p>
-<img src="../assets/images/Healtex%20Logo.jpeg" style="width:350px;height:100px;">
+<img src="../assets/images/Healtex%20Logo.jpeg" style="width:350px;height:90px;">
 
 </body>
 </html>
