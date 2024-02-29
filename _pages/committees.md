@@ -43,7 +43,7 @@ title: "Committees"
 <p> </p>
 <div class="w3-container">
   <div class="w3-card-4" style="width:50%;">
-    <header class="w3-container w3-cyan">
+    <header class="w3-container w3-light-blue">
       <h3>PhD and ECR Forum Chairs</h3>
     </header>
     <div class="w3-container">
@@ -51,7 +51,7 @@ title: "Committees"
       <p>Arlene Casey, University of Edinburgh</p>
       <p>Ruizhe Li, University of Aberdeen</p>
     </div>
-    <footer class="w3-container w3-cyan">
+    <footer class="w3-container w3-light-blue">
       <h5> </h5>
     </footer>
   </div>
@@ -76,14 +76,14 @@ title: "Committees"
 <p> </p>
 <div class="w3-container">
   <div class="w3-card-4" style="width:50%;">
-    <header class="w3-container w3-cyan">
+    <header class="w3-container w3-light-blue">
       <h3>Tutorials and Workshops Chairs</h3>
     </header>
     <div class="w3-container">
       <p> </p>
       <p>TBA</p>
     </div>
-    <footer class="w3-container w3-cyan">
+    <footer class="w3-container w3-light-blue">
       <h5> </h5>
     </footer>
   </div>
@@ -100,7 +100,7 @@ title: "Committees"
       <p>Jaya Chaturvedi, King's College London</p>
       <p>Daisy Harvey, Lancaster University</p>
     </div>
-    <footer class="w3-container w3-pink">
+    <footer class="w3-container w3-light-blue">
       <h5> </h5>
     </footer>
   </div>
@@ -109,14 +109,14 @@ title: "Committees"
 <p> </p>
 <div class="w3-container">
   <div class="w3-card-4" style="width:50%;">
-    <header class="w3-container w3-cyan">
+    <header class="w3-container w3-light-blue">
       <h3>Post-conference Publication Chair</h3>
     </header>
     <div class="w3-container">
       <p> </p>
       <p>Phoey Lee Teh, Prifysgol Wrecsam / Wrexham University</p>
     </div>
-    <footer class="w3-container w3-cyan">
+    <footer class="w3-container w3-light-blue">
       <h5> </h5>
     </footer>
   </div>
@@ -138,7 +138,7 @@ title: "Committees"
       <p>Ruslan Mitkov, Lancaster University</p>
       <p>Scott Piao, Lancaster University</p>
     </div>
-    <footer class="w3-container w3-pink">
+    <footer class="w3-container w3-light-blue">
       <h5> </h5>
     </footer>
   </div>
@@ -147,7 +147,7 @@ title: "Committees"
 <p> </p>
 <div class="w3-container">
   <div class="w3-card-4" style="width:50%;">
-    <header class="w3-container w3-cyan">
+    <header class="w3-container w3-sand">
       <h3>Advisory Group and Program Committee</h3>
     </header>
     <div class="w3-container">
@@ -158,7 +158,7 @@ title: "Committees"
       <p>Honghan Wu, University College London</p>
       <p>TBAMo El-Haj, Lancaster University</p>
     </div>
-    <footer class="w3-container w3-cyan">
+    <footer class="w3-container w3-light-blue">
       <h5> </h5>
     </footer>
   </div>
