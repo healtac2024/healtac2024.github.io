@@ -88,11 +88,11 @@ img {vertical-align: middle;}
 </head>
 
 <body>
-<button class="buttonload">
+<!-- <button class="buttonload">
   <i class="fa fa-circle-o-notch fa-spin"></i>Coming Soon...
-</button>
+</button> -->
 
-<h2>George Fox building</h2>
+<h3>George Fox building</h3>
 
 <div class="slideshow-container">
 
