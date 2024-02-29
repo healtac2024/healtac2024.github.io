@@ -6,19 +6,7 @@ title: "Dates"
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-table {
-  border-collapse: collapse;
-  border-spacing: 2px;
-  background-color: #f5fffa;
-  inline-size: 70%;
-  border-block-start-width: 5px;
-  border-block-start-style: solid;
-  border-block-start-color: #bbb;
-  border-block-end-width: 5px;
-  border-block-end-style: solid;
-  border-block-end-color: #bbb;
-}
-  
+
 th, td {
   text-align: left;
   padding: 20px;
