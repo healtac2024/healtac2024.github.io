@@ -10,14 +10,14 @@ title: "Committees"
 <p> </p>
 <div class="w3-container">
   <div class="w3-card-4" style="width:50%;">
-    <header class="w3-container w3-blue">
+    <header class="w3-container w3-pale-blue">
       <h3>General Chair</h3>
     </header>
     <div class="w3-container">
       <p> </p>
       <p>Paul Rayson, Lancaster University</p>
     </div>
-    <footer class="w3-container w3-blue">
+    <footer class="w3-container w3-pale-blue">
       <h5> </h5>
     </footer>
   </div>
