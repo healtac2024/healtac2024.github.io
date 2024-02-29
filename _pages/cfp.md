@@ -181,8 +181,7 @@ HealTAC 2024 invites contributions that address any aspect of healthcare text an
       <p>Information extraction: identification of clinical variables and their values in free-text</p>
     </div>
   </div>
- </div>
- 
+  
   <div class="column">
     <div class="card">
       <p>Processing patient-generated data (e.g. social media, health forums, diaries)</p>
