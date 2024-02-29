@@ -2,43 +2,26 @@
 permalink: /committees/
 title: "Committees"
 ---
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
 
-## General chair
-- Paul Rayson, Lancaster University
+<div class="w3-container">
+  <div class="w3-card-4" style="width:50%;">
+    <header class="w3-container w3-Blanched Almond">
+      <h1>General Chair</h1>
+    </header>
+    <div class="w3-container">
+      <p>Paul Rayson, Lancaster University, UK</p>
+    </div>
+    <footer class="w3-container w3-blue">
+      <h5> </h5>
+    </footer>
+  </div>
+</div>
 
-### Programme Committee co-chairs
-- Elizabeth Ford, Brighton and Sussex Medical School
-- Goran Nenadic, University of Manchester
+</body>
+</html>
 
-### PhD and ECR forum chairs
-- Arlene Casey, University of Edinburgh
-- Ruizhe Li, University of Aberdeen 
-
-### Industrial forum and demos chairs
-- TBA
-
-### Tutorials and workshops chairs
-- TBA
-
-### Publicity chairs
-- Jaya Chaturvedi, King's College London
-- Daisy Harvey, Lancaster University
-
-### Post-conference publication chairs
-- Phoey Lee Teh, Prifysgol Wrecsam / Wrexham University
-
-### Local Organisers
-- Mo El-Haj, Lancaster University
-- Richard Gnosill, Lancaster University
-- Daisy Harvey, Lancaster University
-- Nick King, Lancaster University
-- Daisy Lal, Lancaster University
-- Ruslan Mitkov, Lancaster University
-- Scott Piao, Lancaster University
-
-### Advisory group and Program Committee
-- Vishnu V Chandrabalan, Lancashire Teaching Hospitals NHS Foundation Trust
-- Jo Knight, Lancaster University
-- Angus Roberts, King’s College London
-- Honghan Wu, University College London
-- TBA
