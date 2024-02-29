@@ -10,12 +10,12 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
   width: 100%;
-  border: 1px solid #ddd;
+/*   border: 1px solid #ddd; */
 }
-
+  
 th, td {
   text-align: left;
-  padding: 16px;
+  padding: 20px;
 }
 
 tr:nth-child(even) {
@@ -43,15 +43,15 @@ tr:nth-child(even) {
   <tr>
     <td>Deadline for all contributions</td>
     <td>March 28, 2024</td>
-   </tr>
-   <tr>
-     <td>Notification of acceptance</td>
-     <td>April 19, 2024</td>
-   </tr>
-   <tr>
-     <td>Conference</td>
-     <td>June 12-14, 2024</td>
-   </tr>
+  </tr>
+  <tr>
+    <td>Notification of acceptance</td>
+    <td>April 19, 2024</td>
+  </tr>
+  <tr>
+    <td>Conference</td>
+    <td>June 12-14, 2024</td>
+  </tr>
 </table>
 
 </body>
