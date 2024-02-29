@@ -11,10 +11,6 @@ title: "Calls"
   box-sizing: border-box;
 }
 
-body {
-  font-family: Arial, Helvetica, sans-serif;
-}
-
 /* Float four columns side by side */
 .column {
   float: left;
@@ -58,6 +54,7 @@ Healthcare narrative (such as clinical notes, discharge letters, nurse handover 
 
 <h2>Topics</h2>
 HealTAC 2024 invites contributions that address any aspect of healthcare text analytics, including (but not limited to) the following topics:
+
 <div class="row">
   <div class="column">
     <div class="card">
@@ -73,7 +70,7 @@ HealTAC 2024 invites contributions that address any aspect of healthcare text an
   
   <div class="column">
     <div class="card">
-      <p>Speech analytics for healthcare applications</p>
+      <p>Processing patient-generated data (e.g. social media, health forums, diaries)</p>
     </div>
   </div>
   
@@ -93,7 +90,7 @@ HealTAC 2024 invites contributions that address any aspect of healthcare text an
 
   <div class="column">
     <div class="card">
-      <p>Processing patient-generated data (e.g. social media, health forums, diaries)</p>
+      <p>Speech analytics for healthcare applications</p>
     </div>
   </div>
   
@@ -106,6 +103,90 @@ HealTAC 2024 invites contributions that address any aspect of healthcare text an
   <div class="column">
     <div class="card">
       <p>Multi-modal models for healthcare decision support</p>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <p>Text analytics and learning health systems</p>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <p>Healthcare ontologies and coding of healthcare text</p>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <p>Explainable models for healthcare NLP</p>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <p>Text mining for veterinary medicine</p>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <p>Real-time processing of healthcare free text</p>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <p>Real-world application of healthcare text analytics</p>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <p>Scalable and secure healthcare NLP infrastructures</p>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <p>Privacy-preserving healthcare analytics</p>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <p>Datasets for healthcare text analytics</p>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <p>Sharing resources for healthcare text analytics (data and methods)</p>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <p>Reproducibility in the healthcare text analytics</p>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <p>Evaluation and assessment of text analytics methods</p>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <p>Implementation of healthcare text analytics in practice: public engagement and governance</p>
     </div>
   </div>
 </div>
