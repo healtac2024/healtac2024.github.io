@@ -15,7 +15,7 @@ title: "Calls"
 .column {
   float: left;
   width: 25%;
-  padding: 0 10px;
+  padding: 0 5px;
 }
 
 /* Remove extra left and right margins, due to padding */
@@ -40,9 +40,9 @@ title: "Calls"
 /* Style the counter cards */
 .card {
   box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2);
-  padding: 12px;
+  padding: 10px;
   text-align: center;
-  background-color: #f5deb3;
+  background-color: #ffebcd;
 }
 </style>
 </head>
