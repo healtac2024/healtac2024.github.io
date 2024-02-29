@@ -29,17 +29,17 @@ title: "Calls"
 }
 
 /* Responsive columns */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 500px) {
   .column {
     width: 100%;
     display: block;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
   }
 }
 
 /* Style the counter cards */
 .card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2);
   padding: 12px;
   text-align: center;
   background-color: #f5deb3;
