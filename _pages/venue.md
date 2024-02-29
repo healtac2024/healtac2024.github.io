@@ -105,19 +105,19 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
     <div class="numbertext">1 / 3</div>
-    <img src="/assets/img/venue_1.jpg" style="width:100%">
+    <img src="/assets/images/venue_1.jpg" style="width:100%">
     <div class="text">George Fox</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="/assets/img/venue_2.jpg" style="width:100%">
+  <img src="/assets/images/venue_2.jpg" style="width:100%">
   <div class="text">George Fox</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
-  <img src="/assets/img/venue_2.jpg" style="width:100%">
+  <div class="number text">3 / 3</div>
+  <img src="/assets/images/venue_2.jpg" style="width:100%">
   <div class="text">George Fox</div>
 </div>
 
