@@ -67,15 +67,15 @@ HealTAC 2024 invites contributions that address any aspect of healthcare text an
       <p>Machine-learning approaches to healthcare text analytics</p>
     </div>
   </div>
-</div>
-
-<div class="row">
-  <div class="column">
+  
+   <div class="column">
     <div class="card">
       <p>Transfer learning for healthcare text analytics</p>
     </div>
   </div>
+</div>
 
+<div class="row">
   <div class="column">
     <div class="card">
       <p>Speech analytics for healthcare applications</p>
@@ -113,12 +113,6 @@ HealTAC 2024 invites contributions that address any aspect of healthcare text an
       <p>Explainable models for healthcare NLP</p>
     </div>
   </div>
-  
-  <div class="column">
-    <div class="card">
-      <p>Text mining for veterinary medicine</p>
-    </div>
-  </div>
 </div>
 
 <div class="row">
@@ -139,21 +133,29 @@ HealTAC 2024 invites contributions that address any aspect of healthcare text an
       <p>Scalable and secure healthcare NLP infrastructures</p>
     </div>
   </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <p>Text mining for veterinary medicine</p>
+    </div>
+  </div>
   
   <div class="column">
     <div class="card">
       <p>Privacy-preserving healthcare analytics</p>
     </div>
   </div>
-</div>
 
-<div class="row">
-  <div class="column">
+   <div class="column">
     <div class="card">
       <p>Datasets for healthcare text analytics</p>
     </div>
   </div>
+</div>
 
+<div class="row">
   <div class="column">
     <div class="card">
       <p>Reproducibility in the healthcare text analytics</p>
@@ -172,18 +174,19 @@ HealTAC 2024 invites contributions that address any aspect of healthcare text an
     </div>
   </div>
   
+<div class="row">
   <div class="column">
     <div class="card">
       <p>Information extraction: identification of clinical variables and their values in free-text</p>
     </div>
   </div>
-  
+ </div>
+ 
   <div class="column">
     <div class="card">
       <p>Processing patient-generated data (e.g. social media, health forums, diaries)</p>
     </div>
   </div>
-  
   
   <div class="column">
     <div class="card">
