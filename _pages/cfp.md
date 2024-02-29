@@ -42,7 +42,7 @@ title: "Calls"
   box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2);
   padding: 10px;
   text-align: center;
-  background-color: #ffebcd;
+  background-color: #faebd7;
 }
 </style>
 </head>
