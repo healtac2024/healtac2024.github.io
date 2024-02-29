@@ -10,14 +10,14 @@ title: "Committees"
 <p> </p>
 <div class="w3-container">
   <div class="w3-card-4" style="width:50%;">
-    <header class="w3-container w3-blue">
+    <header class="w3-container w3-cyan">
       <h3>General Chair</h3>
     </header>
     <div class="w3-container">
       <p> </p>
       <p>Paul Rayson, Lancaster University</p>
     </div>
-    <footer class="w3-container w3-blue">
+    <footer class="w3-container w3-cyan">
       <h5> </h5>
     </footer>
   </div>
@@ -26,7 +26,7 @@ title: "Committees"
 <p> </p>
 <div class="w3-container">
   <div class="w3-card-4" style="width:50%;">
-    <header class="w3-container w3-khaki">
+    <header class="w3-container w3-pink">
       <h3>Programme Committee Co-chairs</h3>
     </header>
     <div class="w3-container">
@@ -34,7 +34,7 @@ title: "Committees"
       <p>Elizabeth Ford, Brighton and Sussex Medical School</p>
       <p>Goran Nenadic, University of Manchester</p>
     </div>
-    <footer class="w3-container w3-khaki">
+    <footer class="w3-container w3-pink">
       <h5> </h5>
     </footer>
   </div>
@@ -43,7 +43,7 @@ title: "Committees"
 <p> </p>
 <div class="w3-container">
   <div class="w3-card-4" style="width:50%;">
-    <header class="w3-container w3-purple">
+    <header class="w3-container w3-cyan">
       <h3>PhD and ECR Forum Chairs</h3>
     </header>
     <div class="w3-container">
@@ -51,7 +51,7 @@ title: "Committees"
       <p>Arlene Casey, University of Edinburgh</p>
       <p>Ruizhe Li, University of Aberdeen</p>
     </div>
-    <footer class="w3-container w3-purple">
+    <footer class="w3-container w3-cyan">
       <h5> </h5>
     </footer>
   </div>
@@ -60,14 +60,14 @@ title: "Committees"
 <p> </p>
 <div class="w3-container">
   <div class="w3-card-4" style="width:50%;">
-    <header class="w3-container w3-pale-green">
+    <header class="w3-container w3-pink">
       <h3>Industrial Forum and Demos Chairs</h3>
     </header>
     <div class="w3-container">
       <p> </p>
       <p>TBA</p>
     </div>
-    <footer class="w3-container w3-pale-green">
+    <footer class="w3-container w3-pink">
       <h5> </h5>
     </footer>
   </div>
@@ -115,6 +115,48 @@ title: "Committees"
     <div class="w3-container">
       <p> </p>
       <p>Phoey Lee Teh, Prifysgol Wrecsam / Wrexham University</p>
+    </div>
+    <footer class="w3-container w3-cyan">
+      <h5> </h5>
+    </footer>
+  </div>
+</div>
+<p> </p>
+<p> </p>
+<div class="w3-container">
+  <div class="w3-card-4" style="width:50%;">
+    <header class="w3-container w3-pink">
+      <h3>Local Organisers</h3>
+    </header>
+    <div class="w3-container">
+      <p> </p>
+      <p>Mo El-Haj, Lancaster University</p>
+      <p>Richard Gnosill, Lancaster University</p>
+      <p>Daisy Harvey, Lancaster University</p>
+      <p>Nick King, Lancaster University</p>
+      <p>Daisy Lal, Lancaster University</p>
+      <p>Ruslan Mitkov, Lancaster University</p>
+      <p>Scott Piao, Lancaster University</p>
+    </div>
+    <footer class="w3-container w3-pink">
+      <h5> </h5>
+    </footer>
+  </div>
+</div>
+<p> </p>
+<p> </p>
+<div class="w3-container">
+  <div class="w3-card-4" style="width:50%;">
+    <header class="w3-container w3-cyan">
+      <h3>Advisory Group and Program Committee</h3>
+    </header>
+    <div class="w3-container">
+      <p> </p>
+      <p>Vishnu V Chandrabalan, Lancashire Teaching Hospitals NHS Foundation Trust</p>
+      <p>Jo Knight, Lancaster University</p>
+      <p>Angus Roberts, King’s College London</p>
+      <p>Honghan Wu, University College London</p>
+      <p>TBAMo El-Haj, Lancaster University</p>
     </div>
     <footer class="w3-container w3-cyan">
       <h5> </h5>
