@@ -23,10 +23,9 @@ tr:nth-child(even) {
 
 <table>
   <tr>
-    <th></th>
-    <th></th>
+    <th> </th>
+    <th> </th>
   </tr>
-  <tr>
   <tr>
     <th>Events</th>
     <th>Dates</th>
