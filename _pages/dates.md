@@ -8,12 +8,15 @@ title: "Dates"
 <style>
 table {
   border-collapse: collapse;
-  border-spacing: 0;
+  border-spacing: 2px;
   background-color: #f5fffa;
   inline-size: 70%;
-  border-block-end-width: 10px;
+  border-block-start-width: 5px;
+  border-block-start-style: solid;
+  border-block-start-color: #bbb;
+  border-block-end-width: 5px;
   border-block-end-style: solid;
-  border-block-end-color: #ffebcd;
+  border-block-end-color: #bbb;
 }
   
 th, td {
