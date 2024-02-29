@@ -10,7 +10,7 @@ title: "Committees"
 <p> </p>
 <div class="w3-container">
   <div class="w3-card-4" style="width:50%;">
-    <header class="w3-container w3-BlanchedAlmond">
+    <header class="w3-container BlanchedAlmond">
       <h3>General Chair</h3>
     </header>
     <div class="w3-container">
