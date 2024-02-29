@@ -60,14 +60,14 @@ title: "Committees"
 <p> </p>
 <div class="w3-container">
   <div class="w3-card-4" style="width:50%;">
-    <header class="w3-container w3-pink">
+    <header class="w3-container w3-sand">
       <h3>Industrial Forum and Demos Chairs</h3>
     </header>
     <div class="w3-container">
       <p> </p>
       <p>TBA</p>
     </div>
-    <footer class="w3-container w3-pink">
+    <footer class="w3-container w3-sand">
       <h5> </h5>
     </footer>
   </div>
@@ -92,7 +92,7 @@ title: "Committees"
 <p> </p>
 <div class="w3-container">
   <div class="w3-card-4" style="width:50%;">
-    <header class="w3-container w3-pink">
+    <header class="w3-container w3-sand">
       <h3>Publicity Chairs</h3>
     </header>
     <div class="w3-container">
@@ -100,7 +100,7 @@ title: "Committees"
       <p>Jaya Chaturvedi, King's College London</p>
       <p>Daisy Harvey, Lancaster University</p>
     </div>
-    <footer class="w3-container w3-light-blue">
+    <footer class="w3-container w3-sand">
       <h5> </h5>
     </footer>
   </div>
@@ -125,7 +125,7 @@ title: "Committees"
 <p> </p>
 <div class="w3-container">
   <div class="w3-card-4" style="width:50%;">
-    <header class="w3-container w3-pink">
+    <header class="w3-container w3-sand">
       <h3>Local Organisers</h3>
     </header>
     <div class="w3-container">
@@ -138,7 +138,7 @@ title: "Committees"
       <p>Ruslan Mitkov, Lancaster University</p>
       <p>Scott Piao, Lancaster University</p>
     </div>
-    <footer class="w3-container w3-light-blue">
+    <footer class="w3-container w3-light-sand">
       <h5> </h5>
     </footer>
   </div>
@@ -147,7 +147,7 @@ title: "Committees"
 <p> </p>
 <div class="w3-container">
   <div class="w3-card-4" style="width:50%;">
-    <header class="w3-container w3-sand">
+    <header class="w3-container w3-light-blue">
       <h3>Advisory Group and Program Committee</h3>
     </header>
     <div class="w3-container">
