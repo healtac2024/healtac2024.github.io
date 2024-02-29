@@ -74,7 +74,7 @@ HealTAC 2024 invites contributions that address any aspect of healthcare text an
     </div>
   </div>
 </div>
-
+<br>
 <div class="row">
   <div class="column">
     <div class="card">
@@ -94,7 +94,7 @@ HealTAC 2024 invites contributions that address any aspect of healthcare text an
     </div>
   </div>
 </div>
-
+<br>
 <div class="row">
   <div class="column">
     <div class="card">
@@ -114,7 +114,7 @@ HealTAC 2024 invites contributions that address any aspect of healthcare text an
     </div>
   </div>
 </div>
-
+<br>
 <div class="row">
   <div class="column">
     <div class="card">
@@ -134,7 +134,7 @@ HealTAC 2024 invites contributions that address any aspect of healthcare text an
     </div>
   </div>
 </div>
-
+<br>
 <div class="row">
   <div class="column">
     <div class="card">
@@ -154,7 +154,7 @@ HealTAC 2024 invites contributions that address any aspect of healthcare text an
     </div>
   </div>
 </div>
-
+<br>
 <div class="row">
   <div class="column">
     <div class="card">
@@ -174,7 +174,7 @@ HealTAC 2024 invites contributions that address any aspect of healthcare text an
     </div>
   </div>
 </div>
- 
+<br>
 <div class="row">
   <div class="column">
     <div class="card">
