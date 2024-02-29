@@ -7,10 +7,13 @@ title: "Dates"
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 table {
-  border-collapse: separate;
+  border-collapse: collapse;
   border-spacing: 0;
-  width: 100%;
-  border: 1px solid #ddd; 
+  background-color: #f5fffa;
+  inline-size: 70%;
+  border-block-end-width: 10px;
+  border-block-end-style: solid;
+  border-block-end-color: #ffebcd;
 }
   
 th, td {
