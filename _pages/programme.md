@@ -10,7 +10,7 @@ title: "Programme"
 .buttonload {
   background-color: #faebd7; 
   border: none; /* Remove borders */
-  color: white; /* White text */
+  color: black; 
   padding: 12px 24px; /* Some padding */
   font-size: 16px; /* Set a font-size */
 }
@@ -23,8 +23,6 @@ title: "Programme"
 </style>
 </head>
 <body>
-
-<h2>Program</h2>
 
 <button class="buttonload">
   <i class="fa fa-circle-o-notch fa-spin"></i>Coming Soon...
