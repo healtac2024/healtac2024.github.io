@@ -173,7 +173,7 @@ HealTAC 2024 invites contributions that address any aspect of healthcare text an
       <p>Sharing resources for healthcare text analytics (data and methods)</p>
     </div>
   </div>
- </div>
+</div>
  
 <div class="row">
   <div class="column">
