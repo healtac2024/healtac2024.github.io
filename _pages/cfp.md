@@ -54,6 +54,7 @@ Healthcare narrative (such as clinical notes, discharge letters, nurse handover 
 
 <h2>Topics</h2>
 HealTAC 2024 invites contributions that address any aspect of healthcare text analytics, including (but not limited to) the following topics:
+
 <br>
 
 <div class="row">
