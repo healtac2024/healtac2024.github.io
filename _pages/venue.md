@@ -104,7 +104,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="/assets/images/venue_2.jpg" style="width:100%">
+  <img src="/assets/images/venue_3.jpg" style="width:100%">
   <div class="text">George Fox</div>
 </div>
 
