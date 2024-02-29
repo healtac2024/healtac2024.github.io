@@ -138,7 +138,7 @@ title: "Committees"
       <p>Ruslan Mitkov, Lancaster University</p>
       <p>Scott Piao, Lancaster University</p>
     </div>
-    <footer class="w3-container w3-light-sand">
+    <footer class="w3-container w3-sand">
       <h5> </h5>
     </footer>
   </div>
