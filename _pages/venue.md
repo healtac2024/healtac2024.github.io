@@ -93,7 +93,7 @@ img {vertical-align: middle;}
 </button> -->
 
 <h3>George Fox building</h3>
-
+<br>
 <div class="slideshow-container">
 
 <div class="mySlides fade">
@@ -109,7 +109,7 @@ img {vertical-align: middle;}
 </div>
 
 <div class="mySlides fade">
-  <div class="number text">3 / 3</div>
+  <div class="numbertext">3 / 3</div>
   <img src="/assets/images/venue_2.jpg" style="width:100%">
   <div class="text">George Fox</div>
 </div>
