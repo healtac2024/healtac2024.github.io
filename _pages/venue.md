@@ -15,84 +15,6 @@ title: "Venue"
   font-size: 16px; /* Set a font-size */
 }
 
-/* Add a right margin to each icon */
-.fa {
-  margin-left: -12px;
-  margin-right: 8px;
-}
-
-* {box-sizing: border-box;}
-body {font-family: 'Candara';}
-.mySlides {display: none;}
-img {vertical-align: middle;}
-
-
-/* Slideshow container */
-.slideshow-container {
-  max-width: 600px;
-  position: relative;
-  margin: auto;
-}
-
-/* Caption text */
-.text {
-  color: #f2f2f2;
-  font-size: 15px;
-  padding: 8px 12px;
-  position: absolute;
-  bottom: 8px;
-  width: 100%;
-  text-align: center;
-}
-
-/* Number text (1/3 etc) */
-.numbertext {
-  color: #2f2c2c;
-  font-size: 8px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
-}
-
-/* The dots/bullets/indicators */
-.dot {
-  height: 8px;
-  width: 8px;
-  margin: 0 2px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
-}
-
-.active {
-  background-color: #717171;
-}
-
-/* Fading animation */
-.fade {
-  animation-name: fade;
-  animation-duration: 3600s;
-}
-
-@keyframes fade {
-  from {opacity: .8} 
-  to {opacity: 1}
-}
-
-/* On smaller screens, decrease text size */
-@media only screen and (max-width: 400px) {
-  .text {font-size: 10px}
-}
-</style>
-</head>
-
-<body>
-<!-- <button class="buttonload">
-  <i class="fa fa-circle-o-notch fa-spin"></i>Coming Soon...
-</button> -->
-
-<h3>George Fox building</h3>
 <br>
 <div class="slideshow-container">
 
@@ -144,6 +66,6 @@ function showSlides() {
   setTimeout(showSlides, 2000); // Change image every 2 seconds
 }
 </script>
-
+<h3>George Fox building</h3>
 </body>
 </html>
