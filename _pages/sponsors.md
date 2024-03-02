@@ -4,6 +4,16 @@ title: "Sponsors"
 ---
 
 <html>
+<head>
+  <style>
+    h1, h2, h3, h4, h5 {
+  font-family: 'Akaya Telivigala';font-size: 23px;
+}
+body {
+    font-family: 'Akaya Telivigala';font-size: 25px;
+} 
+  </style>
+</head>
 <body>
 
 <p><a href="https://www.lancaster.ac.uk/dsi/">Data Science Institute, Lancaster University</a></p>
