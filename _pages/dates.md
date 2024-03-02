@@ -11,6 +11,7 @@ title: "Dates"
 th, td {
   text-align: left;
   padding: 20px;
+  font-family: 'Akaya Telivigala';font-size: 24px;
 }
 
 body {
@@ -19,6 +20,7 @@ body {
 
 tr:nth-child(even) {
   background-color: #faebd7;
+  font-family: 'Akaya Telivigala';font-size: 24px;
 }
 </style>
 </head>
