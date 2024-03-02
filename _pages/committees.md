@@ -10,7 +10,7 @@ title: "Committees"
   
 <style>
 
-body {
+html {
     font-family: 'Akaya Telivigala';font-size: 24px;
 } 
   
