@@ -50,7 +50,7 @@ body {
   box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2);
   padding: 10px;
   text-align: center;
-  background-color: #70dbdb;
+  background-color: #29a3a3;
 }
 </style>
 </head>
