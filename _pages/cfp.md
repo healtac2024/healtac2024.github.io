@@ -47,7 +47,7 @@ body {
 
 /* Style the counter cards */
 .card {
-  box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 2px 6px 0 rgba(0.2, 0.2, 0.2, 0.2);
   padding: 10px;
   text-align: center;
   background-color: #dedede;
@@ -57,29 +57,29 @@ body {
 
 <body>
 
-<h2>Call for contributions</h2>
+<h2 style="color:#29a391;">Call for contributions</h2>
 Healthcare narrative (such as clinical notes, discharge letters, nurse handover notes, imaging reports, patients posts on social media or feedback comments, etc.) has been used as a key communication stream that contains the majority of actionable and contextualised healthcare data, but which – despite being increasingly available in a digital form – is not routinely analysed, and is rarely integrated with other healthcare data on a large-scale. There are many barriers and challenges in processing healthcare free text, including, for example, the variability and implicit nature of language expressions, and difficulties in sharing training and evaluation data. On the other hand, recent years have witnessed increasing opportunities to process free text, with a number of success stories that have demonstrated the feasibility of using advanced Natural Language Processing to unlock evidence contained in free text to support clinical care, patient self-management, epidemiological research and audit.
 
-<h2>Topics</h2>
+<h2 style="color:#29a391;">Topics</h2>
 <p> HealTAC 2024 invites contributions that address any aspect of healthcare text analytics, including (but not limited to) the following topics: </p>
 <p> </p>
 
 <div class="row">
   <div class="column">
     <div class="card">
-      <p style="background-color:#29a391;">(Large) language models for healthcare text analytics</p>
+      <p style="color:#29a391;">(Large) language models for healthcare text analytics</p>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <p style="background-color:#29a391;">Machine-learning approaches to healthcare text analytics</p>
+      <p style="color:#29a391;">Machine-learning approaches to healthcare text analytics</p>
     </div>
   </div>
   
    <div class="column">
     <div class="card">
-      <p style="background-color:#29a391;">Transfer learning for healthcare text analytics</p>
+      <p style="color:#29a391;">Transfer learning for healthcare text analytics</p>
     </div>
   </div>
 </div>
