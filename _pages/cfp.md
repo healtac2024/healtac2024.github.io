@@ -12,8 +12,8 @@ title: "Calls"
 * {
   box-sizing: border-box;
 }
-
-body {
+  
+html {
     font-family: 'Akaya Telivigala';font-size: 24px;
 } 
 
