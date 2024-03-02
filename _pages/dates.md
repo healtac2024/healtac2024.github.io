@@ -15,11 +15,10 @@ th, td {
 }
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Akaya Telivigala';font-size: 25px;
+  font-family: 'Akaya Telivigala';font-size: 23px;
 }
-
 body {
-    font-family: 'Akaya Telivigala';font-size: 24px;
+    font-family: 'Akaya Telivigala';font-size: 25px;
 } 
 
 tr:nth-child(even) {
