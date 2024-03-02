@@ -4,8 +4,8 @@ title: "Sponsors"
 ---
 
 <html>
-<link href='https://fonts.googleapis.com/css?family=Akaya Telivigala' rel='stylesheet'>
-<head>
+<!-- <link href='https://fonts.googleapis.com/css?family=Akaya Telivigala' rel='stylesheet'>
+<head> -->
   <style>
     h1, h2, h3, h4, h5 {
   font-family: 'Akaya Telivigala';font-size: 25px;
