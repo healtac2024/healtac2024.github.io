@@ -30,10 +30,6 @@ tr:nth-child(even) {
 
 <table>
   <tr>
-    <th> </th>
-    <th> </th>
-  </tr>
-  <tr>
     <td style="color:#3e1061;">Events</td>
     <td style="color:#3e1061;">Dates</td>
   </tr>
