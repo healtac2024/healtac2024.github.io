@@ -3,13 +3,11 @@ permalink: /committees/
 title: "Committees"
 ---
 <html>
-<title>W3.CSS</title>
 <link href='https://fonts.googleapis.com/css?family=Akaya Telivigala' rel='stylesheet'>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
   
 <style>
-
 body {
     font-family: 'Akaya Telivigala';font-size: 23px;
 } 
