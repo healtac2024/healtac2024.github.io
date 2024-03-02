@@ -7,6 +7,7 @@ title: "Venue"
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+  
 .buttonload {
   background-color: #faebd7; 
   border: none; /* Remove borders */
@@ -16,7 +17,14 @@ title: "Venue"
 }
   
 * {box-sizing: border-box;}
-body {font-family: 'Candara';}
+  
+h1, h2, h3, h4, h5 {
+  font-family: 'Akaya Telivigala';font-size: 23px;
+}
+body {
+    font-family: 'Akaya Telivigala';font-size: 25px;
+} 
+
 .mySlides {display: none;}
 img {vertical-align: middle;}
 
