@@ -13,10 +13,10 @@ title: "Calls"
   box-sizing: border-box;
 }
 h1, h2, h3, h4, h5 {
-  font-family: 'Akaya Telivigala';font-size: 25px;
+  font-family: 'Akaya Telivigala';font-size: 25px; font-color: #008080;
 }
 body {
-    font-family: 'Akaya Telivigala';font-size: 23px;
+    font-family: 'Akaya Telivigala';font-size: 23px; font-color: #6b6b6b;
 } 
 
 /* Float three columns side by side */
@@ -50,7 +50,7 @@ body {
   box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2);
   padding: 10px;
   text-align: center;
-  background-color: #faebd7;
+  background-color: #70dbdb;
 }
 </style>
 </head>
@@ -60,26 +60,26 @@ body {
 <h2>Call for contributions</h2>
 Healthcare narrative (such as clinical notes, discharge letters, nurse handover notes, imaging reports, patients posts on social media or feedback comments, etc.) has been used as a key communication stream that contains the majority of actionable and contextualised healthcare data, but which – despite being increasingly available in a digital form – is not routinely analysed, and is rarely integrated with other healthcare data on a large-scale. There are many barriers and challenges in processing healthcare free text, including, for example, the variability and implicit nature of language expressions, and difficulties in sharing training and evaluation data. On the other hand, recent years have witnessed increasing opportunities to process free text, with a number of success stories that have demonstrated the feasibility of using advanced Natural Language Processing to unlock evidence contained in free text to support clinical care, patient self-management, epidemiological research and audit.
 
-<h2 style="color:#3e1061;">Topics</h2>
-<p  style="color:#3e1061;"> HealTAC 2024 invites contributions that address any aspect of healthcare text analytics, including (but not limited to) the following topics: </p>
+<h2>Topics</h2>
+<p> HealTAC 2024 invites contributions that address any aspect of healthcare text analytics, including (but not limited to) the following topics: </p>
 <p> </p>
 
 <div class="row">
   <div class="column">
     <div class="card">
-      <p style="color:#3e1061;">(Large) language models for healthcare text analytics</p>
+      <p>(Large) language models for healthcare text analytics</p>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <p style="color:#3e1061;">Machine-learning approaches to healthcare text analytics</p>
+      <p>Machine-learning approaches to healthcare text analytics</p>
     </div>
   </div>
   
    <div class="column">
     <div class="card">
-      <p style="color:#3e1061;">Transfer learning for healthcare text analytics</p>
+      <p>Transfer learning for healthcare text analytics</p>
     </div>
   </div>
 </div>
@@ -87,19 +87,19 @@ Healthcare narrative (such as clinical notes, discharge letters, nurse handover 
 <div class="row">
   <div class="column">
     <div class="card">
-      <p style="color:#3e1061;">Speech analytics for healthcare applications</p>
+      <p>Speech analytics for healthcare applications</p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-      <p style="color:#3e1061;">Processing clinical literature and trial reports</p>
+      <p>Processing clinical literature and trial reports</p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-      <p style="color:#3e1061;">Multi-modal models for healthcare decision support</p>
+      <p>Multi-modal models for healthcare decision support</p>
     </div>
   </div>
 </div>
@@ -107,19 +107,19 @@ Healthcare narrative (such as clinical notes, discharge letters, nurse handover 
 <div class="row">
   <div class="column">
     <div class="card">
-      <p style="color:#3e1061;">Text analytics and learning health systems</p>
+      <p>Text analytics and learning health systems</p>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <p style="color:#3e1061;">Healthcare ontologies and coding of healthcare text</p>
+      <p>Healthcare ontologies and coding of healthcare text</p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-      <p style="color:#3e1061;">Explainable models for healthcare NLP</p>
+      <p>Explainable models for healthcare NLP</p>
     </div>
   </div>
 </div>
@@ -127,19 +127,19 @@ Healthcare narrative (such as clinical notes, discharge letters, nurse handover 
 <div class="row">
   <div class="column">
     <div class="card">
-      <p style="color:#3e1061;">Real-time processing of healthcare free text</p>
+      <p>Real-time processing of healthcare free text</p>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <p style="color:#3e1061;">Real-world application of healthcare text analytics</p>
+      <p>Real-world application of healthcare text analytics</p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-      <p style="color:#3e1061;">Scalable and secure healthcare NLP infrastructures</p>
+      <p>Scalable and secure healthcare NLP infrastructures</p>
     </div>
   </div>
 </div>
@@ -147,19 +147,19 @@ Healthcare narrative (such as clinical notes, discharge letters, nurse handover 
 <div class="row">
   <div class="column">
     <div class="card">
-      <p style="color:#3e1061;">Text mining for veterinary medicine</p>
+      <p>Text mining for veterinary medicine</p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-      <p style="color:#3e1061;">Privacy-preserving healthcare analytics</p>
+      <p>Privacy-preserving healthcare analytics</p>
     </div>
   </div>
 
    <div class="column">
     <div class="card">
-      <p style="color:#3e1061;">Datasets for healthcare text analytics</p>
+      <p>Datasets for healthcare text analytics</p>
     </div>
   </div>
 </div>
@@ -167,19 +167,19 @@ Healthcare narrative (such as clinical notes, discharge letters, nurse handover 
 <div class="row">
   <div class="column">
     <div class="card">
-      <p style="color:#3e1061;">Reproducibility in the healthcare text analytics</p>
+      <p>Reproducibility in the healthcare text analytics</p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-      <p style="color:#3e1061;">Evaluation and assessment of text analytics methods</p>
+      <p>Evaluation and assessment of text analytics methods</p>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <p style="color:#3e1061;">Sharing resources for healthcare text analytics (data and methods)</p>
+      <p>Sharing resources for healthcare text analytics (data and methods)</p>
     </div>
   </div>
 </div>
@@ -187,19 +187,19 @@ Healthcare narrative (such as clinical notes, discharge letters, nurse handover 
 <div class="row">
   <div class="column">
     <div class="card">
-      <p style="color:#3e1061;">Information extraction: identification of clinical variables and their values in free-text</p>
+      <p>Information extraction: identification of clinical variables and their values in free-text</p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-      <p style="color:#3e1061;">Processing patient-generated data (e.g. social media, health forums, diaries)</p>
+      <p>Processing patient-generated data (e.g. social media, health forums, diaries)</p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-      <p style="color:#3e1061;">Implementation of healthcare text analytics in practice: public engagement and governance</p>
+      <p>Implementation of healthcare text analytics in practice: public engagement and governance</p>
     </div>
   </div>
 </div>
