@@ -6,7 +6,7 @@ title: "Committees"
 <link href='https://fonts.googleapis.com/css?family=Akaya Telivigala' rel='stylesheet'>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-  
+<head>
 <style>
 body {
     font-family: 'Akaya Telivigala';font-size: 23px;
@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5 {
   font-family: 'Akaya Telivigala';font-size: 25px;
 }
 </style>
-
+</head>
 <body>
 <p> </p>
 <div class="w3-container">
