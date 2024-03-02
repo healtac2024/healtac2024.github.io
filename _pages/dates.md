@@ -4,6 +4,7 @@ title: "Dates"
 ---
 <html>
 <head>
+<link href='https://fonts.googleapis.com/css?family=Akaya Telivigala' rel='stylesheet'>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 
@@ -12,6 +13,10 @@ th, td {
   padding: 20px;
 }
 
+body {
+    font-family: 'Akaya Telivigala';font-size: 24px;
+} 
+
 tr:nth-child(even) {
   background-color: #faebd7;
 }
@@ -19,7 +24,7 @@ tr:nth-child(even) {
 </head>
 <body>
 
-<p>All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).</p>
+<p style="color:#3e1061;">All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).</p>
 
 <table>
   <tr>
@@ -27,28 +32,28 @@ tr:nth-child(even) {
     <th> </th>
   </tr>
   <tr>
-    <th>Events</th>
-    <th>Dates</th>
+    <td style="color:#3e1061;">Events</td>
+    <td style="color:#3e1061;">Dates</td>
   </tr>
   <tr>
-     <td>First Call</td>
-     <td>February 2, 2024</td>
+     <td style="color:#3e1061;">First Call</td>
+     <td style="color:#3e1061;">February 2, 2024</td>
   </tr>
   <tr>
-    <td>Submission template available</td>
-    <td>February 2, 2024</td>
+    <td style="color:#3e1061;"> Submission template available</td>
+    <td style="color:#3e1061;">February 2, 2024</td>
   </tr>
   <tr>
-    <td>Deadline for all contributions</td>
-    <td>March 28, 2024</td>
+    <td style="color:#3e1061;">Deadline for all contributions</td>
+    <td style="color:#3e1061;">March 28, 2024</td>
   </tr>
   <tr>
-    <td>Notification of acceptance</td>
-    <td>April 19, 2024</td>
+    <td style="color:#3e1061;">Notification of acceptance</td>
+    <td style="color:#3e1061;">April 19, 2024</td>
   </tr>
   <tr>
-    <td>Conference</td>
-    <td>June 12-14, 2024</td>
+    <td style="color:#3e1061;">Conference</td>
+    <td style="color:#3e1061;">June 12-14, 2024</td>
   </tr>
 </table>
 
