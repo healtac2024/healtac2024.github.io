@@ -11,7 +11,7 @@ title: "Dates"
 th, td {
   text-align: left;
   padding: 20px;
-  font-family: 'Akaya Telivigala';font-size: 24px;
+  font-family: 'Akaya Telivigala';font-size: 22px;
 }
 
 body {
