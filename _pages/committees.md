@@ -11,7 +11,7 @@ title: "Committees"
 <style>
 
 body {
-    font-family: 'Akaya Telivigala';font-size: 22px;
+    font-family: 'Akaya Telivigala';font-size: 23px;
 } 
 h1, h2, h3, h4, h5 {
   font-family: 'Akaya Telivigala';font-size: 25px;
