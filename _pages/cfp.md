@@ -13,7 +13,7 @@ title: "Calls"
   box-sizing: border-box;
 }
   
-html {
+body {
     font-family: 'Akaya Telivigala';font-size: 24px;
 } 
 
