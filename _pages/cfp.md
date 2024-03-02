@@ -13,7 +13,7 @@ title: "Calls"
   box-sizing: border-box;
 }
 h1, h2, h3, h4, h5 {
-  font-family: 'Akaya Telivigala';font-size: 25px; font-color: #008080;
+  font-family: 'Akaya Telivigala';font-size: 25px; font-color: #29a391;
 }
 body {
     font-family: 'Akaya Telivigala';font-size: 23px; font-color: #6b6b6b;
@@ -50,7 +50,7 @@ body {
   box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2);
   padding: 10px;
   text-align: center;
-  background-color: #29a3a3;
+  background-color: #dedede;
 }
 </style>
 </head>
@@ -67,19 +67,19 @@ Healthcare narrative (such as clinical notes, discharge letters, nurse handover 
 <div class="row">
   <div class="column">
     <div class="card">
-      <p>(Large) language models for healthcare text analytics</p>
+      <p style="background-color:#29a391;">(Large) language models for healthcare text analytics</p>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <p>Machine-learning approaches to healthcare text analytics</p>
+      <p style="background-color:#29a391;">Machine-learning approaches to healthcare text analytics</p>
     </div>
   </div>
   
    <div class="column">
     <div class="card">
-      <p>Transfer learning for healthcare text analytics</p>
+      <p style="background-color:#29a391;">Transfer learning for healthcare text analytics</p>
     </div>
   </div>
 </div>
