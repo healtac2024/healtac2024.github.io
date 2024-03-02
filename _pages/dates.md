@@ -14,6 +14,10 @@ th, td {
   font-family: 'Akaya Telivigala';font-size: 22px;
 }
 
+h1, h2, h3, h4, h5 {
+  font-family: 'Akaya Telivigala';font-size: 25px;
+}
+
 body {
     font-family: 'Akaya Telivigala';font-size: 24px;
 } 
