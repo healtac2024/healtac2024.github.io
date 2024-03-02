@@ -18,7 +18,7 @@ h1, h2, h3, h4, h5 {
   font-family: 'Akaya Telivigala';font-size: 25px;
 }
 body {
-    font-family: 'Akaya Telivigala';font-size: 23px;
+    font-family: 'Akaya Telivigala';font-size: 22px;
 } 
 
 tr:nth-child(even) {
@@ -29,7 +29,7 @@ tr:nth-child(even) {
 </head>
 <body>
 
-<p style="color:#3e1061;">All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).</p>
+<p>All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).</p>
 
 <table>
   <tr>
