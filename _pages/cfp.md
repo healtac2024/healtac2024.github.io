@@ -67,19 +67,19 @@ Healthcare narrative (such as clinical notes, discharge letters, nurse handover 
 <div class="row">
   <div class="column">
     <div class="card">
-      <p style="color: #ffffff; text-shadow: 1px 1px">(Large) language models for healthcare text analytics</p>
+      <p style="color: #ffffff; text-shadow: 0.5px 0.5px">(Large) language models for healthcare text analytics</p>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <p style="color: #ffffff; text-shadow: 1px 1px">Machine-learning approaches to healthcare text analytics</p>
+       <p style="color: #ffffff; text-shadow: 0.5px 0.5px">Machine-learning approaches to healthcare text analytics</p>
     </div>
   </div>
   
    <div class="column">
     <div class="card">
-      <p style="color: #ffffff;">Transfer learning for healthcare text analytics</p>
+       <p style="color: #ffffff; text-shadow: 0.5px 0.5px">Transfer learning for healthcare text analytics</p>
     </div>
   </div>
 </div>
@@ -87,19 +87,19 @@ Healthcare narrative (such as clinical notes, discharge letters, nurse handover 
 <div class="row">
   <div class="column">
     <div class="card">
-      <p style="color:#6b6b6b;">Speech analytics for healthcare applications</p>
+       <p style="color: #ffffff; text-shadow: 0.5px 0.5px">Speech analytics for healthcare applications</p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-      <p>Processing clinical literature and trial reports</p>
+       <p style="color: #ffffff; text-shadow: 0.5px 0.5px">Processing clinical literature and trial reports</p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-      <p>Multi-modal models for healthcare decision support</p>
+       <p style="color: #ffffff; text-shadow: 0.5px 0.5px">Multi-modal models for healthcare decision support</p>
     </div>
   </div>
 </div>
@@ -107,19 +107,19 @@ Healthcare narrative (such as clinical notes, discharge letters, nurse handover 
 <div class="row">
   <div class="column">
     <div class="card">
-      <p>Text analytics and learning health systems</p>
+       <p style="color: #ffffff; text-shadow: 0.5px 0.5px">Text analytics and learning health systems</p>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <p>Healthcare ontologies and coding of healthcare text</p>
+       <p style="color: #ffffff; text-shadow: 0.5px 0.5px">Healthcare ontologies and coding of healthcare text</p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-      <p>Explainable models for healthcare NLP</p>
+       <p style="color: #ffffff; text-shadow: 0.5px 0.5px">Explainable models for healthcare NLP</p>
     </div>
   </div>
 </div>
@@ -127,19 +127,19 @@ Healthcare narrative (such as clinical notes, discharge letters, nurse handover 
 <div class="row">
   <div class="column">
     <div class="card">
-      <p>Real-time processing of healthcare free text</p>
+       <p style="color: #ffffff; text-shadow: 0.5px 0.5px">Real-time processing of healthcare free text</p>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <p>Real-world application of healthcare text analytics</p>
+       <p style="color: #ffffff; text-shadow: 0.5px 0.5px">Real-world application of healthcare text analytics</p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-      <p>Scalable and secure healthcare NLP infrastructures</p>
+       <p style="color: #ffffff; text-shadow: 0.5px 0.5px">Scalable and secure healthcare NLP infrastructures</p>
     </div>
   </div>
 </div>
@@ -147,19 +147,19 @@ Healthcare narrative (such as clinical notes, discharge letters, nurse handover 
 <div class="row">
   <div class="column">
     <div class="card">
-      <p>Text mining for veterinary medicine</p>
+       <p style="color: #ffffff; text-shadow: 0.5px 0.5px">Text mining for veterinary medicine</p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-      <p>Privacy-preserving healthcare analytics</p>
+       <p style="color: #ffffff; text-shadow: 0.5px 0.5px">Privacy-preserving healthcare analytics</p>
     </div>
   </div>
 
    <div class="column">
     <div class="card">
-      <p>Datasets for healthcare text analytics</p>
+       <p style="color: #ffffff; text-shadow: 0.5px 0.5px">Datasets for healthcare text analytics</p>
     </div>
   </div>
 </div>
@@ -167,19 +167,19 @@ Healthcare narrative (such as clinical notes, discharge letters, nurse handover 
 <div class="row">
   <div class="column">
     <div class="card">
-      <p>Reproducibility in the healthcare text analytics</p>
+       <p style="color: #ffffff; text-shadow: 0.5px 0.5px">Reproducibility in the healthcare text analytics</p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-      <p>Evaluation and assessment of text analytics methods</p>
+       <p style="color: #ffffff; text-shadow: 0.5px 0.5px">Evaluation and assessment of text analytics methods</p>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <p>Sharing resources for healthcare text analytics (data and methods)</p>
+       <p style="color: #ffffff; text-shadow: 0.5px 0.5px">Sharing resources for healthcare text analytics (data and methods)</p>
     </div>
   </div>
 </div>
@@ -187,19 +187,19 @@ Healthcare narrative (such as clinical notes, discharge letters, nurse handover 
 <div class="row">
   <div class="column">
     <div class="card">
-      <p>Information extraction: identification of clinical variables and their values in free-text</p>
+       <p style="color: #ffffff; text-shadow: 0.5px 0.5px">Information extraction: identification of clinical variables and their values in free-text</p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-      <p>Processing patient-generated data (e.g. social media, health forums, diaries)</p>
+       <p style="color: #ffffff; text-shadow: 0.5px 0.5px">Processing patient-generated data (e.g. social media, health forums, diaries)</p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-      <p>Implementation of healthcare text analytics in practice: public engagement and governance</p>
+       <p style="color: #ffffff; text-shadow: 0.5px 0.5px">Implementation of healthcare text analytics in practice: public engagement and governance</p>
     </div>
   </div>
 </div>
