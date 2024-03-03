@@ -9,8 +9,8 @@ title: "Dates"
 
 th, td {
   text-align: left;
-  padding: 15px;
-  font-size: 18px;
+  padding: 12px;
+  font-size: 16px;
 }
 
 h1, h2, h3, h4, h5 {
@@ -32,28 +32,28 @@ tr:nth-child(odd) {
 
 <table>
   <tr>
-    <td style="color: #ffffff; text-shadow: 0.2px 0.2px"><b>Events</b></td>
-    <td style="color: #ffffff; text-shadow: 0.2px 0.2px"><b>Dates</b></td>
+    <td style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>Events</b></td>
+    <td style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>Dates</b></td>
   </tr>
   <tr>
      <td style="text-shadow: 0.1px 0.1px;"><b>First Call</b></td>
-     <td style="text-shadow: 0.1px 0.1px;">February 2, 2024</td>
+     <td style="text-shadow: 0.1px 0.1px;"><b>February 2, 2024</b></td>
   </tr>
   <tr>
-    <td style="color: #ffffff; text-shadow: 0.2px 0.2px">Submission template available</td>
-    <td style="color: #ffffff; text-shadow: 0.2px 0.2px">February 2, 2024</td>
+    <td style="color: #ffffff;  text-shadow: 0.1px 0.1px"><b>Submission template available</b></td>
+    <td style="color: #ffffff;  text-shadow: 0.1px 0.1px"><b>February 2, 2024</b></td>
   </tr>
   <tr>
-    <td style="text-shadow: 0.2px 0.2px;">Deadline for all contributions</td>
-    <td style="text-shadow: 0.2px 0.2px;">March 28, 2024</td>
+    <td style="text-shadow: 0.1px 0.1px"><b>Deadline for all contributions</b></td>
+    <td style=" text-shadow: 0.1px 0.1px"><b>March 28, 2024</b></td>
   </tr>
   <tr>
-    <td style="color: #ffffff; text-shadow: 0.2px 0.2px">Notification of acceptance</td>
-    <td style="color: #ffffff; text-shadow: 0.2px 0.2px">April 19, 2024</td>
+    <td style="color: #ffffff;  text-shadow: 0.1px 0.1px"><b>Notification of acceptance</b></td>
+    <td style="color: #ffffff;  text-shadow: 0.1px 0.1px"><b>April 19, 2024</b></td>
   </tr>
   <tr>
-    <td style="text-shadow: 0.2px 0.2px;">Conference</td>
-    <td style="text-shadow: 0.2px 0.2px;">June 12-14, 2024</td>
+    <td style=" text-shadow: 0.1px 0.1px"><b>Conference</b></td>
+    <td style=" text-shadow: 0.1px 0.1px"><b>June 12-14, 2024</b></td>
   </tr>
 </table>
 
