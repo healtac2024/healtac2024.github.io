@@ -23,7 +23,7 @@ body {
 .column {
   float: left;
   width: 30%;
-  padding: 0 10px;
+  padding: 0 5px;
 }
 
 /* Remove extra left and right margins, due to padding */
