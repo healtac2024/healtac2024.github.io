@@ -12,7 +12,7 @@ body {
     font-size: 16px;
 } 
 h1, h2, h4, h5 {
-  font-size: 25px;
+  font-family: 'Akaya Telivigala'; font-size: 25px;
 }
 h3 {
   font-size: 18px;
