@@ -50,7 +50,7 @@ body {
   box-shadow: 0 2px 6px 0 rgba(0.2, 0.2, 0.2, 0.2);
   padding: 10px;
   text-align: center;
-  background-color: #29a391;
+  background-color: #73c4b8;
 }
 </style>
 </head>
@@ -73,13 +73,13 @@ Healthcare narrative (such as clinical notes, discharge letters, nurse handover 
 
   <div class="column">
     <div class="card">
-      <p style="color:#f0f0f0;">Machine-learning approaches to healthcare text analytics</p>
+      <p style="color:#6b6b6b;">Machine-learning approaches to healthcare text analytics</p>
     </div>
   </div>
   
    <div class="column">
     <div class="card">
-      <p style="color:#29a391;">Transfer learning for healthcare text analytics</p>
+      <p style="color:##636363;">Transfer learning for healthcare text analytics</p>
     </div>
   </div>
 </div>
@@ -87,7 +87,7 @@ Healthcare narrative (such as clinical notes, discharge letters, nurse handover 
 <div class="row">
   <div class="column">
     <div class="card">
-      <p>Speech analytics for healthcare applications</p>
+      <p style="color:#6b6b6b;">Speech analytics for healthcare applications</p>
     </div>
   </div>
   
