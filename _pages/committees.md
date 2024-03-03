@@ -8,10 +8,10 @@ title: "Committees"
 <head>
 <style>
 body {
-    font-size: 20px;
+    font-size: 16px;
 } 
 h1, h2, h3, h4, h5 {
-  font-size: 23px;
+  font-size: 18px;
 }
 </style>
 </head>
@@ -86,15 +86,12 @@ h1, h2, h3, h4, h5 {
 <div class="w3-container">
   <div class="w3-card-4" style="width:50%;">
     <header class="w3-container w3-teal">
-      <h3 style="color: #ffffff; text-shadow: 0.1px 0.1px">Tutorials and Workshops Chairs</b></h3>
+      <h3 style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>Tutorials and Workshops Chairs</b></h3>
     </header>
     <div class="w3-container">
       <p> </p>
       <p style="color:#6b6b6b; text-shadow: 0.1px 0.1px"><b>TBA</b></p>
     </div>
-    <footer class="w3-container w3-teal">
-      <h5> </h5>
-    </footer>
   </div>
 </div>
 <p> </p>
