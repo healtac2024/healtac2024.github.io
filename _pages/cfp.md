@@ -67,13 +67,13 @@ Healthcare narrative (such as clinical notes, discharge letters, nurse handover 
 <div class="row">
   <div class="column">
     <div class="card">
-      <p style="color: #ffffff; text-shadow: 0.5px 0.5px">(Large) language models for healthcare text analytics</p>
+      <p style="color: #ffffff;"><b>(Large) language models for healthcare text analytics</b></p>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-       <p style="color: #ffffff; text-shadow: 0.5px 0.5px">Machine-learning approaches to healthcare text analytics</p>
+       <p style="color: #ffffff;"><b>Machine-learning approaches to healthcare text analytics</b></p>
     </div>
   </div>
   
