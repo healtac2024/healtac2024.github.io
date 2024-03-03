@@ -26,9 +26,6 @@ h1, h2, h3, h4, h5 {
       <p> </p>
       <p style="color:#6b6b6b; text-shadow: 0.1px 0.1px"><b>Paul Rayson, Lancaster University</b></p>
     </div>
-    <footer class="w3-container w3-teal">
-      <h5> </h5>
-    </footer>
   </div>
 </div>
 <p> </p>
@@ -43,9 +40,6 @@ h1, h2, h3, h4, h5 {
       <p style="color:#6b6b6b; text-shadow: 0.1px 0.1px"><b>Elizabeth Ford, Brighton and Sussex Medical School</b></p>
       <p style="color:#6b6b6b; text-shadow: 0.1px 0.1px"><b>Goran Nenadic, University of Manchester</b></p>
     </div>
-    <footer class="w3-container w3-teal">
-      <h5> </h5>
-    </footer>
   </div>
 </div>
 <p> </p>
@@ -60,9 +54,6 @@ h1, h2, h3, h4, h5 {
       <p style="color:#6b6b6b; text-shadow: 0.1px 0.1px"><b>Arlene Casey, University of Edinburgh</b></p>
       <p style="color:#6b6b6b; text-shadow: 0.1px 0.1px"><b>Ruizhe Li, University of Aberdeen</b></p>
     </div>
-    <footer class="w3-container w3-teal">
-      <h5> </h5>
-    </footer>
   </div>
 </div>
 <p> </p>
@@ -76,9 +67,6 @@ h1, h2, h3, h4, h5 {
       <p> </p>
       <p style="color:#6b6b6b; text-shadow: 0.1px 0.1px"><b>TBA</b></p>
     </div>
-    <footer class="w3-container w3-teal">
-      <h5> </h5>
-    </footer>
   </div>
 </div>
 <p> </p>
@@ -106,9 +94,6 @@ h1, h2, h3, h4, h5 {
       <p style="color:#6b6b6b; text-shadow: 0.1px 0.1px"><b>Jaya Chaturvedi, King's College London</b></p>
       <p style="color:#6b6b6b; text-shadow: 0.1px 0.1px"><b>Daisy Harvey, Lancaster University</b></p>
     </div>
-    <footer class="w3-container w3-teal">
-      <h5> </h5>
-    </footer>
   </div>
 </div>
 <p> </p>
@@ -122,9 +107,6 @@ h1, h2, h3, h4, h5 {
       <p> </p>
       <p style="color:#6b6b6b; text-shadow: 0.1px 0.1px"><b>Phoey Lee Teh, Prifysgol Wrecsam / Wrexham University</b></p>
     </div>
-    <footer class="w3-container w3-teal">
-      <h5> </h5>
-    </footer>
   </div>
 </div>
 <p> </p>
@@ -144,9 +126,9 @@ h1, h2, h3, h4, h5 {
       <p style="color:#6b6b6b; text-shadow: 0.1px 0.1px"><b>Ruslan Mitkov, Lancaster University</b></p>
       <p style="color:#6b6b6b; text-shadow: 0.1px 0.1px"><b>Scott Piao, Lancaster University</b></p>
     </div>
-    <footer class="w3-container w3-teal">
+<!--     <footer class="w3-container w3-teal">
       <h5> </h5>
-    </footer>
+    </footer> -->
   </div>
 </div>
 <p> </p>
@@ -164,9 +146,9 @@ h1, h2, h3, h4, h5 {
       <p style="color:#6b6b6b; text-shadow: 0.1px 0.1px"><b>Honghan Wu, University College London</b></p>
       <p style="color:#6b6b6b; text-shadow: 0.1px 0.1px"><b>TBA</b></p>
     </div>
-    <footer class="w3-container w3-teal">
+<!--     <footer class="w3-container w3-teal">
       <h5> </h5>
-    </footer>
+    </footer> -->
   </div>
 </div>
 </body>
