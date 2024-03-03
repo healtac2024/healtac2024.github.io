@@ -20,7 +20,7 @@ body {
     font-size: 16px;
 } 
 
-tr:nth-child(odd) {
+tr:1st-child {
   background-color: #009999;
   font-size: 16px;
 }
@@ -36,20 +36,20 @@ tr:nth-child(odd) {
     <td style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>Dates</b></td>
   </tr>
   <tr>
-     <td style="color: #6b6b6b; text-shadow: 0.1px 0.1px;"><b>First Call</b></td>
-     <td style="color: #6b6b6b; text-shadow: 0.1px 0.1px;"><b>February 2, 2024</b></td>
+     <td style="color: #6b6b6b; text-shadow: 0.1px 0.1px"><b>First Call</b></td>
+     <td style="color: #6b6b6b; text-shadow: 0.1px 0.1px"><b>February 2, 2024</b></td>
   </tr>
   <tr>
-    <td style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>Submission template available</b></td>
-    <td style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>February 2, 2024</b></td>
+    <td style="color: #6b6b6b; text-shadow: 0.1px 0.1px"><b>Submission template available</b></td>
+    <td style="color: #6b6b6b; text-shadow: 0.1px 0.1px"><b>February 2, 2024</b></td>
   </tr>
   <tr>
     <td style="color: #6b6b6b; text-shadow: 0.1px 0.1px"><b>Deadline for all contributions</b></td>
     <td style="color: #6b6b6b; text-shadow: 0.1px 0.1px"><b>March 28, 2024</b></td>
   </tr>
   <tr>
-    <td style="color: #ffffff;  text-shadow: 0.1px 0.1px"><b>Notification of acceptance</b></td>
-    <td style="color: #ffffff;  text-shadow: 0.1px 0.1px"><b>April 19, 2024</b></td>
+    <td style="color: #6b6b6b;  text-shadow: 0.1px 0.1px"><b>Notification of acceptance</b></td>
+    <td style="color: #6b6b6b;  text-shadow: 0.1px 0.1px"><b>April 19, 2024</b></td>
   </tr>
   <tr>
     <td style="color: #6b6b6b; text-shadow: 0.1px 0.1px"><b>Conference</b></td>
