@@ -20,10 +20,6 @@ body {
     font-size: 16px;
 } 
 
-tr:1st-child {
-  background-color: #009999;
-  font-size: 16px;
-}
 </style>
 </head>
 <body>
@@ -32,8 +28,8 @@ tr:1st-child {
 
 <table>
   <tr>
-    <td style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>Events</b></td>
-    <td style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>Dates</b></td>
+    <td style="text-shadow: 0.1px 0.1px"><b>EVENTS</b></td>
+    <td style="text-shadow: 0.1px 0.1px"><b>DATES</b></td>
   </tr>
   <tr>
      <td style="color: #6b6b6b; text-shadow: 0.1px 0.1px"><b>First Call</b></td>
