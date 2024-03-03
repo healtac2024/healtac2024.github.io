@@ -150,9 +150,9 @@ h3 {
       <p style="color:#6b6b6b; text-shadow: 0.1px 0.1px"><b>Honghan Wu, University College London</b></p>
       <p style="color:#6b6b6b; text-shadow: 0.1px 0.1px"><b>TBA</b></p>
     </div>
-<!--     <footer class="w3-container w3-teal">
-      <h5> </h5>
-    </footer> -->
+              <!--     <footer class="w3-container w3-teal">
+         <h5> </h5>
+       </footer> -->
   </div>
 </div>
 </body>
