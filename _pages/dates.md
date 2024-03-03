@@ -9,20 +9,20 @@ title: "Dates"
 
 th, td {
   text-align: left;
-  padding: 20px;
+  padding: 18px;
   font-size: 18px;
 }
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Akaya Telivigala';font-size:25px;
+  font-size:25px;
 }
 body {
-    font-family: 'Akaya Telivigala';font-size: 18px;
+    font-size: 18px;
 } 
 
 tr:nth-child(odd) {
   background-color: #009999;
-  font-family: 'Akaya Telivigala';font-size: 18px;
+  font-size: 18px;
 }
 </style>
 </head>
@@ -32,28 +32,28 @@ tr:nth-child(odd) {
 
 <table>
   <tr>
-    <td>Events</td>
-    <td>Dates</td>
+    <td><b>Events</b></td>
+    <td><b>Dates</b></td>
   </tr>
   <tr>
-     <td>First Call</td>
-     <td>February 2, 2024</td>
+     <td><b>First Call</b></td>
+     <td><b>February 2, 2024</b></td>
   </tr>
   <tr>
-    <td> Submission template available</td>
-    <td>February 2, 2024</td>
+    <td><b>Submission template available</b></td>
+    <td><b>February 2, 2024</b></td>
   </tr>
   <tr>
-    <td>Deadline for all contributions</td>
-    <td>March 28, 2024</td>
+    <td><b>Deadline for all contributions</b></td>
+    <td><b>March 28, 2024</b></td>
   </tr>
   <tr>
-    <td>Notification of acceptance</td>
-    <td>April 19, 2024</td>
+    <td><b>Notification of acceptance</b></td>
+    <td><b>April 19, 2024</b></td>
   </tr>
   <tr>
-    <td>Conference</td>
-    <td>June 12-14, 2024</td>
+    <td><b>Conference</b></td>
+    <td><b>June 12-14, 2024</b></td>
   </tr>
 </table>
 
