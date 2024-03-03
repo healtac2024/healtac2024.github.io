@@ -32,28 +32,28 @@ tr:nth-child(odd) {
 
 <table>
   <tr>
-    <td><b>Events</b></td>
-    <td><b>Dates</b></td>
+    <td style="color: #ffffff; text-shadow: 0.2px 0.2px">Events</td>
+    <td style="color: #ffffff; text-shadow: 0.2px 0.2px">Dates</td>
   </tr>
   <tr>
-     <td><b>First Call</b></td>
-     <td><b>February 2, 2024</b></td>
+     <td style="text-shadow: 0.2px 0.2px;">First Call</td>
+     <td style="text-shadow: 0.2px 0.2px;">February 2, 2024</td>
   </tr>
   <tr>
-    <td><b>Submission template available</b></td>
-    <td><b>February 2, 2024</b></td>
+    <td style="color: #ffffff; text-shadow: 0.2px 0.2px">Submission template available</td>
+    <td style="color: #ffffff; text-shadow: 0.2px 0.2px"><b>February 2, 2024</td>
   </tr>
   <tr>
-    <td><b>Deadline for all contributions</b></td>
-    <td><b>March 28, 2024</b></td>
+    <td style="text-shadow: 0.2px 0.2px;"><b>Deadline for all contributions</td>
+    <td style="text-shadow: 0.2px 0.2px;"><b>March 28, 2024</td>
   </tr>
   <tr>
-    <td><b>Notification of acceptance</b></td>
-    <td><b>April 19, 2024</b></td>
+    <td style="color: #ffffff; text-shadow: 0.2px 0.2px"><b>Notification of acceptance</td>
+    <td style="color: #ffffff; text-shadow: 0.2px 0.2px"><b>April 19, 2024</td>
   </tr>
   <tr>
-    <td><b>Conference</b></td>
-    <td><b>June 12-14, 2024</b></td>
+    <td style="text-shadow: 0.2px 0.2px;"><b>Conference</td>
+    <td style="text-shadow: 0.2px 0.2px;"><b>June 12-14, 2024</td>
   </tr>
 </table>
 
