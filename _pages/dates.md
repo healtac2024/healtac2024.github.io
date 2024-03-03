@@ -9,7 +9,7 @@ title: "Dates"
 
 th, td {
   text-align: left;
-  padding: 18px;
+  padding: 15px;
   font-size: 18px;
 }
 
