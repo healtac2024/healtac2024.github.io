@@ -13,7 +13,7 @@ title: "Calls"
   box-sizing: border-box;
 }
 h1, h2, h3, h4, h5 {
-  font-family: 'Akaya Telivigala';font-size: 25px; font-color: #29a391;
+  font-family: 'Akaya Telivigala';font-size: 25px; font-color: #009999;
 }
 body {
     font-family: 'Akaya Telivigala';font-size: 23px; font-color: #6b6b6b;
@@ -50,36 +50,36 @@ body {
   box-shadow: 0 2px 6px 0 rgba(0.2, 0.2, 0.2, 0.2);
   padding: 10px;
   text-align: center;
-  background-color: #73c4b8;
+  background-color: #009999;
 }
 </style>
 </head>
 
 <body>
 
-<h2 style="color:#29a391;">Call for contributions</h2>
+<h2 style="color:#009999;">Call for contributions</h2>
 Healthcare narrative (such as clinical notes, discharge letters, nurse handover notes, imaging reports, patients posts on social media or feedback comments, etc.) has been used as a key communication stream that contains the majority of actionable and contextualised healthcare data, but which – despite being increasingly available in a digital form – is not routinely analysed, and is rarely integrated with other healthcare data on a large-scale. There are many barriers and challenges in processing healthcare free text, including, for example, the variability and implicit nature of language expressions, and difficulties in sharing training and evaluation data. On the other hand, recent years have witnessed increasing opportunities to process free text, with a number of success stories that have demonstrated the feasibility of using advanced Natural Language Processing to unlock evidence contained in free text to support clinical care, patient self-management, epidemiological research and audit.
 
-<h2 style="color:#29a391;">Topics</h2>
+<h2 style="color:#009999;">Topics</h2>
 <p> HealTAC 2024 invites contributions that address any aspect of healthcare text analytics, including (but not limited to) the following topics: </p>
 <p> </p>
 
 <div class="row">
   <div class="column">
     <div class="card">
-      <p style="color:#f0f0f0;">(Large) language models for healthcare text analytics</p>
+      <p style="color: #ffffff; text-shadow: 1px 1px">(Large) language models for healthcare text analytics</p>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <p style="color:#6b6b6b;">Machine-learning approaches to healthcare text analytics</p>
+      <p style="color: #ffffff; text-shadow: 1px 1px">Machine-learning approaches to healthcare text analytics</p>
     </div>
   </div>
   
    <div class="column">
     <div class="card">
-      <p style="color:##636363;">Transfer learning for healthcare text analytics</p>
+      <p style="color: #ffffff;">Transfer learning for healthcare text analytics</p>
     </div>
   </div>
 </div>
