@@ -9,8 +9,8 @@ title: "Dates"
 
 th, td {
   text-align: left;
-  padding: 12px;
-  font-size: 16px;
+  padding: 10px;
+  font-size: 23px;
 }
 
 h1, h2, h3, h4, h5 {
