@@ -28,8 +28,8 @@ body {
 
 <table>
   <tr>
-    <td style="text-shadow: 0.1px 0.1px"><b>EVENTS</b></td>
-    <td style="text-shadow: 0.1px 0.1px"><b>DATES</b></td>
+    <td style="text-shadow: 0.1px 0.1px; color:#009999"><b>EVENTS</b></td>
+    <td style="text-shadow: 0.1px 0.1px; color:#009999"><b>DATES</b></td>
   </tr>
   <tr>
      <td style="color: #6b6b6b; text-shadow: 0.1px 0.1px"><b>First Call</b></td>
