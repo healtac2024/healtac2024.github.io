@@ -15,7 +15,7 @@ h1, h2, h4, h5 {
   font-family: 'Akaya Telivigala'; font-size: 25px;
 }
 h3 {
-  font-size: 18px;
+  font-size: 23px;
 }
 </style>
 </head>
