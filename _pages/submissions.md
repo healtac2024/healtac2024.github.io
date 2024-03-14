@@ -12,7 +12,7 @@ h1, h2, h3, h4, h5 {
 body {
     font-family: 'Akaya Telivigala'; font-color: #6b6b6b;
 } 
-  </style>
+</style>
 </head>
 <script src="https://cdn.logwork.com/widget/countdown.js"></script>
 <a href="https://logwork.com/countdown-timer" class="countdown-timer" data-style="columns" data-timezone="Europe/London" data-textcolor="#6b6b6b" data-date="2024-03-28 23:00" data-background="#ffffff" data-digitscolor="#009999" data-unitscolor="#6b6b6b">Submission ends in</a>
