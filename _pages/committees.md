@@ -9,10 +9,10 @@ title: "Committees"
 <head>
 <style>
 body {
-    font-size: 23px;
+    font-family: 'Akaya Telivigala';
 } 
-h1, h2, h3, h4, h5 {
-  font-family: 'Akaya Telivigala'; font-size: 25px;
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Akaya Telivigala';
 }
 
 </style>
@@ -39,8 +39,8 @@ h1, h2, h3, h4, h5 {
     </header>
     <div class="w3-container">
       <p> </p>
-      <p style="color:#6b6b6b;">Elizabeth Ford, Brighton and Sussex Medical School</p>
-      <p style="color:#6b6b6b;">Goran Nenadic, University of Manchester</p>
+      <p style="color:#6b6b6b;"><b>Elizabeth Ford, Brighton and Sussex Medical School</b>/p>
+      <p style="color:#6b6b6b;"><b>Goran Nenadic, University of Manchester</b></p>
     </div>
   </div>
 </div>
