@@ -10,14 +10,14 @@ title: "Dates"
 th, td {
   text-align: left;
   padding: 10px;
-  font-size: 23px;
+  font-family: 'Akaya Telivigala';
 }
 
-h1, h2, h3, h4, h5 {
-  font-size:25px;
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Akaya Telivigala';
 }
 body {
-    font-size: 23px;
+    
 }
 
 </style>
