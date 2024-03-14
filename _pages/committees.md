@@ -9,7 +9,7 @@ title: "Committees"
 <head>
 <style>
 body {
-    font-size: 16px;
+    font-size: 23px;
 } 
 h1, h2, h4, h5 {
   font-family: 'Akaya Telivigala'; font-size: 25px;
