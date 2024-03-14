@@ -39,7 +39,7 @@ h1, h2, h3, h4, h5, h6 {
     </header>
     <div class="w3-container">
       <p> </p>
-      <p style="color:#6b6b6b;"><b>Elizabeth Ford, Brighton and Sussex Medical School</b>/p>
+      <p style="color:#6b6b6b;"><b>Elizabeth Ford, Brighton and Sussex Medical School</b></p>
       <p style="color:#6b6b6b;"><b>Goran Nenadic, University of Manchester</b></p>
     </div>
   </div>
