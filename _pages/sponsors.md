@@ -17,13 +17,13 @@ body {
 <body>
 
 <p><a href="https://www.lancaster.ac.uk/dsi/">Data Science Institute, Lancaster University</a></p>
-<img src="../assets/images/DSI%20Logo%20small%20(1)%5B22%5D.jpg" style="width:350px;height:75px;">
+<img src="../assets/images/DSI%20Logo%20small%20(1)%5B22%5D.jpg" style="width:350px;height:60px;">
 
 <br>
 <br>
 
 <p><a href="http://healtex.org/">Healtex: UK Healthcare Text Analytics Network</a></p>
-<img src="../assets/images/Healtex%20Logo.jpeg" style="width:350px;height:90px;">
+<img src="../assets/images/Healtex%20Logo.jpeg" style="width:350px;height:85px;">
 
 </body>
 </html>
