@@ -35,7 +35,7 @@ h1, h2, h3, h4, h5, h6 {
 <div class="w3-container">
   <div class="w3-card-4" style="width:50%;">
     <header class="w3-container w3-teal">
-      <h3 style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>Programme Committee Co-chairs</b></h3>
+      <h4 style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>Programme Committee Co-chairs</b></h4>
     </header>
     <div class="w3-container">
       <p> </p>
@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
 <div class="w3-container">
   <div class="w3-card-4" style="width:50%;">
     <header class="w3-container w3-teal">
-      <h3 style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>PhD and ECR Forum Chairs</b></h3>
+      <h4 style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>PhD and ECR Forum Chairs</b></h4>
     </header>
     <div class="w3-container">
       <p> </p>
@@ -63,7 +63,7 @@ h1, h2, h3, h4, h5, h6 {
 <div class="w3-container">
   <div class="w3-card-4" style="width:50%;">
     <header class="w3-container w3-teal">
-      <h3 style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>Industrial Forum and Demos Chairs</b></h3>
+      <h4 style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>Industrial Forum and Demos Chairs</b></h4>
     </header>
     <div class="w3-container">
       <p> </p>
@@ -76,7 +76,7 @@ h1, h2, h3, h4, h5, h6 {
 <div class="w3-container">
   <div class="w3-card-4" style="width:50%;">
     <header class="w3-container w3-teal">
-      <h3 style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>Tutorials and Workshops Chairs</b></h3>
+      <h4 style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>Tutorials and Workshops Chairs</b></h4>
     </header>
     <div class="w3-container">
       <p> </p>
@@ -89,7 +89,7 @@ h1, h2, h3, h4, h5, h6 {
 <div class="w3-container">
   <div class="w3-card-4" style="width:50%;">
     <header class="w3-container w3-teal">
-      <h3 style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>Publicity Chairs</b></h3>
+      <h4 style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>Publicity Chairs</b></h4>
     </header>
     <div class="w3-container">
       <p> </p>
@@ -103,7 +103,7 @@ h1, h2, h3, h4, h5, h6 {
 <div class="w3-container">
   <div class="w3-card-4" style="width:50%;">
     <header class="w3-container w3-teal">
-      <h3 style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>Post-conference Publication Chair</b></h3>
+      <h4 style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>Post-conference Publication Chair</b></h4>
     </header>
     <div class="w3-container">
       <p> </p>
@@ -116,7 +116,7 @@ h1, h2, h3, h4, h5, h6 {
 <div class="w3-container">
   <div class="w3-card-4" style="width:50%;">
     <header class="w3-container w3-teal">
-      <h3 style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>Local Organisers</b></h3>
+      <h4 style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>Local Organisers</b></h4>
     </header>
     <div class="w3-container">
       <p> </p>
@@ -138,7 +138,7 @@ h1, h2, h3, h4, h5, h6 {
 <div class="w3-container">
   <div class="w3-card-4" style="width:50%;">
     <header class="w3-container w3-teal">
-      <h3 style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>Advisory Group and Program Committee</b></h3>
+      <h4 style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>Advisory Group and Program Committee</b></h4>
     </header>
     <div class="w3-container">
       <p> </p>
