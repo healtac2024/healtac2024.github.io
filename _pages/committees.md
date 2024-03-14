@@ -4,8 +4,8 @@ title: "Committees"
 ---
 
 <html>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<!-- <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> -->
 <head>
 <style>
 body {
@@ -22,7 +22,7 @@ h1, h2, h3, h4, h5, h6 {
 <div class="w3-container">
   <div class="w3-card-4" style="width:50%;">
     <header class="w3-container w3-teal">
-      <h3 style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>General Chair</b></h3>
+      <h4 style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>General Chair</b></h4>
     </header>
     <div class="w3-container">
       <p> </p>
