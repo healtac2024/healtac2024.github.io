@@ -16,143 +16,65 @@ h1, h2, h3, h4, h5, h6 {
 </style>
 </head>
 <body>
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> 
 
-<p> </p>
-<div class="w3-container">
-  <div class="w3-card-4" style="width:50%;">
-    <header class="w3-container w3-teal">
-      <h4 style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>General Chair</b></h4>
-    </header>
-    <div class="w3-container">
-      <p> </p>
-      <p style="color:#6b6b6b;"><b>Paul Rayson, Lancaster University</b></p>
-    </div>
-  </div>
-</div>
-<p> </p>
-<p> </p>
-<div class="w3-container">
-  <div class="w3-card-4" style="width:50%;">
-    <header class="w3-container w3-teal">
-      <h4 style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>Programme Committee Co-chairs</b></h4>
-    </header>
-    <div class="w3-container">
-      <p> </p>
-      <p style="color:#6b6b6b;"><b>Elizabeth Ford, Brighton and Sussex Medical School</b></p>
-      <p style="color:#6b6b6b;"><b>Goran Nenadic, University of Manchester</b></p>
-    </div>
-  </div>
-</div>
-<p> </p>
-<p> </p>
-<div class="w3-container">
-  <div class="w3-card-4" style="width:50%;">
-    <header class="w3-container w3-teal">
-      <h4 style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>PhD and ECR Forum Chairs</b></h4>
-    </header>
-    <div class="w3-container">
-      <p> </p>
-      <p style="color:#6b6b6b;"><b>Arlene Casey, University of Edinburgh</b></p>
-      <p style="color:#6b6b6b;"><b>Ruizhe Li, University of Aberdeen</b></p>
-    </div>
-  </div>
-</div>
-<p> </p>
-<p> </p>
-<div class="w3-container">
-  <div class="w3-card-4" style="width:50%;">
-    <header class="w3-container w3-teal">
-      <h4 style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>Industrial Forum and Demos Chairs</b></h4>
-    </header>
-    <div class="w3-container">
-      <p> </p>
-      <p style="color:#6b6b6b;"><b>TBA</b></p>
-    </div>
-  </div>
-</div>
-<p> </p>
-<p> </p>
-<div class="w3-container">
-  <div class="w3-card-4" style="width:50%;">
-    <header class="w3-container w3-teal">
-      <h4 style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>Tutorials and Workshops Chairs</b></h4>
-    </header>
-    <div class="w3-container">
-      <p> </p>
-      <p style="color:#6b6b6b;"><b>TBA</b></p>
-    </div>
-  </div>
-</div>
-<p> </p>
-<p> </p>
-<div class="w3-container">
-  <div class="w3-card-4" style="width:50%;">
-    <header class="w3-container w3-teal">
-      <h4 style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>Publicity Chairs</b></h4>
-    </header>
-    <div class="w3-container">
-      <p> </p>
-      <p style="color:#6b6b6b;"><b>Jaya Chaturvedi, King's College London</b></p>
-      <p style="color:#6b6b6b;"><b>Daisy Harvey, Lancaster University</b></p>
-    </div>
-  </div>
-</div>
-<p> </p>
-<p> </p>
-<div class="w3-container">
-  <div class="w3-card-4" style="width:50%;">
-    <header class="w3-container w3-teal">
-      <h4 style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>Post-conference Publication Chair</b></h4>
-    </header>
-    <div class="w3-container">
-      <p> </p>
-      <p style="color:#6b6b6b;"><b>Phoey Lee Teh, Prifysgol Wrecsam / Wrexham University</b></p>
-    </div>
-  </div>
-</div>
-<p> </p>
-<p> </p>
-<div class="w3-container">
-  <div class="w3-card-4" style="width:50%;">
-    <header class="w3-container w3-teal">
-      <h4 style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>Local Organisers</b></h4>
-    </header>
-    <div class="w3-container">
-      <p> </p>
-      <p style="color:#6b6b6b;"><b>Mo El-Haj, Lancaster University</b></p>
-      <p style="color:#6b6b6b;"><b>Richard Gnosill, Lancaster University</b></p>
-      <p style="color:#6b6b6b;"><b>Daisy Harvey, Lancaster University</b></p>
-      <p style="color:#6b6b6b;"><b>Nick King, Lancaster University</b></p>
-      <p style="color:#6b6b6b;"><b>Daisy Lal, Lancaster University</b></p>
-      <p style="color:#6b6b6b;"><b>Ruslan Mitkov, Lancaster University</b></p>
-      <p style="color:#6b6b6b;"><b>Scott Piao, Lancaster University</b></p>
-    </div>
-<!--     <footer class="w3-container w3-teal">
-      <h5> </h5>
-    </footer> -->
-  </div>
-</div>
-<p> </p>
-<p> </p>
-<div class="w3-container">
-  <div class="w3-card-4" style="width:50%;">
-    <header class="w3-container w3-teal">
-      <h4 style="color: #ffffff; text-shadow: 0.1px 0.1px"><b>Advisory Group and Program Committee</b></h4>
-    </header>
-    <div class="w3-container">
-      <p> </p>
-      <p style="color:#6b6b6b;"><b>Vishnu V Chandrabalan, Lancashire Teaching Hospitals NHS Foundation Trust</b></p>
-      <p style="color:#6b6b6b;"><b>Jo Knight, Lancaster University</b></p>
-      <p style="color:#6b6b6b;"><b>Angus Roberts, King’s College London</b></p>
-      <p style="color:#6b6b6b;"><b>Honghan Wu, University College London</b></p>
-      <p style="color:#6b6b6b;"><b>TBA</b></p>
-    </div>
-              <!--     <footer class="w3-container w3-teal">
-         <h5> </h5>
-       </footer> -->
-  </div>
-</div>
+<h4>General Chair</h4> 
+<ul>
+<p>Paul Rayson, Lancaster University<p>
+</ul>
+
+<h4>Programme Committee Co-chairs</h4>
+<ul>
+<p>Elizabeth Ford, Brighton and Sussex Medical School</p>
+<p>Goran Nenadic, University of Manchester</p>
+</ul>
+
+<h4>PhD and ECR Forum Chairs</h4>
+<ul>
+<p>Arlene Casey, University of Edinburgh</p>
+<p>Ruizhe Li, University of Aberdeen</p>
+</ul>
+    
+<h4>Industrial Forum and Demos Chairs</h4>
+<ul>
+<p>TBA</p>
+</ul>
+
+<h4>Tutorials and Workshops Chairs</h4>   
+<ul>
+	<p>TBA</p>
+</ul>
+
+<h4>Publicity Chairs</h4>
+<ul>
+<p>Jaya Chaturvedi, King's College, London</p>
+<p>Daisy Harvey, Lancaster University</p>
+</ul>
+
+<h4>Post-conference Publication Chair</h4>
+<ul>
+<p>Phoey Lee Teh, Prifysgol Wrecsam / Wrexham University</p>
+</ul>
+
+<h4>Local Organisers</h4>
+<ul>
+<p>Mo El-Haj, Lancaster University</p>
+      	<p>Richard Gnosill, Lancaster University</p>
+      	<p>Daisy Harvey, Lancaster University</p>
+      	<p>Nick King, Lancaster University</p>
+      <p>Daisy Lal, Lancaster University</p>
+<p>Ruslan Mitkov, Lancaster University</p>
+<p>Scott Piao, Lancaster University</p>
+</ul>
+
+<h4>Advisory Group and Programme Committee</h4>
+<ul>
+<p>Vishnu V Chandrabalan, Lancashire Teaching Hospitals, NHS Foundation Trust</p>
+<p>Jo Knight, Lancaster University</p>
+<p>Angus Roberts, King’s College, London</p>
+<p>Honghan Wu, University College London</p>
+<p>TBA</p>
+</ul>
+
 </body>
 </html>
 
