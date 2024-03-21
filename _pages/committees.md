@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6 {
 
 <h4>General Chair</h4> 
 <ul>
-<p>Paul Rayson, Lancaster University<p>
+<p>Paul Rayson, Lancaster University</p>
 </ul>
 
 <h4>Programme Committee Co-chairs</h4>
