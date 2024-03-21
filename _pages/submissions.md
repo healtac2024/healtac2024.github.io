@@ -35,7 +35,7 @@ Demo sessions will provide a forum for demonstration of solutions and projects t
 <h4 style="color:#009999;">Submission Template</h4>
 The submission template can be accessed here: <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fhealtac2024%2Fhealtac2024.github.io%2Fmain%2F_data%2Ftemplate-2024.docx&wdOrigin=BROWSELINK" download>Word</a>, <a href="https://github.com/healtac2024/healtac2024.github.io/blob/main/_data/Latex.zip" download>Latex</a>, <a href="https://www.overleaf.com/project/65fc6e5e08e977d59ec827e6" download>Overleaf</a>
 <p> </p>
-The submission site will open shortly.
+Submission link: Please use <a href="https://easychair.org/conferences/?conf=healtac2024">Easychair</a> for all submissions.
 </body>
 </html>
 
