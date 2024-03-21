@@ -45,11 +45,11 @@ body {
   </tr>
   <tr>
     <td style="color: #6b6b6b; text-shadow: 0.1px 0.1px"><b>Deadline for all contributions</b></td>
-    <td style="color: #6b6b6b; text-shadow: 0.1px 0.1px"><del>March 28, 2024</del><b>April 8, 2024</b></td>
+    <td style="color: #6b6b6b; text-shadow: 0.1px 0.1px"><del>March 28, 2024</del><b> April 8, 2024</b></td>
   </tr>
   <tr>
     <td style="color: #6b6b6b;  text-shadow: 0.1px 0.1px"><b>Notification of acceptance</b></td>
-    <td style="color: #6b6b6b;  text-shadow: 0.1px 0.1px"><del>April 24, 2024</del><b></b></td>
+    <td style="color: #6b6b6b;  text-shadow: 0.1px 0.1px"><del>April 19, 2024</del><b> April 24, 2024</b></td>
   </tr>
   <tr>
     <td style="color: #6b6b6b; text-shadow: 0.1px 0.1px"><b>Conference</b></td>
