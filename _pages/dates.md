@@ -27,7 +27,7 @@ tr:nth-child(even) {
 <body>
 <p>All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).</p>
 
-<table style="width:100%">
+<table>
   <tr>
     <th>Event</th>
     <th>Date</th>
