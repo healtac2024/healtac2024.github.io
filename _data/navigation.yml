@@ -4,11 +4,13 @@ main:
   - title: "Programme"
     url: /programme/
   - title: "Calls"
-    dropdown:
-      - page: First Call
-        url: /cfp/
-      - page: Second Call
-        url: /cfp/
+    url: /cfp/
+  # - title: "Calls"
+  #   dropdown:
+  #     - page: First Call
+  #       url: /cfp/
+  #     - page: Second Call
+  #       url: /cfp/
   - title: "Submissions"
     url: /submissions/
   - title: "Dates"
