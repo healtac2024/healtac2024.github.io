@@ -88,7 +88,6 @@ html {
       <div class="container">
         <h2>Alistair Johnson </h2>
         <p class="title">Glowyr, Inc.</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
         <p>The world has been in awe at the recent applications of sophisticated machine learning models derived from large datasets. Yet in medicine, we continue to use decades old algorithms to support patient care. Models for cancer progression are based upon staging guidelines defined in the 70s, patient severity of illness is estimated using a scoring system from the 90s, and our latest and greatest criteria for sepsis was a model with three input variables. The reasons for the technological naivety in medicine are multifactorial, but one aspect stands out: researchers simply do not have much data. In this talk I will highlight the MIMIC series of databases, a suite of publicly accessible deidentified medical records. I'll give an insider's view on how the electronic health records for thousands of individuals were comprehensively deidentified, transformed, and shared for research without harm to the individual's themselves. I'll overview the utility of this data, and highlight some of our own work on language modeling enabled by the broad access to deidentified free-text clinical notes. I'll conclude with my thoughts on how the field should better balance the benefits and risks of using patient data for research.</p>
          <a href="https://ca.linkedin.com/in/alistairewj"><button class="button">More info</button></a>
          <p> </p>
