@@ -14,8 +14,8 @@ main:
     url: /committees/
   - title: "Sponsors"
     url: /sponsors/
-  - title: "Venue"
-    url: /venue/
+  # - title: "Venue"
+  #   url: /venue/
   - title: "Second Call"
     url: /cfp2/
   - title: "News"
