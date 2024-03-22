@@ -2,15 +2,22 @@
 permalink: /cfp2/
 title: "Second Call"
 ---
+<html>
 <head>
 <style>
+h1, h2, h3, h4, h5 {
+  font-family: 'Akaya Telivigala';
+} 
+body {
+    font-family: 'Akaya Telivigala'; font-color: #6b6b6b;
+} 
 mark { 
   background-color:  rgba(150, 212, 212, 0.4);
   color: black;
 }
 </style>
 </head>
-<html>
+<body>
 <h3>Second call for contributions</h3>
 The 7th Healthcare Text Analytics Conference (HealTAC 2024) invites contributions that address any aspect of healthcare text analytics. This year, we invite submissions in the form of extended abstracts that describe either methodological or application work that has not been previously presented in a conference. Submissions (up to 2 pages) should be prepared based on a template that is available at the conference website. 
 We also invite PhD and fellowship project submissions that describe ongoing PhD research (any stage) or a planned fellowship application. The conference will provide an opportunity to receive constructive feedback from a panel of experts.
