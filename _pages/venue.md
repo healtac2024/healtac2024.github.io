@@ -63,7 +63,7 @@ title: "Venue"
 <!-- Photo Grid -->
 <div class="row"> 
   <div class="column">
-    <img src="/assets/images/town/20200411_183313724_iOS.jpeg" style="width:100%">
+    <img src="/assets/images/town/IMG_2.jpg" style="width:100%">
     <img src="/assets/images/town/IMG_5298.jpg" style="width:100%">
     <img src="/assets/images/town/IMG_6.jpg" style="width:100%">
     <img src="/assets/images/town/IMG_9566.jpg" style="width:100%">
@@ -71,7 +71,7 @@ title: "Venue"
     <img src="/assets/images/williamson_park/20240214_194800124_iOS.jpg" style="width:100%">
   </div>
   <div class="column">
-    <img src="/assets/images/town/IMG_2.jpg" style="width:100%">
+    <img src="/assets/images/town/IMG_3.jpg" style="width:100%">
     <img src="/assets/images/town/20200906_181532735_iOS.jpeg" style="width:100%">
     <img src="/assets/images/town/20240214_194800906_iOS.jpg" style="width:100%">
     <img src="/assets/images/town/20201224_150148482_iOS.jpeg" style="width:100%">
@@ -81,7 +81,7 @@ title: "Venue"
   <div class="column">
     <img src="/assets/images/town/IMG_1.jpg" style="width:100%">
     <img src="/assets/images/town/20240214_194801067_iOS.jpg" style="width:100%">
-    <img src="/assets/images/town/IMG_3.jpg" style="width:100%">
+    <img src="/assets/images/town/20200411_183313724_iOS.jpeg" style="width:100%">
     <img src="/assets/images/town/IMG_4534.jpg" style="width:100%">
     <img src="/assets/images/town/20200507_235850859_iOS 1.jpg" style="width:100%">
   </div>
