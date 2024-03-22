@@ -66,12 +66,11 @@ title: "Venue"
     <img src="/assets/images/town/20200411_183313724_iOS.jpeg" style="width:100%">
     <img src="/assets/images/town/IMG_5298.jpg" style="width:100%">
     <img src="/assets/images/town/IMG_6.jpg" style="width:100%">
-    <img src="/assets/images/town/IMG_9566.JPEG" style="width:100%">
+    <img src="/assets/images/town/IMG_9566.jpg" style="width:100%">
     <img src="/assets/images/town/20210620_190936783_iOS.jpeg" style="width:100%">
-    <img src="/assets/images/town/IMG_9781.JPEG" style="width:100%">
+    <img src="/assets/images/town/IMG_9781.jpg" style="width:100%">
   </div>
   <div class="column">
-    <img src="/assets/images/town/IMG_9549.JPEG" style="width:100%">
     <img src="/assets/images/town/IMG_2.jpg" style="width:100%">
     <img src="/assets/images/town/20240214_194800906_iOS.jpg" style="width:100%">
     <img src="/assets/images/town/20201224_150148482_iOS.jpeg" style="width:100%">
@@ -91,7 +90,7 @@ title: "Venue"
     <img src="/assets/images/town/IMG_2827.jpg" style="width:100%">
     <img src="/assets/images/town/20240214_194801121_iOS.jpg" style="width:100%">
     <img src="/assets/images/town/20240214_194800741_iOS.jpg" style="width:100%">
-    <img src="/assets/images/town/IMG_9762.JPEG" style="width:100%">
+    <img src="/assets/images/town/IMG_9762.jpg" style="width:100%">
     <img src="/assets/images/town/IMG_5.jpg" style="width:100%">
     <img src="/assets/images/williamson_park/20170618_173550831_iOS.jpg" style="width:100%">
   </div>
