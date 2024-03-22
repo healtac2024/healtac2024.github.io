@@ -65,7 +65,7 @@ html {
 </head>
 <body>
 
-<h2>Keynote Speakers</h2>
+<h3 style="color:#009999;">Keynote Speakers</h3>
 <br>
 
   <div class="column">
