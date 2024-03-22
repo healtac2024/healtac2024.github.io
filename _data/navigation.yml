@@ -1,31 +1,47 @@
-main:
-  - title: "Home"
-    url: /
-  - title: "Programme"
-    url: /programme/
-  - title: "Calls"
-    url: /cfp/
-  # - title: "Calls"
-  #   dropdown:
-  #     - page: First Call
-  #       url: /cfp/
-  #     - page: Second Call
-  #       url: /cfp/
-  - title: "Submissions"
-    url: /submissions/
-  - title: "Dates"
-    url: /dates/
-  - title: "Committees"
-    url: /committees/
-  - title: "Sponsors"
-    url: /sponsors/
-  # - title: "Venue"
-  #   url: /venue/
-  - title: "News"
-    url: /posts/
-#  - title: "Categories"
-#    url: /categories/
-#  - title: "Tags"
-#    url: /tags/
-#  - title: "About"
-#    url: /about/
+
+<html>
+<body>
+<a style="color:red;" href="https://healtac2024.github.io/dates/"> <p style="text-align:center;">Second call for contributions: deadline extended to April 8th.</p></a>
+<a  style="color:purple;" href="https://easychair.org/conferences/?conf=healtac2024"> <p style="text-align:center;">The submission link is now active.</p></a>
+<a  style="color:#009999;" href="https://easychair.org/conferences/?conf=healtac2024"> <p style="text-align:center;">Keynote speakers: Suzan Verberne and Alistair Johnson.</p></a>
+<a  style="color:blue;" href="https://easychair.org/conferences/?conf=healtac2024"> <p style="text-align:center;">Tutorial: ‘Healthcare Text Analytics in the Era of LLMs’  (12 June)</p></a>
+
+</body>
+</html>
+
+
+
+
+
+
+# main:
+#   - title: "Home"
+#     url: /
+#   - title: "Programme"
+#     url: /programme/
+#   - title: "Calls"
+#     url: /cfp/
+#   # - title: "Calls"
+#   #   dropdown:
+#   #     - page: First Call
+#   #       url: /cfp/
+#   #     - page: Second Call
+#   #       url: /cfp/
+#   - title: "Submissions"
+#     url: /submissions/
+#   - title: "Dates"
+#     url: /dates/
+#   - title: "Committees"
+#     url: /committees/
+#   - title: "Sponsors"
+#     url: /sponsors/
+#   # - title: "Venue"
+#   #   url: /venue/
+#   - title: "News"
+#     url: /posts/
+# #  - title: "Categories"
+# #    url: /categories/
+# #  - title: "Tags"
+# #    url: /tags/
+# #  - title: "About"
+# #    url: /about/
