@@ -16,7 +16,7 @@ html {
 
 .column {
   float: left;
-  width: 50%;
+  width: 60%;
   margin-bottom: 16px;
   padding: 0 8px;
 }
@@ -59,7 +59,7 @@ html {
 }
 
 .button:hover {
-  background-color: #555;
+  background-color: #009999
 }
 </style>
 </head>
@@ -70,11 +70,11 @@ html {
 
   <div class="column">
     <div class="card">
-      <img src="https://liacs.leidenuniv.nl/~verbernes/wordpress/wp-content/uploads/2020/04/pasfoto_SuzanVerberne_2019-640x640.jpg" alt="suzan" style="width:100%" style="width:100px;height:100px;">
+      <img src="https://liacs.leidenuniv.nl/~verbernes/wordpress/wp-content/uploads/2020/04/pasfoto_SuzanVerberne_2019-640x640.jpg" alt="suzan" style="width:100%">
       <div class="container">
         <h2>Suzan Verberne </h2>
         <p class="title">Professor of Natural Language Processing (NLP) </p>
-        <p>Large Language Models in healthcare: should we care more?</p>
+        <p stype>Large Language Models in healthcare: should we care more?</p>
         <p>ChatGPT can do a lot for us: it can serve as a text corrector, as a source of inspiration, as a programming aid, and as an interactive search engine. ChatGPT is also widely used in the health domain, both by doctors and patients. Large language models (LLMs) such as ChatGPT can write very convincing texts, but being able to write fluently is not the same as providing correct information. Should we worry about that? In my presentation I will first discuss our work on text mining from patient experiences, highlighting the challenges of extracting medical information from informal text. Then I will discuss the opportunities of using LLMs, and go into the risks and challenges. I will also make suggestions for responsible use of LLMs for medical applications.</p>
         <a href="https://liacs.leidenuniv.nl/~verbernes/"><button class="button">More info</button></a>
         <p> </p>
