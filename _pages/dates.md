@@ -4,31 +4,22 @@ title: "Dates"
 ---
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-
-th, td {
-  text-align: left;
-  padding: 10px;
-  font-family: 'Akaya Telivigala';
-}
-
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Akaya Telivigala';
 }
 body {
     font-family: 'Akaya Telivigala';
 }
-<style>
+
 table, th, td {
   border: 1px solid black;
+  font-family: 'Akaya Telivigala';
 }
 
 tr:nth-child(even) {
   background-color: rgba(150, 212, 212, 0.4);
 }
-</style>
-</head>
 </style>
 </head>
 
