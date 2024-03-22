@@ -19,42 +19,59 @@ h1, h2, h3, h4, h5, h6 {
 body {
     font-family: 'Akaya Telivigala';
 }
+<style>
+table, th, td {
+  border: 1px solid black;
+}
 
+tr:nth-child(even) {
+  background-color: rgba(150, 212, 212, 0.4);
+}
 </style>
 </head>
-<body>
+</style>
+</head>
 
+<body>
 <p>All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).</p>
 
-<table>
+<table style="width:70%">
   <tr>
-    <td style="text-shadow: 0.1px 0.1px; color:#009999"><b>EVENTS</b></td>
-    <td style="text-shadow: 0.1px 0.1px; color:#009999"><b>DATES</b></td>
+    <th>Event</th>
+    <th>Date</th>
+  </tr>
+  
+  <tr>
+    <td>First Call</td>
+    <td>February 2nd, 2024</td>
   </tr>
   <tr>
-     <td style="color: #6b6b6b; text-shadow: 0.1px 0.1px"><b>First Call</b></td>
-     <td style="color: #6b6b6b; text-shadow: 0.1px 0.1px"><b>February 2, 2024</b></td>
+    <td>Submission template available</td>
+    <td>February 2nd, 2024</td>
+  </tr> 
+  <tr>
+    <td>Submission template available</td>
+    <td>March 21st, 2024</td>
   </tr>
   <tr>
-    <td style="color: #6b6b6b; text-shadow: 0.1px 0.1px"><b>Submission template available</b></td>
-    <td style="color: #6b6b6b; text-shadow: 0.1px 0.1px"><b>February 2, 2024</b></td>
+    <td>Deadline for all contributions</td>
+    <td>March 28th, 2024 April 8th 2024</td>
+  </tr>
+
+  <tr>
+  	<td>Notification of acceptance</td>
+    <td>April 19th, 2024 April 24th 2024</td>
   </tr>
     <tr>
-    <td style="color: #6b6b6b; text-shadow: 0.1px 0.1px"><b>Latex template available</b></td>
-    <td style="color: #6b6b6b; text-shadow: 0.1px 0.1px"><b>March 21, 2024</b></td>
+    <td>Tutorial</td>
+    <td>June 12th 2024 </td>
+  </tr>
+    <tr>
+    <td>Conference</td>
+    <td>June 13-14th 2024 June 13-14th 2024</td>
   </tr>
   <tr>
-    <td style="color: #6b6b6b; text-shadow: 0.1px 0.1px"><b>Deadline for all contributions</b></td>
-    <td style="color: #6b6b6b; text-shadow: 0.1px 0.1px"><del>March 28, 2024</del><b> April 8, 2024</b></td>
-  </tr>
-  <tr>
-    <td style="color: #6b6b6b;  text-shadow: 0.1px 0.1px"><b>Notification of acceptance</b></td>
-    <td style="color: #6b6b6b;  text-shadow: 0.1px 0.1px"><del>April 19, 2024</del><b> April 24, 2024</b></td>
-  </tr>
-  <tr>
-    <td style="color: #6b6b6b; text-shadow: 0.1px 0.1px"><b>Conference</b></td>
-    <td style="color: #6b6b6b; text-shadow: 0.1px 0.1px"><b>June 12-14, 2024</b></td>
-  </tr>
+
 </table>
 
 </body>
