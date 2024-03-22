@@ -4,10 +4,10 @@ main:
   - title: "Programme"
     url: /programme/
   - title: "Calls"
-    subfolderitems:
-      - title: First Call
+    dropdown:
+      - page: First Call
         url: /cfp/
-      - title: Second Call
+      - page: Second Call
         url: /cfp/
   - title: "Submissions"
     url: /submissions/
