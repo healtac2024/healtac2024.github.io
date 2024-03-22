@@ -6,6 +6,12 @@ title: "Programme"
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+h1, h2, h3, h4, h5 {
+  font-family: 'Akaya Telivigala';
+} 
+body {
+    font-family: 'Akaya Telivigala'; font-color: #6b6b6b;
+} 
 html {
   box-sizing: border-box;
 }
