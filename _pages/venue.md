@@ -68,23 +68,22 @@ title: "Venue"
     <img src="/assets/images/town/IMG_6.jpg" style="width:100%">
     <img src="/assets/images/town/IMG_9566.jpg" style="width:100%">
     <img src="/assets/images/town/20210620_190936783_iOS.jpeg" style="width:100%">
-    <img src="/assets/images/town/IMG_9781.jpg" style="width:100%">
+    <img src="/assets/images/williamson_park/20240214_194800124_iOS.jpg" style="width:100%">
   </div>
   <div class="column">
     <img src="/assets/images/town/IMG_2.jpg" style="width:100%">
+    <img src="/assets/images/town/20200906_181532735_iOS.jpeg" style="width:100%">
     <img src="/assets/images/town/20240214_194800906_iOS.jpg" style="width:100%">
     <img src="/assets/images/town/20201224_150148482_iOS.jpeg" style="width:100%">
     <img src="/assets/images/town/IMG_4.jpg" style="width:100%">
-    <img src="/assets/images/town/IMG_4534.jpg" style="width:100%">
-    <img src="/assets/images/williamson_park/20240214_194800124_iOS.jpg" style="width:100%">
+    <img src="/assets/images/town/20200504_174935135_iOS.jpeg" style="width:100%">
   </div>  
   <div class="column">
     <img src="/assets/images/town/IMG_1.jpg" style="width:100%">
     <img src="/assets/images/town/20240214_194801067_iOS.jpg" style="width:100%">
     <img src="/assets/images/town/IMG_3.jpg" style="width:100%">
-    <img src="/assets/images/town/20200906_181532735_iOS.jpeg" style="width:100%">
+    <img src="/assets/images/town/IMG_4534.jpg" style="width:100%">
     <img src="/assets/images/town/20200507_235850859_iOS 1.jpg" style="width:100%">
-    <img src="/assets/images/town/20200504_174935135_iOS.jpeg" style="width:100%">
   </div>
   <div class="column">
     <img src="/assets/images/town/IMG_2827.jpg" style="width:100%">
@@ -93,6 +92,7 @@ title: "Venue"
     <img src="/assets/images/town/IMG_9762.jpg" style="width:100%">
     <img src="/assets/images/town/IMG_5.jpg" style="width:100%">
     <img src="/assets/images/williamson_park/20170618_173550831_iOS.jpg" style="width:100%">
+    <img src="/assets/images/town/IMG_9781.jpg" style="width:100%">
   </div>
 </div>
 
