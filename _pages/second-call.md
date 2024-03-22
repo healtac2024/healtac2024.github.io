@@ -12,9 +12,9 @@ mark {
 </head>
 <html>
 <h3>Second call for contributions</h3>
-The 7th Healthcare Text Analytics Conference (HealTAC 2024) invites contributions that address any aspect of healthcare text analytics. This year, we invite submissions in the form of extended abstracts that describe either methodological or application work that has not been previously presented in a conference. Submissions (up to 2 pages) should be prepared based on a template that is available at the conference web site. 
+The 7th Healthcare Text Analytics Conference (HealTAC 2024) invites contributions that address any aspect of healthcare text analytics. This year, we invite submissions in the form of extended abstracts that describe either methodological or application work that has not been previously presented in a conference. Submissions (up to 2 pages) should be prepared based on a template that is available at the conference website. 
 We also invite PhD and fellowship project submissions that describe ongoing PhD research (any stage) or a planned fellowship application. The conference will provide an opportunity to receive constructive feedback from a panel of experts.
-As in previous years, there will be a post-conference open call to submit a journal length paper for further peer review and publication in Frontiers in Digital Health. 
+As in previous years, there will be a post-conference open call to submit a journal-length paper for further peer review and publication in Frontiers in Digital Health. 
 
 <h3>Submission site:</h3>
 <p><mark>https://easychair.org/conferences/?conf=healtac2024</mark><p>
