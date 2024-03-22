@@ -13,7 +13,7 @@ body {
     font-family: 'Akaya Telivigala';
 }
 
-table, tr, td {
+th, tr, td {
   border: 2px solid black;
   font-family: 'Akaya Telivigala';
 }
