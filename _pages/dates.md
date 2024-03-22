@@ -2,6 +2,7 @@
 permalink: /dates/
 title: "Dates"
 ---
+
 <html>
 <head>
 <style>
@@ -61,8 +62,6 @@ tr:nth-child(even) {
     <td>Conference</td>
     <td><del>June 13-14th 2024</del> June 13-14th 2024</td>
   </tr>
-  <tr>
-
 </table>
 
 </body>
