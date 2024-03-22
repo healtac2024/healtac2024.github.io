@@ -70,7 +70,7 @@ html {
 
   <div class="column">
     <div class="card">
-      <img src="https://liacs.leidenuniv.nl/~verbernes/wordpress/wp-content/uploads/2020/04/pasfoto_SuzanVerberne_2019-640x640.jpg" alt="suzan" style="width:100%" style="width:500px;height:500px;">
+      <img src="https://liacs.leidenuniv.nl/~verbernes/wordpress/wp-content/uploads/2020/04/pasfoto_SuzanVerberne_2019-640x640.jpg" alt="suzan" style="width:100%" style="width:100px;height:100px;">
       <div class="container">
         <h2>Suzan Verberne </h2>
         <p class="title">Professor of Natural Language Processing (NLP) </p>
