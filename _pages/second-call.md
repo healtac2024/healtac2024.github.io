@@ -23,7 +23,7 @@ As in previous years, there will be a post-conference open call to submit a jour
     <p><mark>Deadline for all contributions: <b>April 8th 2024</mark></b></p>
     <p><mark>Notification of acceptance: <b>April 24th 2024</b></mark></p>
     <p><mark>Tutorial: <b>June 12th 2024</mark></b></mark></p>
-    <p><mark>Conference: <b>June 13-14th 2024</b></p>
+    <p><mark>Conference: <b>June 13-14th 2024</b></mark></p>
 
 <h3> Keynote speakers </h3>
 We are pleased to announce that the keynote speakers at HealTAC 2024 will be:
