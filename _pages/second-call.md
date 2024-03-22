@@ -34,8 +34,8 @@ We are pleased to announce that the keynote speakers at HealTAC 2024 will be:
 <p>We are also pleased that a team from the Institute of Health Informatics, University College London (Yunsoo Kim, Jinge Wu, Honghan Wu) will deliver a tutorial on <b>'Healthcare Text Analytics in the Era of Large Language Models'</b>. </p>
 
 <h3>Announcements </h3>
-<p>Follow the conference announcements on social media at <b>#HEALTAC2024</b>
-We are looking forward to welcoming you to HealTAC 2024.</p>
+<p>Follow the conference announcements on social media at <mark><b>#HEALTAC2024</b></mark></p>
+<p></p>We are looking forward to welcoming you to HealTAC 2024.</p>
 
 </body>
 </html> 
