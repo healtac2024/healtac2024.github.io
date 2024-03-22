@@ -84,7 +84,7 @@ html {
   
   <div class="column">
     <div class="card">
-      <img src="https://github.com/healtac2024/healtac2024.github.io/blob/main/assets/images/alistair_johnsoncairem-birem.jpg" alt="alistair" style="width:100%">
+      <img src="/assets/images/alistair_johnsoncairem-birem.jpg" alt="alistair" style="width:100%">
       <div class="container">
         <h3>Alistair Johnson </h3>
         <p class="title">Glowyr, Inc.</p>
