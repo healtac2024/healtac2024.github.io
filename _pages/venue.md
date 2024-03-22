@@ -57,13 +57,12 @@ title: "Venue"
 
 <!-- Header -->
 <div class="header">
-  <h3>Lancaster</h3>
+  <h2>Lancaster</h2>
 </div>
 
 <!-- Photo Grid -->
 <div class="row"> 
   <div class="column">
-    <img src="/assets/images/williamson_park/20240214_194801296_iOS.jpg" style="width:100%">
     <img src="/assets/images/town/20200411_183313724_iOS.jpeg" style="width:100%">
     <img src="/assets/images/town/IMG_5298.jpg" style="width:100%">
     <img src="/assets/images/town/IMG_6.jpg" style="width:100%">
