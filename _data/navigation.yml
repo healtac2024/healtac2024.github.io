@@ -5,9 +5,9 @@ main:
     url: /programme/
   - title: "Calls"
     subfolderitems:
-      - page: First Call
+      - title: First Call
         url: /cfp/
-      - page: Second Call
+      - title: Second Call
         url: /cfp/
   - title: "Submissions"
     url: /submissions/
