@@ -18,3 +18,5 @@ main:
   #   url: /venue/
   - title: "News"
     url: /posts/
+  - title: "Second Call"
+    url: /cfp2/
