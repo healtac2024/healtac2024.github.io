@@ -4,11 +4,11 @@ main:
   - title: "Programme"
     url: /programme/
   - title: "Calls"
-      subfolderitems:
-        - page: First Call
-          href: /cfp/
-        - page: Second Call
-          href: /cfp/
+    subfolderitems:
+      - page: First Call
+        url: /cfp/
+      - page: Second Call
+        url: /cfp/
   - title: "Submissions"
     url: /submissions/
   - title: "Dates"
