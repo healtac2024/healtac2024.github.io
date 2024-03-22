@@ -35,7 +35,7 @@ We are pleased to announce that the keynote speakers at HealTAC 2024 will be:
 
 <h3>Announcements </h3>
 <p>Follow the conference announcements on social media at <mark><b>#HEALTAC2024</b></mark></p>
-<p></p>We are looking forward to welcoming you to HealTAC 2024.</p>
+<p>We are looking forward to welcoming you to HealTAC 2024.</p>
 
 </body>
 </html> 
