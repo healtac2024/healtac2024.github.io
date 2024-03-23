@@ -39,12 +39,12 @@ tr:nth-child(even) {
   </tr>
   
   <tr>
-    <td>Latex template available</td>
+    <td>Submission template available</td>
     <td>February 2nd, 2024</td>
   </tr> 
   
   <tr>
-    <td>Submission template available</td>
+    <td>Latex template available</td>
     <td>March 21st, 2024</td>
   </tr>
   
