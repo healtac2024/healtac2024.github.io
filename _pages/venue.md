@@ -19,9 +19,13 @@ h1, h2, h3, h4, h5, h6 {
 
 .container {
   position: relative;
-  max-width:800px;
+  max-width:1000px;
   margin: 0 auto;
 }
+	
+ .tab1 {
+            tab-size: 2;
+        }
 
 .container img {vertical-align: middle;}
 
@@ -31,8 +35,7 @@ h1, h2, h3, h4, h5, h6 {
   background: rgb(0, 0, 0); /* Fallback color */
   background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
   color: #f1f1f1;
-  width: 40%;
-  padding: auto;
+  width: 30%;
   height: 100%;
 }
 
@@ -167,12 +170,12 @@ div.scroll-container img {
 <div class="container">
   <img src="https://www.lancaster.ac.uk/media/lancaster-university/content-assets/images/facilities/conferences/Faraday-Featurebox2.jpg" alt="Notebook" style="height:100%;">
   <div class="content">
-    <h1>Conference Venue</h1>
-    <p>Faraday Complex</p>
-    <p>Lancaster University</p>
-	<p>Lancaster</p>
-	<p>United Kingdom</p>
-    <p>LA1 4YW</p>
+    <h2>Conference Venue</h2>
+    <pre class="tab1">Faraday Complex</pre>
+    <pre class="tab1">Lancaster University</pre>
+	<pre class="tab1">Lancaster</pre>
+	<pre class="tab1">United Kingdom</pre>
+    <pre class="tab1">LA1 4YW</pre>
   </div>
 </div>
 
