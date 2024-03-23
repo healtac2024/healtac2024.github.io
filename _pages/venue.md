@@ -74,7 +74,7 @@ permalink: /venue/
 }
 
 div.scroll-container {
-  background-color: #6b6b6b;
+  background-color: white;
   overflow: auto;
   white-space: nowrap;
   padding: 5px;
@@ -92,16 +92,16 @@ div.scroll-container img {
 </div>
 
 <div class="scroll-container">
-    <img src="/assets/images/town/IMG_2.jpg" width="300" height="300">
-    <img src="/assets/images/town/IMG_5298.jpg" width="300" height="300">
     <img src="/assets/images/town/IMG_6.jpg" width="300" height="300">
-    <img src="/assets/images/town/IMG_9566.jpg" width="300" height="300">
+    <img src="/assets/images/town/IMG_2.jpg" width="300" height="300">
     <img src="/assets/images/town/20210620_190936783_iOS.jpeg" width="300" height="300">
+    <img src="/assets/images/town/20240214_194800906_iOS.jpg" width="300" height="300">
+    <img src="/assets/images/town/20201224_150148482_iOS.jpeg" width="300" height="300">
+    <img src="/assets/images/town/IMG_5298.jpg" width="300" height="300">
+    <img src="/assets/images/town/IMG_9566.jpg" width="300" height="300">
     <img src="/assets/images/williamson_park/20240214_194800124_iOS.jpg" width="300" height="300">
     <img src="/assets/images/town/IMG_3.jpg" width="300" height="300">
     <img src="/assets/images/town/20200906_181532735_iOS.jpeg" width="300" height="300">
-    <img src="/assets/images/town/20240214_194800906_iOS.jpg" width="300" height="300">
-    <img src="/assets/images/town/20201224_150148482_iOS.jpeg" width="300" height="300">
     <img src="/assets/images/town/IMG_4.jpg" width="300" height="300">
     <img src="/assets/images/town/20200504_174935135_iOS.jpeg" width="300" height="300">
     <img src="/assets/images/town/IMG_1.jpg" width="300" height="300">
