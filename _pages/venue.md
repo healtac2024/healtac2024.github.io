@@ -1,6 +1,5 @@
 ---
 permalink: /venue/
-title: "Venue"
 ---
 <html>
 <style>
