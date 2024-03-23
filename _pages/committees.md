@@ -193,8 +193,8 @@ html {
   <div class="column">
     <div class="card">
       <div class="container">
-      	<br>
         <h3>General Chair</h3>
+	<br
         <p class="title">Paul Rayson, Lancaster University</p>
         <a href="https://www.lancaster.ac.uk/scc/about-us/people/paul-rayson"><button class="button">Contact</button></a>
         <p> </p>
@@ -209,8 +209,8 @@ html {
   <div class="column">
     <div class="card">
       <div class="container">
-      	<br>
         <h3>Programme Committee Co-chairs</h3>
+	<br>
          <div class="row">
   			<div class="column-1">
     			<div class="card-1">
@@ -246,8 +246,8 @@ html {
   <div class="column">
     <div class="card">
       <div class="container">
-      	<br>
         <h3>PhD and ECR Forum Chairs</h3>
+	<br>
         <div class="row">
   			<div class="column-1">
     			<div class="card-1">
@@ -283,9 +283,9 @@ html {
   <div class="column">
     <div class="card">
       <div class="container">
-      	<br>
         <h3>Industrial Forum and Demos Chairs</h3>
-			<p>TBA</p>
+	<br>
+            <p>TBA</p>
             <p> </p>
         <br>     
       </div>
@@ -299,8 +299,8 @@ html {
   <div class="column">
     <div class="card">
       <div class="container">
-      	<br>
         <h3>Tutorials and Workshops Chairs</h3>
+	<br>
         <p class="title"> Yunsoo Kim, Jinge Wu, Honghan Wu </p>
         <p class="title"> Health Informatics, University College London </p>
        <a href="https://healtac2024.github.io/blog/Tutorial/"><button class="button">More Info</button></a>
@@ -317,8 +317,8 @@ html {
   <div class="column">
     <div class="card">
       <div class="container">
-      	<br>
         <h3>Publicity Chairs</h3>
+	<br>
         <div class="row">
   			<div class="column-1">
     			<div class="card-1">
@@ -354,8 +354,8 @@ html {
   <div class="column">
     <div class="card">
       <div class="container">
-      	<br>
         <h3>Post-conference Publication Chair</h3>
+	<br>
         <p class="title">Phoey Lee Teh, Prifysgol Wrecsam / Wrexham University </p>
        <a href="https://wrexham.ac.uk/blog/posts/phoey-seminar-/"><button class="button">More Info</button></a>
        <p> </p>
@@ -371,8 +371,8 @@ html {
   <div class="column">
     <div class="card">
       <div class="container">
-      	<br>
         <h3>Local Organisers</h3>
+	<br>
          <div class="row">
   			<div class="column-2">
     			<div class="card-2">
@@ -464,8 +464,8 @@ html {
   <div class="column">
     <div class="card">
       <div class="container">
-      	<br>
         <h3>Advisory Group and Programme Committee</h3>
+	<br>
          <div class="row">
   			<div class="column-3">
     			<div class="card-3">
