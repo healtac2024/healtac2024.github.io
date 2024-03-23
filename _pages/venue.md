@@ -127,6 +127,7 @@ div.scroll-container img {
     <img src="/assets/images/town/IMG_3.jpg" width="300" height="300"> 
     <img src="/assets/images/town/IMG_4.jpg" width="300" height="300"> 
     <img src="/assets/images/town/IMG_9762.jpg" width="300" height="300">
+    <img src="/assets/images/town/IMG_2827.jpg" width="300" height="300">
     <img src="/assets/images/town/IMG_4534.jpg" width="300" height="300"> 
     <img src="/assets/images/town/IMG_9781.jpg" width="300" height="300">
     <img src="/assets/images/williamson_park/20170618_173550831_iOS.jpg" width="300" height="300">
