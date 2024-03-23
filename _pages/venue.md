@@ -32,7 +32,7 @@ h1, h2, h3, h4, h5, h6 {
   background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
   color: #f1f1f1;
   width: 40%;
-  padding: 51px;
+  padding: 50px;
 }
 
 .image-container {
@@ -148,6 +148,15 @@ div.scroll-container img {
 </div>
 
 <p> </p>
+<br>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<br>
 <p> </p>
 <p> </p>
 <p> </p>
@@ -164,13 +173,8 @@ div.scroll-container img {
 <p> </p>
 <p> </p>
 <p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
+<br>
+
 <div class="container">
   <img src="https://www.lancaster.ac.uk/media/lancaster-university/content-assets/images/facilities/conferences/Faraday-Featurebox2.jpg" alt="Notebook" style="width:100%;">
   <div class="content">
