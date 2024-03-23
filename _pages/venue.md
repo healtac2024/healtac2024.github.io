@@ -87,8 +87,6 @@ div.scroll-container img {
 </head>
 
 <body>
-
-<!-- Header -->
 <div class="image-container">
   <div class="text">LANCASTER</div>
 </div>
