@@ -171,11 +171,11 @@ div.scroll-container img {
   <img src="https://www.lancaster.ac.uk/media/lancaster-university/content-assets/images/facilities/conferences/Faraday-Featurebox2.jpg" alt="Notebook" style="height:100%;">
   <div class="content">
     <h2>Conference Venue</h2>
-    <pre class="tab1">Faraday Complex</pre>
-    <pre class="tab1">Lancaster University</pre>
-	<pre class="tab1">Lancaster</pre>
-	<pre class="tab1">United Kingdom</pre>
-    <pre class="tab1">LA1 4YW</pre>
+    <pre class="tab1">    Faraday Complex</pre>
+    <pre class="tab1">    Lancaster University</pre>
+	<pre class="tab1">    Lancaster</pre>
+	<pre class="tab1">    United Kingdom</pre>
+    <pre class="tab1">    LA1 4YW</pre>
   </div>
 </div>
 
