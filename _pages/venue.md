@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 	
 .image-container-1 {
-  background-image:  url("/assets/images/alex_square/20210205_170511772_iOS.jpeg");
+  background-image:  url("/assets/images/university/20230927_150034548_iOS.jpeg");
   background-size: cover;
   position: relative;
   height: 400px;
@@ -62,6 +62,22 @@ h1, h2, h3, h4, h5, h6 {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  mix-blend-mode: screen;
+}
+
+.text-1 {
+  background-color: white;
+  color: black;
+  font-size: 5vw; 
+  font-weight: bold;
+  margin: 0 auto;
+  padding: 10px;
+  width: 50%;
+  text-align: center;
+  position: absolute;
+  top: 30%;
+  left: 30%;
+  transform: translate(-30%, -30%);
   mix-blend-mode: screen;
 }
 
@@ -165,7 +181,7 @@ div.scroll-container img {
 <br>
 
 <div class="image-container-1">
-  <div class="text">LANCASTER UNIVERSITY</div>
+  <div class="text-1">LANCASTER UNIVERSITY</div>
 </div>
 
 <div class="scroll-container">
