@@ -32,7 +32,7 @@ h1, h2, h3, h4, h5, h6 {
   background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
   color: #f1f1f1;
   width: 40%;
-  padding: 50px;
+  padding: 49px;
 }
 
 .image-container {
