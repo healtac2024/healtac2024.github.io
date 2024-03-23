@@ -1,5 +1,5 @@
 ---
-permalink: /venue/
+permalink: /venue1/
 ---
 <html>
 <style>
