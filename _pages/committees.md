@@ -199,7 +199,6 @@ html {
         <p class="title">Paul Rayson, Lancaster University</p>
         <a href="https://www.lancaster.ac.uk/scc/about-us/people/paul-rayson"><button class="button">Contact</button></a>
         <p> </p>
-        <br>
       </div>
     </div>
   </div>
@@ -291,7 +290,6 @@ html {
 	<br>
             <p>TBA</p>
             <p> </p>
-        <br>     
       </div>
     </div>
   </div>
@@ -310,7 +308,6 @@ html {
         <p class="title"> Health Informatics, University College London </p>
        <a href="https://healtac2024.github.io/blog/Tutorial/"><button class="button">More Info</button></a>
        <p> </p>
-       <br>
       </div>
     </div>
   </div>
@@ -366,7 +363,6 @@ html {
         <p class="title">Phoey Lee Teh, Prifysgol Wrecsam / Wrexham University </p>
        <a href="https://wrexham.ac.uk/blog/posts/phoey-seminar-/"><button class="button">Contact</button></a>
        <p> </p>
-       <br>
       </div>
     </div>
   </div>
@@ -522,7 +518,6 @@ html {
 		</div>
       </div>
          <pre class="tab1">        TBA </pre>
-        <br>
     </div>
   </div>
 </div>
