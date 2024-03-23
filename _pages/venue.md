@@ -6,6 +6,28 @@ permalink: /venue/
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <style>
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  position: relative;
+  max-width:800px;
+  margin: 0 auto;
+}
+
+.container img {vertical-align: middle;}
+
+.container .content {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 40%;
+  padding: 53px;
+}
+
 .image-container {
   background-image:  url("/assets/images/main.jpg");
   background-size: cover;
@@ -115,6 +137,18 @@ div.scroll-container img {
 <!--     <img src="/assets/images/town/20240214_194801121_iOS.jpg" width="300" height="300"> 
     <img src="/assets/images/town/20240214_194800741_iOS.jpg" width="300" height="300"> -->
     <img src="/assets/images/town/IMG_9781.jpg" width="300" height="300">
+</div>
+
+<div class="container">
+  <img src="https://www.lancaster.ac.uk/media/lancaster-university/content-assets/images/facilities/conferences/Faraday-Featurebox2.jpg" alt="Notebook" style="width:100%;">
+  <div class="content">
+    <h1>Conference Venue</h1>
+    <p>Faraday Complex</p>
+    <p>Lancaster University</p>
+	<p>Lancaster</p>
+	<p>United Kingdom</p>
+    <p>LA1 4YW</p>
+  </div>
 </div>
 
 </body>
