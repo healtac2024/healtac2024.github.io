@@ -22,14 +22,14 @@ html {
 
 .column {
   float: left;
-  width: 80%;
+  width: auto;
   margin-bottom: 16px;
   padding: 0 8px;
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 1000px) {
   .column {
-    width: 100%;
+    width: auto;
     display: block;
   }
 }
@@ -100,7 +100,27 @@ html {
          <p> </p>
       </div>
     </div>
+    <br>
+    <br>
+    <br>
   </div>
 
+
+
+<h2> Tutorials </h2>
+<br>
+  <div class="column">
+    <div class="card">
+        <div class="container">
+        <br>
+        <h3>Healthcare Text Analytics in the Era of Large Language Models</h3>
+        <p>A team from the Institute of Health Informatics, University College London (Yunsoo Kim, Jinge Wu, Honghan Wu) will deliver a tutorial on'Healthcare Text Analytics in the Era of Large Language Models'. </p>
+
+<p>Recent advancements in large language models (LLMs), such as ChatGPT, has revolutionised the field of natural language processing (NLP) and opened new
+possibilities for healthcare text analytics. This tutorial, structured as a combination of lectures and demonstrations, aims to provide a comprehensive guide to leveraging large language models in the healthcare domain, focusing on advanced techniques and applications. The tutorial will begin with an overview of the open source LLMs, emphasising their potential in addressing complex challenges within healthcare text analytics. Special attention will be given to the unique issues surrounding privacy, security, and domain-specific nuances inherent in healthcare data. Participants will be guided through practical applications of LLMs in two distinct healthcare text domains: 1) Discharge Note Generation and 2) PubMed Abstract Information Extraction. Practical demonstrations will illustrate how LLMs can be tailored for each specific domain using prompting, in-context learning, instruction tuning (finetuning). Furthermore, we will delve into LLMs’ challenges in adapting to handle multi-modal data representations.</p>
+      </div>
+    </div>
+  </div>
+  
 </body>
 </html>
