@@ -6,17 +6,17 @@ main:
     url: /programme/
   - title: "Calls"
     url: /cfp/
+  - title: "Second Call"
+    url: /cfp2/
   - title: "Submissions"
     url: /submissions/
   - title: "Dates"
     url: /dates/
   - title: "Committees"
     url: /committees/
-  - title: "Sponsors"
-    url: /sponsors/
   - title: "Venue"
     url: /venue/
-  - title: "Second Call"
-    url: /cfp2/
+  - title: "Sponsors"
+    url: /sponsors/
   - title: "News"
     url: /posts/
