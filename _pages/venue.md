@@ -41,6 +41,13 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   height: 400px;
 }
+	
+.image-container-1 {
+  background-image:  url("/assets/images/alex_square/20210205_170511772_iOS.jpeg");
+  background-size: cover;
+  position: relative;
+  height: 400px;
+}
 
 .text {
   background-color: white;
@@ -122,7 +129,6 @@ div.scroll-container img {
 
 <div class="scroll-container">
     <img src="/assets/images/town/IMG_6.jpg" width="300" height="300">
-<!--     <img src="/assets/images/town/IMG_2.jpg" width="300" height="300"> -->
     <img src="/assets/images/town/20210620_190936783_iOS.jpeg" width="300" height="300">
     <img src="/assets/images/town/IMG_3.jpg" width="300" height="300"> 
     <img src="/assets/images/town/IMG_4.jpg" width="300" height="300"> 
@@ -131,48 +137,13 @@ div.scroll-container img {
     <img src="/assets/images/town/IMG_4534.jpg" width="300" height="300"> 
     <img src="/assets/images/town/IMG_9781.jpg" width="300" height="300">
     <img src="/assets/images/williamson_park/20170618_173550831_iOS.jpg" width="300" height="300">
-<!--     <img src="/assets/images/town/20240214_194800906_iOS.jpg" width="300" height="300"> -->
     <img src="/assets/images/town/20201224_150148482_iOS.jpeg" width="300" height="300">
     <img src="/assets/images/town/IMG_5298.jpg" width="300" height="300">
-<!--     <img src="/assets/images/town/IMG_9566.jpg" width="300" height="300">
-<!--     <img src="/assets/images/williamson_park/20240214_194800124_iOS.jpg" width="300" height="300"> -->
-<!--     <img src="/assets/images/town/20200906_181532735_iOS.jpeg" width="300" height="300"> -->
-<!--     <img src="/assets/images/town/20200504_174935135_iOS.jpeg" width="300" height="300">
-<!--     <img src="/assets/images/town/IMG_1.jpg" width="300" height="300"> -->
-<!--     <img src="/assets/images/town/20240214_194801067_iOS.jpg" width="300" height="300"> -->
-<!--     <img src="/assets/images/town/20200411_183313724_iOS.jpeg" width="300" height="300"> -->
-<!--     <img src="/assets/images/town/20200507_235850859_iOS 1.jpg" width="300" height="300">
-<!--     <img src="/assets/images/town/IMG_2827.jpg" width="300" height="300"> -->
-<!--     <img src="/assets/images/town/20240214_194801121_iOS.jpg" width="300" height="300"> 
-    <img src="/assets/images/town/20240214_194800741_iOS.jpg" width="300" height="300"> -->
 </div>
 
-<p> </p>
 <br>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
 <br>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
+<br>
 <br>
 
 <div class="container">
@@ -185,6 +156,29 @@ div.scroll-container img {
 	<p>United Kingdom</p>
     <p>LA1 4YW</p>
   </div>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+
+<div class="image-container-1">
+  <div class="text">LANCASTER UNIVERSITY</div>
+</div>
+
+<div class="scroll-container">
+    <img src="/assets/images/alex_square/20200530_194450255_iOS.jpeg" width="300" height="300">
+    <img src="/assets/images/university/20210620_190936783_iOS.jpeg" width="300" height="300">
+    <img src="/assets/images/university/20190831_144552336_iOS.jpg" width="300" height="300"> 
+    <img src="/assets/images/infolab/20210917_175340223_iOS.jpg" width="300" height="300"> 
+    <img src="/assets/images/university/20170501_135102767_iOS.jpg" width="300" height="300">
+    <img src="/assets/images/university/20240214_194800716_iOS.jpg" width="300" height="300">
+    <img src="/assets/images/university/FullSizeRender.jpg" width="300" height="300"> 
+    <img src="/assets/images/town/IMG_9781.jpg" width="300" height="300">
+    <img src="/assets/images/williamson_park/20170618_173550831_iOS.jpg" width="300" height="300">
+    <img src="/assets/images/town/20201224_150148482_iOS.jpeg" width="300" height="300">
+    <img src="/assets/images/town/IMG_5298.jpg" width="300" height="300">
 </div>
 
 </body>
