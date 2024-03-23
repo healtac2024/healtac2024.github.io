@@ -193,8 +193,9 @@ html {
   <div class="column">
     <div class="card">
       <div class="container">
-        <h3>General Chair</h3>
-	<br
+        <br>
+	<h3>General Chair</h3>
+	<br>
         <p class="title">Paul Rayson, Lancaster University</p>
         <a href="https://www.lancaster.ac.uk/scc/about-us/people/paul-rayson"><button class="button">Contact</button></a>
         <p> </p>
@@ -209,6 +210,7 @@ html {
   <div class="column">
     <div class="card">
       <div class="container">
+	<br>
         <h3>Programme Committee Co-chairs</h3>
 	<br>
          <div class="row">
@@ -246,6 +248,7 @@ html {
   <div class="column">
     <div class="card">
       <div class="container">
+	<br>
         <h3>PhD and ECR Forum Chairs</h3>
 	<br>
         <div class="row">
@@ -283,6 +286,7 @@ html {
   <div class="column">
     <div class="card">
       <div class="container">
+	<br>
         <h3>Industrial Forum and Demos Chairs</h3>
 	<br>
             <p>TBA</p>
@@ -299,6 +303,7 @@ html {
   <div class="column">
     <div class="card">
       <div class="container">
+	<br>
         <h3>Tutorials and Workshops Chairs</h3>
 	<br>
         <p class="title"> Yunsoo Kim, Jinge Wu, Honghan Wu </p>
@@ -317,6 +322,7 @@ html {
   <div class="column">
     <div class="card">
       <div class="container">
+	<br>
         <h3>Publicity Chairs</h3>
 	<br>
         <div class="row">
@@ -354,10 +360,11 @@ html {
   <div class="column">
     <div class="card">
       <div class="container">
+	<br>
         <h3>Post-conference Publication Chair</h3>
 	<br>
         <p class="title">Phoey Lee Teh, Prifysgol Wrecsam / Wrexham University </p>
-       <a href="https://wrexham.ac.uk/blog/posts/phoey-seminar-/"><button class="button">More Info</button></a>
+       <a href="https://wrexham.ac.uk/blog/posts/phoey-seminar-/"><button class="button">Contact</button></a>
        <p> </p>
        <br>
       </div>
@@ -371,6 +378,7 @@ html {
   <div class="column">
     <div class="card">
       <div class="container">
+        <br>
         <h3>Local Organisers</h3>
 	<br>
          <div class="row">
@@ -451,7 +459,6 @@ html {
       				</div>
     			</div>
   			</div>
-
 		</div>
       </div>
     </div>
@@ -464,6 +471,7 @@ html {
   <div class="column">
     <div class="card">
       <div class="container">
+        <br>
         <h3>Advisory Group and Programme Committee</h3>
 	<br>
          <div class="row">
