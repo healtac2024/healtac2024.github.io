@@ -35,7 +35,8 @@ h1, h2, h3, h4, h5, h6 {
   background: rgb(0, 0, 0); /* Fallback color */
   background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
   color: #f1f1f1;
-  width: 30%;
+  max-width: auto;
+  min-width: 30%;
   height: 100%;
 }
 
