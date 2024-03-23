@@ -172,6 +172,7 @@ div.scroll-container img {
     <img src="/assets/images/alex_square/20200530_194450255_iOS.jpeg" width="300" height="300">
     <img src="/assets/images/infolab/20210917_175340223_iOS.jpg" width="300" height="300"> 
     <img src="/assets/images/university/20170501_135102767_iOS.jpg" width="300" height="300">
+    <img src="/assets/images/alex_square/20210205_170511772_iOS.jpeg" width="300" height="300">
 </div>
 
 </body>
