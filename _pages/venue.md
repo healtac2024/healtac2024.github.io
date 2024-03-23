@@ -3,7 +3,7 @@ permalink: /venue/
 ---
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <style>
 body {
@@ -32,7 +32,8 @@ h1, h2, h3, h4, h5, h6 {
   background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
   color: #f1f1f1;
   width: 40%;
-  padding: 49px;
+  padding: auto;
+  height: 100%;
 }
 
 .image-container {
@@ -164,7 +165,7 @@ div.scroll-container img {
 <br>
 
 <div class="container">
-  <img src="https://www.lancaster.ac.uk/media/lancaster-university/content-assets/images/facilities/conferences/Faraday-Featurebox2.jpg" alt="Notebook" style="width:100%;">
+  <img src="https://www.lancaster.ac.uk/media/lancaster-university/content-assets/images/facilities/conferences/Faraday-Featurebox2.jpg" alt="Notebook" style="height:100%;">
   <div class="content">
     <h1>Conference Venue</h1>
     <p>Faraday Complex</p>
