@@ -6,6 +6,13 @@ permalink: /venue/
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <style>
+body {
+    font-family: 'Akaya Telivigala';
+} 
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Akaya Telivigala';
+}
+	
 * {
   box-sizing: border-box;
 }
@@ -25,7 +32,7 @@ permalink: /venue/
   background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
   color: #f1f1f1;
   width: 40%;
-  padding: 53px;
+  padding: 51px;
 }
 
 .image-container {
