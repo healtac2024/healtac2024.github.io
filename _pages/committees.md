@@ -187,7 +187,8 @@ html {
 </head>
 
 <body>
-
+<br>
+<br>
 <div class="row">
   <div class="column">
     <div class="card">
@@ -464,7 +465,7 @@ html {
     <div class="card">
       <div class="container">
       	<br>
-        <h3>Local Organisers</h3>
+        <h3>Advisory Group and Programme Committee</h3>
          <div class="row">
   			<div class="column-3">
     			<div class="card-3">
