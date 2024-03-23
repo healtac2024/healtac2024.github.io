@@ -49,6 +49,11 @@ tr:nth-child(even) {
   </tr>
   
   <tr>
+    <td>Submission site available</td>
+    <td>March 22nd, 2024</td>
+  </tr>
+  
+  <tr>
     <td>Deadline for all contributions</td>
     <td><del>March 28th, 2024</del> April 8th 2024</td>
   </tr>
