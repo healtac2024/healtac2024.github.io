@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
   background-image:  url("/assets/images/university/20230927_150034548_iOS.jpeg");
   background-size: cover;
   position: relative;
-  height: 400px;
+  height: 300px;
 }
 
 .text {
@@ -68,7 +68,7 @@ h1, h2, h3, h4, h5, h6 {
 .text-1 {
   background-color: white;
   color: black;
-  font-size: 5vw; 
+  font-size: 3vw; 
   font-weight: bold;
   margin: 0 auto;
   padding: 10px;
@@ -76,7 +76,7 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
   position: absolute;
   top: 30%;
-  left: 30%;
+  left: 20%;
   transform: translate(-30%, -30%);
   mix-blend-mode: screen;
 }
