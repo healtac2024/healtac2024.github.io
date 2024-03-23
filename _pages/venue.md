@@ -1,15 +1,54 @@
 ---
-permalink: /venue1/
+permalink: /venue/
 ---
 <html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
 <style>
+.image-container {
+  background-image: url("https://images.unsplash.com/photo-1657648906741-a6f31d61e245?q=80&w=1883&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  background-size: cover;
+  position: relative;
+  height: 400px;
+}
+
+.text {
+  background-color: white;
+  color: black;
+  font-size: 7vw; 
+  font-weight: bold;
+  margin: 0 auto;
+  padding: 10px;
+  width: 50%;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  mix-blend-mode: screen;
+}
+
 * {
   box-sizing: border-box;
 }
 
 .header {
   text-align: center;
-  padding: 0px;
+  padding: 32px;
+}
+
+.row {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
 }
 
 .row {
@@ -34,64 +73,51 @@ permalink: /venue1/
   width: 100%;
 }
 
-/* Responsive layout - makes a two column-layout instead of four columns */
-@media screen and (max-width: 800px) {
-  .column {
-    -ms-flex: 50%;
-    flex: 50%;
-    max-width: 50%;
-  }
+div.scroll-container {
+  background-color: #6b6b6b;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 5px;
 }
 
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 650px) {
-  .column {
-    -ms-flex: 100%;
-    flex: 100%;
-    max-width: 100%;
-  }
+div.scroll-container img {
+  padding: 2px;
 }
 </style>
+</head>
+
 <body>
 
 <!-- Header -->
-<div class="header">
-  <h2>Lancaster</h2>
+<div class="image-container">
+  <div class="text">LANCASTER</div>
 </div>
 
-<!-- Photo Grid -->
-<div class="row"> 
-  <div class="column">
-    <img src="/assets/images/town/IMG_2.jpg" style="width:100%">
-    <img src="/assets/images/town/IMG_5298.jpg" style="width:100%">
-    <img src="/assets/images/town/IMG_6.jpg" style="width:100%">
-    <img src="/assets/images/town/IMG_9566.jpg" style="width:100%">
-    <img src="/assets/images/town/20210620_190936783_iOS.jpeg" style="width:100%">
-    <img src="/assets/images/williamson_park/20240214_194800124_iOS.jpg" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="/assets/images/town/IMG_3.jpg" style="width:100%">
-    <img src="/assets/images/town/20200906_181532735_iOS.jpeg" style="width:100%">
-    <img src="/assets/images/town/20240214_194800906_iOS.jpg" style="width:100%">
-    <img src="/assets/images/town/20201224_150148482_iOS.jpeg" style="width:100%">
-    <img src="/assets/images/town/IMG_4.jpg" style="width:100%">
-    <img src="/assets/images/town/20200504_174935135_iOS.jpeg" style="width:100%">
-  </div>  
-  <div class="column">
-    <img src="/assets/images/town/IMG_1.jpg" style="width:100%">
-    <img src="/assets/images/town/20240214_194801067_iOS.jpg" style="width:100%">
-    <img src="/assets/images/town/20200411_183313724_iOS.jpeg" style="width:100%">
-    <img src="/assets/images/town/IMG_4534.jpg" style="width:100%">
-    <img src="/assets/images/town/20200507_235850859_iOS 1.jpg" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="/assets/images/town/IMG_2827.jpg" style="width:100%">
-    <img src="/assets/images/town/20240214_194801121_iOS.jpg" style="width:100%">
-    <img src="/assets/images/town/20240214_194800741_iOS.jpg" style="width:100%">
-    <img src="/assets/images/town/IMG_9762.jpg" style="width:100%">
-    <img src="/assets/images/town/IMG_5.jpg" style="width:100%">
-    <img src="/assets/images/williamson_park/20170618_173550831_iOS.jpg" style="width:100%">
-    <img src="/assets/images/town/IMG_9781.jpg" style="width:100%">
+<div class="scroll-container">
+    <img src="/assets/images/town/IMG_2.jpg" width="300" height="300">
+    <img src="/assets/images/town/IMG_5298.jpg" width="300" height="300">
+    <img src="/assets/images/town/IMG_6.jpg" width="300" height="300">
+    <img src="/assets/images/town/IMG_9566.jpg" width="300" height="300">
+    <img src="/assets/images/town/20210620_190936783_iOS.jpeg" width="300" height="300">
+    <img src="/assets/images/williamson_park/20240214_194800124_iOS.jpg" width="300" height="300">
+    <img src="/assets/images/town/IMG_3.jpg" width="300" height="300">
+    <img src="/assets/images/town/20200906_181532735_iOS.jpeg" width="300" height="300">
+    <img src="/assets/images/town/20240214_194800906_iOS.jpg" width="300" height="300">
+    <img src="/assets/images/town/20201224_150148482_iOS.jpeg" width="300" height="300">
+    <img src="/assets/images/town/IMG_4.jpg" width="300" height="300">
+    <img src="/assets/images/town/20200504_174935135_iOS.jpeg" width="300" height="300">
+    <img src="/assets/images/town/IMG_1.jpg" width="300" height="300">
+    <img src="/assets/images/town/20240214_194801067_iOS.jpg" width="300" height="300">
+    <img src="/assets/images/town/20200411_183313724_iOS.jpeg" width="300" height="300">
+    <img src="/assets/images/town/IMG_4534.jpg" width="300" height="300">
+    <img src="/assets/images/town/20200507_235850859_iOS 1.jpg" width="300" height="300">
+    <img src="/assets/images/town/IMG_2827.jpg" width="300" height="300">
+    <img src="/assets/images/town/20240214_194801121_iOS.jpg" width="300" height="300">
+    <img src="/assets/images/town/20240214_194800741_iOS.jpg" width="300" height="300">
+    <img src="/assets/images/town/IMG_9762.jpg" width="300" height="300">
+    <img src="/assets/images/town/IMG_5.jpg" width="300" height="300">
+    <img src="/assets/images/williamson_park/20170618_173550831_iOS.jpg" width="300" height="300">
+    <img src="/assets/images/town/IMG_9781.jpg" width="300" height="300">
   </div>
 </div>
 
