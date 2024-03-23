@@ -7,7 +7,7 @@ permalink: /venue/
 
 <style>
 .image-container {
-  background-image:  /assets/images/main.jpg;
+  background-image:  url("/assets/images/main.jpg");
   background-size: cover;
   position: relative;
   height: 400px;
