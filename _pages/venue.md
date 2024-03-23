@@ -43,10 +43,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 	
 .image-container-1 {
-  background-image:  url("/assets/images/university/20230927_150034548_iOS.jpeg");
+  background-image:  url("/assets/images/university/20240214_194800601_iOS.jpg");
   background-size: cover;
   position: relative;
-  height: 300px;
+  height: 400px;
 }
 
 .text {
