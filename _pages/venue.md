@@ -133,8 +133,9 @@ div.scroll-container img {
     <img src="/assets/images/town/IMG_3.jpg" width="300" height="300"> 
     <img src="/assets/images/town/IMG_4.jpg" width="300" height="300"> 
     <img src="/assets/images/town/IMG_9762.jpg" width="300" height="300">
-    <img src="/assets/images/town/IMG_2827.jpg" width="300" height="300">
+    <img src="/assets/images/university/FullSizeRender.jpg" width="300" height="300"> 
     <img src="/assets/images/town/IMG_4534.jpg" width="300" height="300"> 
+    <img src="/assets/images/town/IMG_2827.jpg" width="300" height="300">
     <img src="/assets/images/town/IMG_9781.jpg" width="300" height="300">
     <img src="/assets/images/williamson_park/20170618_173550831_iOS.jpg" width="300" height="300">
     <img src="/assets/images/town/20201224_150148482_iOS.jpeg" width="300" height="300">
@@ -169,16 +170,8 @@ div.scroll-container img {
 
 <div class="scroll-container">
     <img src="/assets/images/alex_square/20200530_194450255_iOS.jpeg" width="300" height="300">
-    <img src="/assets/images/university/20210620_190936783_iOS.jpeg" width="300" height="300">
-    <img src="/assets/images/university/20190831_144552336_iOS.jpg" width="300" height="300"> 
     <img src="/assets/images/infolab/20210917_175340223_iOS.jpg" width="300" height="300"> 
     <img src="/assets/images/university/20170501_135102767_iOS.jpg" width="300" height="300">
-    <img src="/assets/images/university/20240214_194800716_iOS.jpg" width="300" height="300">
-    <img src="/assets/images/university/FullSizeRender.jpg" width="300" height="300"> 
-    <img src="/assets/images/town/IMG_9781.jpg" width="300" height="300">
-    <img src="/assets/images/williamson_park/20170618_173550831_iOS.jpg" width="300" height="300">
-    <img src="/assets/images/town/20201224_150148482_iOS.jpeg" width="300" height="300">
-    <img src="/assets/images/town/IMG_5298.jpg" width="300" height="300">
 </div>
 
 </body>
