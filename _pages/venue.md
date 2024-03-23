@@ -16,7 +16,7 @@ permalink: /venue/
 .text {
   background-color: white;
   color: black;
-  font-size: 7vw; 
+  font-size: 5vw; 
   font-weight: bold;
   margin: 0 auto;
   padding: 10px;
@@ -116,7 +116,6 @@ div.scroll-container img {
     <img src="/assets/images/town/IMG_5.jpg" width="300" height="300">
     <img src="/assets/images/williamson_park/20170618_173550831_iOS.jpg" width="300" height="300">
     <img src="/assets/images/town/IMG_9781.jpg" width="300" height="300">
-  </div>
 </div>
 
 </body>
