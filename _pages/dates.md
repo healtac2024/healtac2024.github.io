@@ -6,7 +6,7 @@ title: "Dates"
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-h1, h2, h3, h4, h5, body {
+h1, h2, h3, h4, h5, body, p {
   font-family: 'Akaya Telivigala';
 } 
 
@@ -37,7 +37,6 @@ html {
 }
 
 .container {
-  font-family: 'Akaya Telivigala';
   padding: 0 52px;
 }
 
