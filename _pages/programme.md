@@ -140,7 +140,7 @@ possibilities for healthcare text analytics. This tutorial, structured as a comb
 
 
   
-<!--  <h2> Tutorials </h2>  
+<!--  <h2> Conference Schedule </h2>  
 <br>
 <div class="row">
   <div class="column">
