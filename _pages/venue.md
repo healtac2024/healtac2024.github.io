@@ -9,6 +9,7 @@ permalink: /venue/
 body {
     font-family: 'Akaya Telivigala';
 } 
+	
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Akaya Telivigala';
 }
@@ -39,6 +40,11 @@ h1, h2, h3, h4, h5, h6 {
   max-width: auto;
   min-width: 30%;
   height: 100%;
+  padding: 6px;
+}
+	
+.pre{
+   font-family: 'Akaya Telivigala';	
 }
 
 .image-container {
