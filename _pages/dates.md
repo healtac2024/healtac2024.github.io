@@ -46,8 +46,8 @@ html {
   display: table;
 }
 
-
 table {
+  font-family: 'Akaya Telivigala';
   width: auto;
 }
 
@@ -58,19 +58,16 @@ th, td {
 td {
   border-bottom: 1px solid #ddd;
 }
-
-
 </style>
 </head>
 <body>
-<br>
-<br>
+
+  <br>
   <div class="column">
     <div class="card">
     <br>
       <div class="container">
         <p>All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).</p>
-
 <table>
   <tr>
     <th>Event</th>
