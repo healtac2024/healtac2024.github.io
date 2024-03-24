@@ -82,6 +82,10 @@ h1, h2, h3, h4, h5, h6 {
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+h1, h2, h3, h4, h5, body {
+  font-family: 'Akaya Telivigala';
+} 
+
 html {
   box-sizing: border-box;
 }
