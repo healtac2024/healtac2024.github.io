@@ -47,7 +47,6 @@ html {
 }
 
 table {
-  font-family: 'Akaya Telivigala';
   width: auto;
 }
 
