@@ -10,7 +10,7 @@ h1, h2, h3, h4, h5 {
   font-family: 'Akaya Telivigala';
 } 
 body {
-    font-family: 'Akaya Telivigala'; font-color: #6b6b6b;
+    font-family: 'Akaya Telivigala'; 
 } 
   
 html {
@@ -50,6 +50,7 @@ html {
 }
 
 table {
+  font-family: 'Akaya Telivigala'; 
   width: auto;
 }
 
@@ -113,7 +114,7 @@ td {
   
   <tr>
     <td>Conference</td>
-    <td><del>June 13-14th 2024</del> June 13-14th 2024</td>
+    <td><del>June 12-14th 2024</del> June 13-14th 2024</td>
   </tr>
 </table>
       </div>
