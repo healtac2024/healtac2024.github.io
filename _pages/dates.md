@@ -67,7 +67,7 @@ td {
     <div class="card">
     <br>
       <div class="container">
-        <p>All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).</p>
+        <p style="font-family: 'Akaya Telivigala';">All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).</p>
 <table>
   <tr>
     <th>Event</th>
