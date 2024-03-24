@@ -61,7 +61,8 @@ div.desc {
   </style>
 </head>
 <body>
-
+<br>
+<br>
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="img_forest.jpg">
