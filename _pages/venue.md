@@ -30,6 +30,7 @@ h1, h2, h3, h4, h5, h6 {
 .container img {vertical-align: middle;}
 
 .container .content {
+  font-family: 'Akaya Telivigala';
   position: absolute;
   bottom: 0;
   background: rgb(0, 0, 0); /* Fallback color */
@@ -73,7 +74,7 @@ h1, h2, h3, h4, h5, h6 {
 .text-1 {
   background-color: white;
   color: black;
-  font-size: 3vw; 
+  font-size: 4vw; 
   font-weight: bold;
   margin: 0 auto;
   padding: 10px;
