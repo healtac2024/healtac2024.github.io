@@ -40,13 +40,9 @@ h1, h2, h3, h4, h5, h6 {
   max-width: auto;
   min-width: 30%;
   height: 100%;
-  padding: 6px;
+  padding: 10px;
 }
 	
-.pre{
-   font-family: 'Akaya Telivigala';	
-}
-
 .image-container {
   background-image:  url("/assets/images/main.jpg");
   background-size: cover;
@@ -179,7 +175,7 @@ div.scroll-container img {
   <img src="https://www.lancaster.ac.uk/media/lancaster-university/content-assets/images/facilities/conferences/Faraday-Featurebox2.jpg" alt="Notebook" style="height:100%;">
   <div class="content">
     <h2>Conference Venue</h2>
-    <pre class="tab1">    Faraday Complex</pre>
+    <pre class="tab1" style="font-family: 'Akaya Telivigala';">    Faraday Complex</pre>
     <pre class="tab1">    Lancaster University</pre>
 	<pre class="tab1">    Lancaster</pre>
 	<pre class="tab1">    United Kingdom</pre>
