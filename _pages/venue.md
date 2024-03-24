@@ -176,10 +176,10 @@ div.scroll-container img {
   <div class="content">
     <h2>Conference Venue</h2>
     <pre class="tab1" style="font-family: 'Akaya Telivigala';">    Faraday Complex</pre>
-    <pre class="tab1">    Lancaster University</pre>
-	<pre class="tab1">    Lancaster</pre>
-	<pre class="tab1">    United Kingdom</pre>
-    <pre class="tab1">    LA1 4YW</pre>
+    <pre class="tab1" style="font-family: 'Akaya Telivigala';">    Lancaster University</pre>
+	<pre class="tab1" style="font-family: 'Akaya Telivigala';">    Lancaster</pre>
+	<pre class="tab1" style="font-family: 'Akaya Telivigala';">    United Kingdom</pre>
+    <pre class="tab1" style="font-family: 'Akaya Telivigala';">    LA1 4YW</pre>
   </div>
 </div>
 
