@@ -14,9 +14,6 @@ body {
 } 
 </style>
 </head>
-<script src="https://cdn.logwork.com/widget/countdown.js"></script>
-<a href="https://logwork.com/countdown-timer" class="countdown-timer" data-style="columns" data-timezone="Europe/London" data-textcolor="#6b6b6b" data-date="2024-04-08 23:00" data-background="#ffffff" data-digitscolor="#009999" data-unitscolor="#6b6b6b">Submission ends in</a>
-
 <body>
 
 <h2>Contribution types</h2>
