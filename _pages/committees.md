@@ -365,7 +365,7 @@ html {
         <h3>Post-conference Publication Chair</h3>
 	<br>
         <p class="title">Phoey Lee Teh, Prifysgol Wrecsam / Wrexham University </p>
-       <a href="https://wrexham.ac.uk/blog/posts/phoey-seminar-/"><button class="button">Contact</button></a>
+       <a href="https://wrexham.ac.uk/staff-profiles/phoebe-teh/"><button class="button">Contact</button></a>
        <p> </p>
       </div>
     </div>
