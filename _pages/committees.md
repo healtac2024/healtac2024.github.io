@@ -12,6 +12,7 @@ title: "Committees"
 }
 
 /* Create four equal columns that floats next to each other */
+
 .column {
   float: left;
   width: 50%;
