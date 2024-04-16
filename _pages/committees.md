@@ -46,6 +46,7 @@ font-size: 14px;
 
 </style>
 </head>
+
 <body>
 
 <div class="row">
@@ -100,11 +101,10 @@ font-size: 14px;
       <p>Ruslan Mitkov, Lancaster University</p>
       <p>Scott Piao, Lancaster University</p>
 </ul>
-
-
-  </div>
-  <div class="column-1" style="background-color: #00000;">
-    <h4>Programme Committee</h4>
+</div>
+  
+<div class="column-1" style="background-color: #0000;">
+<h4>Programme Committee</h4>
 <ul>
 <p> Maryam Abdollahyan, Queen Mary University of London </p>
 <p> Beatrice Alex, University of Edinburgh </p>
