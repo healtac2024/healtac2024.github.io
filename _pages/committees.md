@@ -36,10 +36,15 @@ title: "Committees"
 body {
     font-family: 'Akaya Telivigala';
 } 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h5, h6 {
+  font-family: 'Akaya Telivigala';
+}
+
+h4 {
   font-family: 'Akaya Telivigala';
   font-size: 18px;
 }
+
 p {
 font-size: 14px;
 }
@@ -50,13 +55,11 @@ font-size: 14px;
 <body>
 
 <div class="row">
-  <div class="column" style="background-color:  #c2f0f0;">
-
+<div class="column" style="background-color:  #c2f0f0;">
 <h4>General Chair</h4> 
 <ul>
 <p>Paul Rayson, Lancaster University</p>
 </ul>
-
 
 <h4>Programme Committee Co-chairs</h4>
 <ul>
@@ -149,8 +152,7 @@ font-size: 14px;
 <p> William Whiteley, University of Edinburgh </p>
 <p> Honghan Wu, University College London </p>
 </ul>
-  </div>
-
+</div>
 
 </body>
 </html>
