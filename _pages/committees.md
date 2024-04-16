@@ -36,12 +36,12 @@ h1, h2, h3, h4, h5, h6 {
     
 <h4>Industrial Forum and Demos Chairs</h4>
 <ul>
-<p>Yunsoo Kim, Jinge Wu, Honghan Wu, Health Informatics, University College London</p>
+<p>Ben Fell, Akrivia Health</p>
 </ul>
 
 <h4>Tutorials and Workshops Chairs</h4>   
 <ul>
-<p>TBA</p>
+<p>Yunsoo Kim, Jinge Wu, Honghan Wu, Health Informatics, University College London</p>
 </ul>
 
 <h4>Publicity Chairs</h4>
@@ -62,13 +62,13 @@ h1, h2, h3, h4, h5, h6 {
       	<p>Daisy Harvey, Lancaster University</p>
       	<p>Nick King, Lancaster University</p>
       <p>Daisy Lal, Lancaster University</p>
-<p>Ruslan Mitkov, Lancaster University</p>
-<p>Scott Piao, Lancaster University</p>
+      <p>Ruslan Mitkov, Lancaster University</p>
+      <p>Scott Piao, Lancaster University</p>
 </ul>
 
 <h4>Programme Committee</h4>
 <ul>
-<p> Maryam Abdollahyan, Queen Mary University of London <\p>
+<p> Maryam Abdollahyan, Queen Mary University of London </p>
 <p> Beatrice Alex, University of Edinburgh </p>
 <p> Riza Batista-Navarro, University of Manchester </p> 
 <p> Arlene Casey, University of Edinburgh </p>
