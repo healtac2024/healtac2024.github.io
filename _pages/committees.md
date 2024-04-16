@@ -14,13 +14,11 @@ title: "Committees"
   float: left;
   width: 50%;
   padding: 10px;
-  height: 1350px; /* Should be removed. Only for demonstration */
 }
 .column-1 {
   float: left;
   width: 50%;
   padding: 10px;
-  height: 100%; /* Should be removed. Only for demonstration */
 }
 .row:after {
   content: "";
