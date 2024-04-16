@@ -18,7 +18,7 @@ h4 {
   font-size: 18px;
 }
 p {
-font-size: 14px;
+font-size: 10px;
 }
 
 </style>
