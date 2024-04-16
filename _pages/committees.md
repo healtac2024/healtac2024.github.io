@@ -14,7 +14,7 @@ title: "Committees"
   float: left;
   width: 50%;
   padding: 10px;
-  height: 1330px; /* Should be removed. Only for demonstration */
+  height: 1350px; /* Should be removed. Only for demonstration */
 }
 .column-1 {
   float: left;
@@ -89,7 +89,7 @@ font-size: 14px;
     </ul>
   </div>
   
-  <div class="column-1;">
+  <div class="column-1">
     <h4>Programme Committee</h4>
     <ul>
       <p> Maryam Abdollahyan, Queen Mary University of London </p>
