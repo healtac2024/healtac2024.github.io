@@ -4,23 +4,58 @@ title: "Committees"
 ---
 
 <html>
- <meta name="viewport" content="width=device-width, initial-scale=1"> 
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 1330px; /* Should be removed. Only for demonstration */
+}
+
+.column-1 {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 100%; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 body {
     font-family: 'Akaya Telivigala';
 } 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Akaya Telivigala';
+  font-size: 18px;
 }
+p {
+font-size: 14px;
+}
+
 </style>
 </head>
 <body>
+
+<div class="row">
+  <div class="column" style="background-color:  #c2f0f0;">
 
 <h4>General Chair</h4> 
 <ul>
 <p>Paul Rayson, Lancaster University</p>
 </ul>
+
 
 <h4>Programme Committee Co-chairs</h4>
 <ul>
@@ -66,7 +101,10 @@ h1, h2, h3, h4, h5, h6 {
       <p>Scott Piao, Lancaster University</p>
 </ul>
 
-<h4>Programme Committee</h4>
+
+  </div>
+  <div class="column-1" style="background-color: #00000;">
+    <h4>Programme Committee</h4>
 <ul>
 <p> Maryam Abdollahyan, Queen Mary University of London </p>
 <p> Beatrice Alex, University of Edinburgh </p>
@@ -110,9 +148,11 @@ h1, h2, h3, h4, h5, h6 {
 <p> James Teo, King's College NHS Hospital </p>
 <p> William Whiteley, University of Edinburgh </p>
 <p> Honghan Wu, University College London </p>
-<p></p>
 </ul>
+  </div>
+
 
 </body>
-</html> 
+</html>
+
 
