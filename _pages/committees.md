@@ -21,12 +21,12 @@ p {
 font-size: 16px;
 }
 a:link {
-  color:  #9370DB;
-  background-color: #F8F8FF;
+  color:  black;
+  background-color: transparent;
   text-decoration: none;
 }
 a:visited {
-  color: #9370DB;
+  color: black;
   background-color: #F0F8FF;
   text-decoration: none;
 }
@@ -43,7 +43,6 @@ a:active {
 </style>
 </head>
 <body>
-
  <h4>General Chair</h4> 
     <ul>
       <p><a href="https://www.lancaster.ac.uk/staff/rayson/" target="_blank">Paul Rayson, Lancaster University</a></p>
