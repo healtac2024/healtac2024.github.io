@@ -67,7 +67,7 @@ a:active {
     </ul>
     <h4>Publicity Chairs</h4>
     <ul>
-      <p><a href="https://www.kcl.ac.uk/people/jaya-chaturvedi" target="_blank">Jaya Chaturvedi, King's College, London</p>
+      <p><a href="https://www.kcl.ac.uk/people/jaya-chaturvedi" target="_blank">Jaya Chaturvedi, King's College, London</a></p>
       <p><a href="https://uk.linkedin.com/in/daisy-harvey-502bb1140" target="_blank">Daisy Harvey, Lancaster University</a></p>
     </ul>
     <h4>Post-conference Publication Chair</h4>
@@ -128,7 +128,6 @@ a:active {
       <p><a href="https://www.kch.nhs.uk/services/consultants-a-to-z/prof-james-teo/" target="_blank">James Teo, King's College NHS Hospital</a></p>
       <p><a href="https://www.ed.ac.uk/profile/dr-william-whiteley" target="_blank">William Whiteley, University of Edinburgh</a></p>
       <p><a href="https://profiles.ucl.ac.uk/78197-honghan-wu" target="_blank">Honghan Wu, University College London</a></p>
-
 
 </body>
 </html>
