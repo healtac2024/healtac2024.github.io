@@ -46,7 +46,7 @@ a:active {
 
  <h4>General Chair</h4> 
     <ul>
-      <p><a href="https://www.lancaster.ac.uk/staff/rayson/" target="_blank">Paul Rayson, Lancaster University</p></a>
+      <p><a href="https://www.lancaster.ac.uk/staff/rayson/" target="_blank">Paul Rayson, Lancaster University</a></p>
     </ul>
     <h4>Programme Committee Co-chairs</h4>
     <ul>
@@ -77,7 +77,7 @@ a:active {
     </ul>
     <h4>Local Organisers</h4>
     <ul>
-      <p><a href="https://www.lancaster.ac.uk/staff/elhaj/" target="_blank">Mo El-Haj, Lancaster University</p>
+      <p><a href="https://www.lancaster.ac.uk/staff/elhaj/" target="_blank">Mo El-Haj, Lancaster University</a></p>
       <p><a href="https://www.lancaster.ac.uk/research/research-enterprise-services/res-staff-directory/richard-gnosill" target="_blank">Richard Gnosill, Lancaster University</a></p>
       <p><a href="https://uk.linkedin.com/in/daisy-harvey-502bb1140" target="_blank">Daisy Harvey, Lancaster University</a></p>
       <p><a href="https://www.lancaster.ac.uk/research/research-enterprise-services/res-staff-directory/nick-king" target="_blank">Nick King, Lancaster University</a></p>
@@ -122,7 +122,7 @@ a:active {
       <p><a href="https://user.medunigraz.at/stefan.schulz/" target="_blank">Stefan Schulz, Medical University of Graz</a></p>
       <p><a href="https://phidatalab.org/team/thomas-searle/" target="_blank">Thomas Searle, King's College London</a></p>
       <p><a href="https://www.ucl.ac.uk/health-informatics/people/anoop-shah" target="_blank">Anoop Shah, University College London</a></p>
-      <p><a href=" " target="_blank">Luke Slater, University of Birmingham</a></p>
+      <p><a href="https://loop.frontiersin.org/people/933419/overview?snsrc" target="_blank">Luke Slater, University of Birmingham</a></p>
       <p><a href="https://profiles.cardiff.ac.uk/staff/spasici" target="_blank">Irena Spasic, Cardiff University</a></p>
       <p><a href="https://www.kcl.ac.uk/people/professor-robert-stewart" target="_blank">Robert Stewart, King's College London</a></p>
       <p><a href="https://wrexham.ac.uk/staff-profiles/phoebe-teh/" target="_blank">Phoey Lee Teh, Wrexham University</a></p>
