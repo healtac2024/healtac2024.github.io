@@ -42,6 +42,7 @@ a:active {
 }
 </style>
 </head>
+    
 <body>
  <h4>General Chair</h4> 
     <ul>
@@ -128,7 +129,7 @@ a:active {
       <p><a href="https://www.kch.nhs.uk/services/consultants-a-to-z/prof-james-teo/" target="_blank">James Teo, King's College NHS Hospital</a></p>
       <p><a href="https://www.ed.ac.uk/profile/dr-william-whiteley" target="_blank">William Whiteley, University of Edinburgh</a></p>
       <p><a href="https://profiles.ucl.ac.uk/78197-honghan-wu" target="_blank">Honghan Wu, University College London</a></p>
-
+    </ul>
 </body>
 </html>
 
