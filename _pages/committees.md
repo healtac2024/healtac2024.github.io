@@ -46,44 +46,44 @@ a:active {
 <body>
  <h4>General Chair</h4> 
     <ul>
-      <p><a href="https://www.lancaster.ac.uk/staff/rayson/" target="_blank">Paul Rayson, Lancaster University</a></p>
+      <p><a href="https://www.lancaster.ac.uk/staff/rayson/" target="_blank" style=" color: #9370DB; background-color: #F0F8FF; text-decoration: none;" onmouseover="this.style.color='#6495ED'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='underline'" onmouseout="this.style.color='#9370DB'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='none'">Paul Rayson, Lancaster University</a></p>
     </ul>
     <h4>Programme Committee Co-chairs</h4>
     <ul>
-      <p><a href="https://profiles.sussex.ac.uk/p170603-elizabeth-ford" target="_blank">Elizabeth Ford, Brighton and Sussex Medical School</a></p>
-      <p><a href="https://personalpages.manchester.ac.uk/staff/GNenadic/" target="_blank">Goran Nenadic, University of Manchester</a></p>
+      <p><a href="https://profiles.sussex.ac.uk/p170603-elizabeth-ford" target="_blank" style=" color: #9370DB; background-color: #F0F8FF; text-decoration: none;" onmouseover="this.style.color='#6495ED'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='underline'" onmouseout="this.style.color='#9370DB'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='none'">Elizabeth Ford, Brighton and Sussex Medical School</a></p>
+      <p><a href="https://personalpages.manchester.ac.uk/staff/GNenadic/" target="_blank" style=" color: #9370DB; background-color: #F0F8FF; text-decoration: none;" onmouseover="this.style.color='#6495ED'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='underline'" onmouseout="this.style.color='#9370DB'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='none'">Goran Nenadic, University of Manchester</a></p>
     </ul>
     <h4>PhD and ECR Forum Chairs</h4>
     <ul>
-      <p><a href="https://www.ed.ac.uk/profile/arlene-casey" target="_blank">Arlene Casey, University of Edinburgh</a></p>
-      <p><a href="https://www.abdn.ac.uk/people/ruizhe.li" target="_blank">Ruizhe Li, University of Aberdeen</a></p>
+      <p><a href="https://www.ed.ac.uk/profile/arlene-casey" target="_blank" style=" color: #9370DB; background-color: #F0F8FF; text-decoration: none;" onmouseover="this.style.color='#6495ED'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='underline'" onmouseout="this.style.color='#9370DB'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='none'">Arlene Casey, University of Edinburgh</a></p>
+      <p><a href="https://www.abdn.ac.uk/people/ruizhe.li" target="_blank" style=" color: #9370DB; background-color: #F0F8FF; text-decoration: none;" onmouseover="this.style.color='#6495ED'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='underline'" onmouseout="this.style.color='#9370DB'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='none'">Ruizhe Li, University of Aberdeen</a></p>
     </ul>
     <h4>Industrial Forum and Demos Chairs</h4>
     <ul>
-      <p><a href="https://uk.linkedin.com/in/ben-fell-5a980620b" target="_blank">Ben Fell, Akrivia Health</a></p>
+      <p><a href="https://uk.linkedin.com/in/ben-fell-5a980620b" target="_blank" style=" color: #9370DB; background-color: #F0F8FF; text-decoration: none;" onmouseover="this.style.color='#6495ED'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='underline'" onmouseout="this.style.color='#9370DB'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='none'">Ben Fell, Akrivia Health</a></p>
     </ul>
     <h4>Tutorials and Workshops Chairs</h4>   
     <ul>
-      <p><a href="https://healtac2024.github.io/blog/Tutorial/" target="_blank">Yunsoo Kim, Jinge Wu, Honghan Wu, Health Informatics, University College London</a></p>
+      <p><a href="https://healtac2024.github.io/blog/Tutorial/" target="_blank" style=" color: #9370DB; background-color: #F0F8FF; text-decoration: none;" onmouseover="this.style.color='#6495ED'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='underline'" onmouseout="this.style.color='#9370DB'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='none'">Yunsoo Kim, Jinge Wu, Honghan Wu, Health Informatics, University College London</a></p>
     </ul>
     <h4>Publicity Chairs</h4>
     <ul>
-      <p><a href="https://www.kcl.ac.uk/people/jaya-chaturvedi" target="_blank">Jaya Chaturvedi, King's College, London</a></p>
-      <p><a href="https://uk.linkedin.com/in/daisy-harvey-502bb1140" target="_blank">Daisy Harvey, Lancaster University</a></p>
+      <p><a href="https://www.kcl.ac.uk/people/jaya-chaturvedi" target="_blank" style=" color: #9370DB; background-color: #F0F8FF; text-decoration: none;" onmouseover="this.style.color='#6495ED'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='underline'" onmouseout="this.style.color='#9370DB'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='none'">Jaya Chaturvedi, King's College, London</a></p>
+      <p><a href="https://uk.linkedin.com/in/daisy-harvey-502bb1140" target="_blank" style=" color: #9370DB; background-color: #F0F8FF; text-decoration: none;" onmouseover="this.style.color='#6495ED'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='underline'" onmouseout="this.style.color='#9370DB'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='none'">Daisy Harvey, Lancaster University</a></p>
     </ul>
     <h4>Post-conference Publication Chair</h4>
     <ul>
-      <p><a href="https://wrexham.ac.uk/staff-profiles/phoebe-teh/" target="_blank">Phoey Lee Teh, Prifysgol Wrecsam / Wrexham University</a></p>
+      <p><a href="https://wrexham.ac.uk/staff-profiles/phoebe-teh/" target="_blank" style=" color: #9370DB; background-color: #F0F8FF; text-decoration: none;" onmouseover="this.style.color='#6495ED'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='underline'" onmouseout="this.style.color='#9370DB'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='none'">Phoey Lee Teh, Prifysgol Wrecsam / Wrexham University</a></p>
     </ul>
     <h4>Local Organisers</h4>
     <ul>
-      <p><a href="https://www.lancaster.ac.uk/staff/elhaj/" target="_blank">Mo El-Haj, Lancaster University</a></p>
-      <p><a href="https://www.lancaster.ac.uk/research/research-enterprise-services/res-staff-directory/richard-gnosill" target="_blank">Richard Gnosill, Lancaster University</a></p>
-      <p><a href="https://uk.linkedin.com/in/daisy-harvey-502bb1140" target="_blank">Daisy Harvey, Lancaster University</a></p>
-      <p><a href="https://www.lancaster.ac.uk/research/research-enterprise-services/res-staff-directory/nick-king" target="_blank">Nick King, Lancaster University</a></p>
-      <p><a href="https://uk.linkedin.com/in/daisy-monika-lal-200229216" target="_blank">Daisy Lal, Lancaster University</a></p>
-      <p><a href="https://wp.lancs.ac.uk/mitkov/" target="_blank">Ruslan Mitkov, Lancaster University</a></p>
-      <p><a href="https://www.lancaster.ac.uk/scc/about-us/people/scott-piao" target="_blank">Scott Piao, Lancaster University</a></p>
+      <p><a href="https://www.lancaster.ac.uk/staff/elhaj/" target="_blank" style=" color: #9370DB; background-color: #F0F8FF; text-decoration: none;" onmouseover="this.style.color='#6495ED'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='underline'" onmouseout="this.style.color='#9370DB'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='none'">Mo El-Haj, Lancaster University</a></p>
+      <p><a href="https://www.lancaster.ac.uk/research/research-enterprise-services/res-staff-directory/richard-gnosill" target="_blank" style=" color: #9370DB; background-color: #F0F8FF; text-decoration: none;" onmouseover="this.style.color='#6495ED'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='underline'" onmouseout="this.style.color='#9370DB'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='none'">Richard Gnosill, Lancaster University</a></p>
+      <p><a href="https://uk.linkedin.com/in/daisy-harvey-502bb1140" target="_blank" style=" color: #9370DB; background-color: #F0F8FF; text-decoration: none;" onmouseover="this.style.color='#6495ED'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='underline'" onmouseout="this.style.color='#9370DB'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='none'">Daisy Harvey, Lancaster University</a></p>
+      <p><a href="https://www.lancaster.ac.uk/research/research-enterprise-services/res-staff-directory/nick-king" target="_blank" style=" color: #9370DB; background-color: #F0F8FF; text-decoration: none;" onmouseover="this.style.color='#6495ED'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='underline'" onmouseout="this.style.color='#9370DB'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='none'">Nick King, Lancaster University</a></p>
+      <p><a href="https://uk.linkedin.com/in/daisy-monika-lal-200229216" target="_blank" style=" color: #9370DB; background-color: #F0F8FF; text-decoration: none;" onmouseover="this.style.color='#6495ED'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='underline'" onmouseout="this.style.color='#9370DB'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='none'">Daisy Lal, Lancaster University</a></p>
+      <p><a href="https://wp.lancs.ac.uk/mitkov/" target="_blank" style=" color: #9370DB; background-color: #F0F8FF; text-decoration: none;" onmouseover="this.style.color='#6495ED'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='underline'" onmouseout="this.style.color='#9370DB'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='none'">Ruslan Mitkov, Lancaster University</a></p>
+      <p><a href="https://www.lancaster.ac.uk/scc/about-us/people/scott-piao" target="_blank" style=" color: #9370DB; background-color: #F0F8FF; text-decoration: none;" onmouseover="this.style.color='#6495ED'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='underline'" onmouseout="this.style.color='#9370DB'; this.style.backgroundColor='#F0F8FF' ; this.style.textDecoration='none'">Scott Piao, Lancaster University</a></p>
     </ul> 
     <h4>Programme Committee</h4>
     <ul>
