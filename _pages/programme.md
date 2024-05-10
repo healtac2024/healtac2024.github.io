@@ -121,7 +121,7 @@ td {
 <tbody>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="20%">14:00-17:00</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Pre-conference workshop:<br />
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Pre-conference workshop:<br>
 <button class="collapsible">Healthcare Text Analytics in the Era of Large Language Models</button>
 <div class="content">
   <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;">Recent advancements in large language models (LLMs), such as ChatGPT, has revolutionised the field of natural language processing (NLP) and opened new possibilities for healthcare text analytics. This tutorial, structured as a combination of lectures and demonstrations, aims to provide a comprehensive guide to leveraging large language models in the healthcare domain, focusing on advanced techniques and applications. The tutorial will begin with an overview of the open source LLMs, emphasising their potential in addressing complex challenges within healthcare text analytics. Special attention will be given to the unique issues surrounding privacy, security, and domain-specific nuances inherent in healthcare data. Participants will be guided through practical applications of LLMs in two distinct healthcare text domains: 1) Discharge Note Generation and 2) PubMed Abstract Information Extraction. Practical demonstrations will illustrate how LLMs can be tailored for each specific domain using prompting, in-context learning, instruction tuning (finetuning). Furthermore, we will delve into LLMs’ challenges in adapting to handle multi-modal data representations.
@@ -139,10 +139,7 @@ td {
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="20%">10:15-10:30</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Welcome
-<!-- <li style="margin-bottom: 0px;">Goran Nenadic, HealTAC 2023 conference chair</li>
-<li style="margin-top: 0px; margin-bottom: 8px;">Niels Peek, Director of the Pankhurst Institute for Healthcare Research and Innovation</li>-->
-</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Welcome</td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">10:30-11:15</td>
@@ -301,7 +298,7 @@ td {
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">14:00-14:45</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Keynote:&nbsp;<strong style="font-weight: bold;"> Dr Alistair Johnson</strong>&nbsp;(Glowyr, Inc.)<br />
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Keynote:&nbsp;<strong style="font-weight: bold;"> Dr Alistair Johnson</strong>&nbsp;(Glowyr, Inc.)<br>
 <button class="collapsible">The bottleneck has always been data!</button>
 <div class="content">
   <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;">The world has been in awe at the recent applications of sophisticated machine learning models derived from large datasets. Yet in medicine, we continue to use decades old algorithms to support patient care. Models for cancer progression are based upon staging guidelines defined in the 70s, patient severity of illness is estimated using a scoring system from the 90s, and our latest and greatest criteria for sepsis was a model with three input variables. The reasons for the technological naivety in medicine are multifactorial, but one aspect stands out: researchers simply do not have much data. In this talk I will highlight the MIMIC series of databases, a suite of publicly accessible deidentified medical records. I’ll give an insider’s view on how the electronic health records for thousands of individuals were comprehensively deidentified, transformed, and shared for research without harm to the individual’s themselves. I’ll overview the utility of this data, and highlight some of our own work on language modeling enabled by the broad access to deidentified free-text clinical notes. I’ll conclude with my thoughts on how the field should better balance the benefits and risks of using patient data for research.</p></td>
@@ -322,8 +319,6 @@ td {
 </table>
 </div>
 </div> 
-
-
 <script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
@@ -340,6 +335,5 @@ for (i = 0; i < coll.length; i++) {
   });
 }
 </script>
-
 </body>
 </html>
