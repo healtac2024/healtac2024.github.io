@@ -2,6 +2,7 @@
 permalink: /programme/
 title: "Programme"
 ---
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -107,6 +108,7 @@ td {
 }
 </style>
 </head>
+
 <body>
 
 <div class="row">
@@ -121,15 +123,8 @@ td {
 <tbody>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="20%">14:00-17:00</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Pre-conference workshop:<br>
-<button class="collapsible">Healthcare Text Analytics in the Era of Large Language Models</button>
-<div class="content">
-  <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;">Recent advancements in large language models (LLMs), such as ChatGPT, has revolutionised the field of natural language processing (NLP) and opened new possibilities for healthcare text analytics. This tutorial, structured as a combination of lectures and demonstrations, aims to provide a comprehensive guide to leveraging large language models in the healthcare domain, focusing on advanced techniques and applications. The tutorial will begin with an overview of the open source LLMs, emphasising their potential in addressing complex challenges within healthcare text analytics. Special attention will be given to the unique issues surrounding privacy, security, and domain-specific nuances inherent in healthcare data. Participants will be guided through practical applications of LLMs in two distinct healthcare text domains: 1) Discharge Note Generation and 2) PubMed Abstract Information Extraction. Practical demonstrations will illustrate how LLMs can be tailored for each specific domain using prompting, in-context learning, instruction tuning (finetuning). Furthermore, we will delve into LLMs’ challenges in adapting to handle multi-modal data representations.
-<br> <br>
-<strong>Tutorial organisers:</strong> Yunsoo Kim, Jinge Wu and Honghan Wu (University College London, Institute of Health Informatics)</p></td>
-</tr>
-</tbody>
-</table>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Pre-conference workshop:<br><button class="collapsible">Healthcare Text Analytics in the Era of Large Language Models</button>
+<div class="content"><p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;">Recent advancements in large language models (LLMs), such as ChatGPT, has revolutionised the field of natural language processing (NLP) and opened new possibilities for healthcare text analytics. This tutorial, structured as a combination of lectures and demonstrations, aims to provide a comprehensive guide to leveraging large language models in the healthcare domain, focusing on advanced techniques and applications. The tutorial will begin with an overview of the open source LLMs, emphasising their potential in addressing complex challenges within healthcare text analytics. Special attention will be given to the unique issues surrounding privacy, security, and domain-specific nuances inherent in healthcare data. Participants will be guided through practical applications of LLMs in two distinct healthcare text domains: 1) Discharge Note Generation and 2) PubMed Abstract Information Extraction. Practical demonstrations will illustrate how LLMs can be tailored for each specific domain using prompting, in-context learning, instruction tuning (finetuning). Furthermore, we will delve into LLMs’ challenges in adapting to handle multi-modal data representations.<br><br><strong>Tutorial organisers:</strong> Yunsoo Kim, Jinge Wu and Honghan Wu (University College London, Institute of Health Informatics)</p></div></td></tr></tbody></table>
 <h5 style="margin-bottom: 0.9375rem; font-weight: bold; line-height: 1.1; color: #6495ED; font-size: 0.9375rem; clear: both; text-transform: uppercase; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-align: start; padding-top: 20px;">THURSDAY, JUNE 13TH 2024</h5>
 <table class="programme-table" style="background-color: #ffffff; margin-bottom: 20px; width: 790.2px; border-color: #e9e9e9;  font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: start;" border="0">
 <tbody>
@@ -139,15 +134,15 @@ td {
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="20%">10:15-10:30</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Welcome</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Welcome
+</td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">10:30-11:15</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Keynote: <strong style="font-weight: bold;">Prof Suzan Verberne</strong> (Leiden University).<br />
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Keynote: <strong style="font-weight: bold;">Prof Suzan Verberne</strong> (Leiden University).<br>
 <button class="collapsible">Large Language Models in healthcare: should we care more?</button>
 <div class="content">
-  <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;">ChatGPT can do a lot for us: it can serve as a text corrector, as a source of inspiration, as a programming aid, and as an interactive search engine. ChatGPT is also widely used in the health domain, both by doctors and patients. Large language models (LLMs) such as ChatGPT can write very convincing texts, but being able to write fluently is not the same as providing correct information. Should we worry about that? In my presentation I will first discuss our work on text mining from patient experiences, highlighting the challenges of extracting medical information from informal text. Then I will discuss the opportunities of using LLMs, and go into the risks and challenges. I will also make suggestions for responsible use of LLMs for medical applications.</p></td>
-</div>
+  <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;">ChatGPT can do a lot for us: it can serve as a text corrector, as a source of inspiration, as a programming aid, and as an interactive search engine. ChatGPT is also widely used in the health domain, both by doctors and patients. Large language models (LLMs) such as ChatGPT can write very convincing texts, but being able to write fluently is not the same as providing correct information. Should we worry about that? In my presentation I will first discuss our work on text mining from patient experiences, highlighting the challenges of extracting medical information from informal text. Then I will discuss the opportunities of using LLMs, and go into the risks and challenges. I will also make suggestions for responsible use of LLMs for medical applications.</p></div></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">11:15-11:30</td>
@@ -162,8 +157,7 @@ td {
   <ul style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><br><li>Arlene Casey, Matúš Falis, Franz S. Gruber, Matthew Murrell, Spyro Nita, Amy Tilbrook, Charlie Mayor, Katherine O’Sullivan and Kathy Harrison. Developing a Common Schema for De-identification of Personal Health Identifiers in EHRs across Scotland.</li>
 <li>Elizabeth Ford, Kerina Jones, Rob Stewart, Angus Roberts, Goran Nenadic, Simon Pillinger and Ben Fell. How can we conceptualise and measure re-identification risk from de-identified clinical free text data?</li>
 <li>Daisy Monika Lal, Paul Rayson, Erik Van Mulligen and Jan Kors. Leveraging Large Language Models to Extract Cancer Patient Experiences. (lightning talk)</li>
-<li>Liliana Valles, Alice Tapper, Daniel Goldwater and Matthew Taylor. Accelerating NHS feedback moderation at NHS.UK with NLP. (lightning talk)</li><br></ul>
-</td>
+<li>Liliana Valles, Alice Tapper, Daniel Goldwater and Matthew Taylor. Accelerating NHS feedback moderation at NHS.UK with NLP. (lightning talk)</li><br></ul></div></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">12:20-12:35</td>
@@ -171,7 +165,7 @@ td {
 <button class="collapsible">Session 1</button>
 <div class="content">
   <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;">This is an open slot for colleagues to briefly inform the community about any ongoing or future activities, initiatives, projects, etc. It can be used to invite collaborations, highlight opportunities and challenges, etc. Every speaker will have 3 minutes.</p>
-</td>
+</div></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">12:35-14:00</td>
@@ -183,9 +177,9 @@ td {
 <button class="collapsible">Secure data environments for healthcare NLP applications</button>
 <div class="content">
   <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><strong>Chair:</strong> Arlene Casey (University of Edinburgh) and Vishnu Chandrabalan (Lancaster University)
-</p>
-</td>
+</p></div></td>
 </tr>
+<tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">15:15-15:55</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">PhD forum: 
 <button class="collapsible">Session 1</button>
@@ -194,8 +188,7 @@ td {
 <ul style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><br><li>Carly Yung. Measuring Clinical Critical Cultural Awareness, a Sociolinguistic Analysis on Clinicians’ Language Change in Patients’ Mental Health Records Across Different Groups in the UK</li>
 <li>Yunsoo Kim. Multimodal LLM for Computer Assisted Intervention: Human in the Loop with Eye Gaze of Radiologists</li><br></ul>
 <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><strong>Panel:</strong></p>
-</td>
-</tr>
+</div></td></tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">16:00-17:30</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Posters and demos:&nbsp;
@@ -216,7 +209,7 @@ td {
 <li>Samuel Belkadi, Nicolo Micheletti, Lifeng Han, Warren Del-Pinto and Goran Nenadic. Label-To-Text-Transformer: Generating Synthetic Medication Prescriptions</li>
 <li>Yunsoo Kim, Jinge Wu and Honghan Wu. Exploring Training Methods for Medical LLMs.</li>
 <br></ul>
-</td>
+</div></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">17:30-18:30</td>
@@ -229,12 +222,11 @@ td {
 <li>PPIE</li>
 <li>Clinical NLP governance</li>
 <li>Funding models for healthcare NLP</li><br></ul>
-</tr>
+</div></tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">18:30-22:00</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Drinks reception (18:30) and conference dinner (from 19:00)
-</td></p>
-</tr>
+</td></tr>
 </tbody>
 </table>
 <h5 style="margin-bottom: 0.9375rem; font-weight: bold; line-height: 1.1; color: #6495ED; font-size: 0.9375rem; clear: both; text-transform: uppercase; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-align: start; padding-top: 20px;">FRIDAY, JUNE 14TH 2024</h5>
@@ -254,8 +246,9 @@ td {
 <li>Stephen Barlow, Anna Barnes, Gary Cook, Sugama Chicklore, Yulan He and Thomas Wagner. Automatic TNM staging classification for [18F] fluorodeoxyglucose PET-CT reports for lung cancer utilising natural language processing and multi-task learning.</li>
 <li>Ratchakrit Arreerard and Scott Piao. Exploring GPT-4 for Fine-Grained Emotion Classification.</li>
 <li>Arlene Casey, Matúš Falis, Franz S. Gruber, Amy Tilbrook, Elizabeth Ford and Kathy Harrison. Beyond the Surface – Exploring and Defining Indirect Risks in Clinical Free-text (lightning talk)</li><br></ul>
-</td>
+</div></td>
 </tr>
+<tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="20%">10:20-11:00</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">PhD forum: 
 <button class="collapsible">Session 2</button>
@@ -264,7 +257,7 @@ td {
 <ul style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><br><li>Adam Williams. Developing AI Methods for Animal Health and Welfare Monitoring</li>
 <li>Simon Ellershaw. Automated Generation of Hospital Discharge Summaries Using Clinical Guidelines and Large Language Models</li><br></ul>
 <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><strong>Panel:</strong></p>
-</td>
+</div></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">11:05-12:20</td>
@@ -282,7 +275,7 @@ td {
 <li>Huda M. Alshammari, Denham Phipps, Penny Lewis, Haifa Alrdahi and Riza Batista-Navarro. Development of Guidelines for Annotating Medication-Related Incident Reports</li>
 <li>Jose Rodríguez Torres, Antonio Espinosa de Los Monteros, Angelo Santana, David Killick, P-J Noble and Alan Radford. Shedding light about canine and feline cancer in the UK. A text-mining approach to analyse 1,000,000 canine and feline tumour diagnoses between 2010 and 2023.</li>
 <li>Mengxuan Sun, Ehud Reiter, Lisa Duncan and Rosalind Adam. The role of natural language processing in cancer care: a systematic scoping review with narrative synthesis</li><br></ul>
-</td>
+</div></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="20%">12:20-12:35</td>
@@ -290,7 +283,7 @@ td {
 <button class="collapsible">Session 2</button>
 <div class="content">
   <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;">This is an open slot for colleagues to briefly inform the community about any ongoing or future activities, initiatives, projects, etc. It can be used to invite collaborations, highlight opportunities and challenges, etc. Every speaker will have 3 minutes.</p>
-</td>
+</div></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">12:35-14:00</td>
@@ -298,17 +291,19 @@ td {
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">14:00-14:45</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Keynote:&nbsp;<strong style="font-weight: bold;"> Dr Alistair Johnson</strong>&nbsp;(Glowyr, Inc.)<br>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Keynote:&nbsp;<strong style="font-weight: bold;"> Dr Alistair Johnson</strong>&nbsp;(Glowyr, Inc.)<br />
 <button class="collapsible">The bottleneck has always been data!</button>
 <div class="content">
-  <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;">The world has been in awe at the recent applications of sophisticated machine learning models derived from large datasets. Yet in medicine, we continue to use decades old algorithms to support patient care. Models for cancer progression are based upon staging guidelines defined in the 70s, patient severity of illness is estimated using a scoring system from the 90s, and our latest and greatest criteria for sepsis was a model with three input variables. The reasons for the technological naivety in medicine are multifactorial, but one aspect stands out: researchers simply do not have much data. In this talk I will highlight the MIMIC series of databases, a suite of publicly accessible deidentified medical records. I’ll give an insider’s view on how the electronic health records for thousands of individuals were comprehensively deidentified, transformed, and shared for research without harm to the individual’s themselves. I’ll overview the utility of this data, and highlight some of our own work on language modeling enabled by the broad access to deidentified free-text clinical notes. I’ll conclude with my thoughts on how the field should better balance the benefits and risks of using patient data for research.</p></td>
+  <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;">The world has been in awe at the recent applications of sophisticated machine learning models derived from large datasets. Yet in medicine, we continue to use decades old algorithms to support patient care. Models for cancer progression are based upon staging guidelines defined in the 70s, patient severity of illness is estimated using a scoring system from the 90s, and our latest and greatest criteria for sepsis was a model with three input variables. The reasons for the technological naivety in medicine are multifactorial, but one aspect stands out: researchers simply do not have much data. In this talk I will highlight the MIMIC series of databases, a suite of publicly accessible deidentified medical records. I’ll give an insider’s view on how the electronic health records for thousands of individuals were comprehensively deidentified, transformed, and shared for research without harm to the individual’s themselves. I’ll overview the utility of this data, and highlight some of our own work on language modeling enabled by the broad access to deidentified free-text clinical notes. I’ll conclude with my thoughts on how the field should better balance the benefits and risks of using patient data for research.</p></div></td>
 </tr>
+<tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">14:45-16:00</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Industry forum:&nbsp;
 <button class="collapsible">Collaboration models for clinical large language models</button>
 <div class="content">
   <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><strong>Chair:</strong> Dr Ben Fell (Akrivia)</p>
  <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><strong>Panel:</strong> Richard Dobson (King’s College London)</p>
+</div>
 </td>
 </tr>
 <tr>
@@ -317,12 +312,10 @@ td {
 </tr>
 </tbody>
 </table>
-</div>
-</div> 
+
 <script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
-
 for (i = 0; i < coll.length; i++) {
   coll[i].addEventListener("click", function() {
     this.classList.toggle("active");
