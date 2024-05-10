@@ -120,7 +120,7 @@ td {
 
 
 
-<! --  <h2> Tutorials </h2>
+<!--<h2> Tutorials </h2>
 <br>
   <div class="column">
     <div class="card">
