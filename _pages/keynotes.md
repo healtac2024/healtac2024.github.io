@@ -83,10 +83,7 @@ td {
 </style>
 </head>
 <body>
-
-<h2>Keynote Speakers</h2>
 <br>
-
   <div class="column">
     <div class="card">
       <img src="https://liacs.leidenuniv.nl/~verbernes/wordpress/wp-content/uploads/2020/04/pasfoto_SuzanVerberne_2019-640x640.jpg" alt="suzan" style="width:100%">
