@@ -157,7 +157,7 @@ td {
   <ul style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><br><li>Arlene Casey, Matúš Falis, Franz S. Gruber, Matthew Murrell, Spyro Nita, Amy Tilbrook, Charlie Mayor, Katherine O’Sullivan and Kathy Harrison. Developing a Common Schema for De-identification of Personal Health Identifiers in EHRs across Scotland.</li>
 <li>Elizabeth Ford, Kerina Jones, Rob Stewart, Angus Roberts, Goran Nenadic, Simon Pillinger and Ben Fell. How can we conceptualise and measure re-identification risk from de-identified clinical free text data?</li>
 <li>Daisy Monika Lal, Paul Rayson, Erik Van Mulligen and Jan Kors. Leveraging Large Language Models to Extract Cancer Patient Experiences. (lightning talk)</li>
-<li>Liliana Valles, Alice Tapper, Daniel Goldwater and Matthew Taylor. Accelerating NHS feedback moderation at NHS.UK with NLP. (lightning talk)</li><br></ul></div></td>
+<li>Liliana Valles, Alice Tapper, Daniel Goldwater and Matthew Taylor. Accelerating NHS feedback moderation at NHS.UK with NLP. (lightning talk)<br></li></ul></div></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">12:20-12:35</td>
@@ -186,7 +186,7 @@ td {
 <div class="content">
   <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><strong>Chairs:</strong> Arlene Casey (University of Edinburgh) and Ruizhe Li (University of Aberdeen)</p>
 <ul style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><br><li>Carly Yung. Measuring Clinical Critical Cultural Awareness, a Sociolinguistic Analysis on Clinicians’ Language Change in Patients’ Mental Health Records Across Different Groups in the UK</li>
-<li>Yunsoo Kim. Multimodal LLM for Computer Assisted Intervention: Human in the Loop with Eye Gaze of Radiologists</li><br></ul>
+<li>Yunsoo Kim. Multimodal LLM for Computer Assisted Intervention: Human in the Loop with Eye Gaze of Radiologists<br></li></ul>
 <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><strong>Panel:</strong></p>
 </div></td></tr>
 <tr>
@@ -245,10 +245,10 @@ td {
 <button class="collapsible">Session 2</button>
 <div class="content">
   <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><strong>Chair:</strong></p>
-  <ul style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><br><li>Jennifer Jiang, James Brandreth, Mairead McErlean, Jack Ross, Maisarah Amran, Enrico Costanza, Yogini Jani, Leilei Zhu, Richard Dobson, Folkert Asselbergs, Wai Keong Wong and Anoop Shah. Feasibility study of ‘MiADE’ point of care natural language processing system: methodology and initial results.</li>
+  <br><ul style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><li>Jennifer Jiang, James Brandreth, Mairead McErlean, Jack Ross, Maisarah Amran, Enrico Costanza, Yogini Jani, Leilei Zhu, Richard Dobson, Folkert Asselbergs, Wai Keong Wong and Anoop Shah. Feasibility study of ‘MiADE’ point of care natural language processing system: methodology and initial results.</li>
 <li>Stephen Barlow, Anna Barnes, Gary Cook, Sugama Chicklore, Yulan He and Thomas Wagner. Automatic TNM staging classification for [18F] fluorodeoxyglucose PET-CT reports for lung cancer utilising natural language processing and multi-task learning.</li>
 <li>Ratchakrit Arreerard and Scott Piao. Exploring GPT-4 for Fine-Grained Emotion Classification.</li>
-<li>Arlene Casey, Matúš Falis, Franz S. Gruber, Amy Tilbrook, Elizabeth Ford and Kathy Harrison. Beyond the Surface – Exploring and Defining Indirect Risks in Clinical Free-text (lightning talk)</li><br></ul>
+<li>Arlene Casey, Matúš Falis, Franz S. Gruber, Amy Tilbrook, Elizabeth Ford and Kathy Harrison. Beyond the Surface – Exploring and Defining Indirect Risks in Clinical Free-text (lightning talk)<br></li></ul>
 </div></td>
 </tr>
 <tr>
@@ -315,7 +315,6 @@ td {
 </tr>
 </tbody>
 </table>
-
 <script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
@@ -331,5 +330,10 @@ for (i = 0; i < coll.length; i++) {
   });
 }
 </script>
+</table>
+</div>
+</div>
+</div>
 </body>
 </html>
+
