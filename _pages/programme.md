@@ -110,7 +110,6 @@ td {
 </head>
 
 <body>
-
 <div class="row">
   <div class="column">
     <div class="card"> 
@@ -125,6 +124,7 @@ td {
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="20%">14:00-17:00</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Pre-conference workshop:<br><button class="collapsible">Healthcare Text Analytics in the Era of Large Language Models</button>
 <div class="content"><p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;">Recent advancements in large language models (LLMs), such as ChatGPT, has revolutionised the field of natural language processing (NLP) and opened new possibilities for healthcare text analytics. This tutorial, structured as a combination of lectures and demonstrations, aims to provide a comprehensive guide to leveraging large language models in the healthcare domain, focusing on advanced techniques and applications. The tutorial will begin with an overview of the open source LLMs, emphasising their potential in addressing complex challenges within healthcare text analytics. Special attention will be given to the unique issues surrounding privacy, security, and domain-specific nuances inherent in healthcare data. Participants will be guided through practical applications of LLMs in two distinct healthcare text domains: 1) Discharge Note Generation and 2) PubMed Abstract Information Extraction. Practical demonstrations will illustrate how LLMs can be tailored for each specific domain using prompting, in-context learning, instruction tuning (finetuning). Furthermore, we will delve into LLMs’ challenges in adapting to handle multi-modal data representations.<br><br><strong>Tutorial organisers:</strong> Yunsoo Kim, Jinge Wu and Honghan Wu (University College London, Institute of Health Informatics)</p></div></td></tr></tbody></table>
+
 <h5 style="margin-bottom: 0.9375rem; font-weight: bold; line-height: 1.1; color: #6495ED; font-size: 0.9375rem; clear: both; text-transform: uppercase; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-align: start; padding-top: 20px;">THURSDAY, JUNE 13TH 2024</h5>
 <table class="programme-table" style="background-color: #ffffff; margin-bottom: 20px; width: 790.2px; border-color: #e9e9e9;  font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: start;" border="0">
 <tbody>
@@ -217,18 +217,21 @@ td {
 <button class="collapsible">Session</button>
 <div class="content">
   <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><strong>Chair:</strong></p>
-  <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;">Space will be available for colleagues to self-organise and run birds-of-feather or specific project meetings. The following groups will meet: <ul style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><li>Standards for data modelling and representation (OMOP, FHIR)</li>
+  <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;">Space will be available for colleagues to self-organise and run birds-of-feather or specific project meetings. The following groups will meet: </p>
+  <ul style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><li>Standards for data modelling and representation (OMOP, FHIR)</li>
 <li>Computational infrastructure</li>
 <li>PPIE</li>
 <li>Clinical NLP governance</li>
 <li>Funding models for healthcare NLP</li><br></ul>
-</div></tr>
+</div>
+</tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">18:30-22:00</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Drinks reception (18:30) and conference dinner (from 19:00)
-</td></tr>
-</tbody>
-</table>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Drinks reception (18:30) and conference dinner (from 19:00)</td>
+</tr>
+</tbody></table>
+
+
 <h5 style="margin-bottom: 0.9375rem; font-weight: bold; line-height: 1.1; color: #6495ED; font-size: 0.9375rem; clear: both; text-transform: uppercase; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-align: start; padding-top: 20px;">FRIDAY, JUNE 14TH 2024</h5>
 <table class="programme-table" style="background-color: #ffffff; margin-bottom: 20px; width: 790.2px; border-color: #e9e9e9=; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: start;" border="0">
 <tbody>
