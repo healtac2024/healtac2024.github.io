@@ -120,7 +120,7 @@ td {
 
 
 
-<h2> Tutorials </h2>
+<! --  <h2> Tutorials </h2>
 <br>
   <div class="column">
     <div class="card">
@@ -136,7 +136,7 @@ possibilities for healthcare text analytics. This tutorial, structured as a comb
     <br>
     <br>
     <br>
-  </div>
+  </div> -->
 
 
   
