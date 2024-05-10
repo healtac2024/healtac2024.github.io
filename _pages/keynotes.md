@@ -1,6 +1,6 @@
 ---
-permalink: /programme/
-title: "Programme"
+permalink: /keynotes/
+title: "Keynote Speakers"
 ---
 <html>
 <head>
