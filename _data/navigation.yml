@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: /
-  # - title: "Programme"
-  #   url: /programme/
+  - title: "Programme"
+    url: /programme/
   - title: "Keynote Speakers"
     url: /keynotes/
   - title: "Calls"
