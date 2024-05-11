@@ -6,19 +6,21 @@ main:
     url: /programme/
   - title: "Keynote Speakers"
     url: /keynotes/
-  - title: "Calls"
-    url: /cfp/
-  - title: "Second Call"
-    url: /cfp2/
-  - title: "Submissions"
-    url: /submissions/
-  - title: "Dates"
-    url: /dates/
+  # - title: "Calls"
+  #   url: /cfp/
+  # - title: "Second Call"
+  #   url: /cfp2/
+  # - title: "Submissions"
+  #   url: /submissions/
+  # - title: "Dates"
+  #   url: /dates/
   - title: "Committees"
     url: /committees/
   - title: "Venue"
     url: /venue/
-  - title: "Sponsors"
-    url: /sponsors/
+  - title: "Calls and Dates"
+    url: /datesandcalls/
+  # - title: "Sponsors"
+  #   url: /sponsors/
   - title: "News"
     url: /posts/
