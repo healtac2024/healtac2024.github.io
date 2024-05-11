@@ -11,7 +11,7 @@ title: "Calls and Dates"
   background-color:#468;
   color:  white;
   cursor: pointer;
-  padding: 50px;
+  padding: 30px;
   width: 100%;
   border: none;
   text-align: left;
@@ -134,7 +134,7 @@ td {
 
 
 div.gallery img {
-  width: 30%;
+  width: 50%;
   height: auto;
 }
 
