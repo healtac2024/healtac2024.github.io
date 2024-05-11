@@ -3,6 +3,7 @@ permalink: /programme/
 title: "Programme"
 ---
 
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -110,7 +111,6 @@ td {
 </head>
 <body>
 <h5 style="margin-bottom: 0.9375rem; font-weight: bold; line-height: 1.1; color: #6495ED; font-size: 0.9375rem; clear: both; text-transform: uppercase; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-align: start;">WEDNESDAY, JUNE 12TH 2024</h5>
-
 <table class="programme-table" style="background-color: #ffffff; margin-bottom: 20px; width: 790.2px; border-color: #e9e9e9; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: start;" border="0">
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="20%">14:00-17:00</td>
@@ -216,6 +216,7 @@ td {
 <li>Clinical NLP governance</li>
 <li>Funding models for healthcare NLP<br></li></ul>
 </div>
+</td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">18:30-22:00</td>
