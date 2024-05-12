@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "HealTAC 2024"
+  # name   : "HealTAC 2024"
 #  avatar : "/assets/images/bio-photo.jpg"
   bio    : "7th Healthcare Text Analytics Conference"
   links:
