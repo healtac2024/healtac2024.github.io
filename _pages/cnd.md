@@ -8,7 +8,7 @@ title: "Calls and Dates"
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .collapsible {
-  background-color:#1E90FF;
+  background-color:#6495ED;
   color:  white;
   cursor: pointer;
   padding: 30px;
