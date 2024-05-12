@@ -4,8 +4,6 @@ main:
     url: /
   - title: "Programme"
     url: /programme/
-  - title: "Keynote Speakers"
-    url: /keynotes/
   # - title: "Calls"
   #   url: /cfp/
   # - title: "Second Call"
@@ -24,3 +22,5 @@ main:
   #   url: /sponsors/
   - title: "News"
     url: /posts/
+  - title: "Keynote Speakers"
+    url: /keynotes/
