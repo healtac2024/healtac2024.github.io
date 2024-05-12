@@ -65,7 +65,7 @@ author:
     - label: "<strong>KEY DATES</strong><br>–<span style='color: #6495ED;'><strong>Conference:</strong><br>June 13-14, 2024</span><br>–<span style='color: #6495ED;'><strong>Tutorials:</strong><br>June 12, 2024</span><br><br><br>"
       icon: "far fa-calendar-alt"
       url: https://healtac2024.github.io/datesandcalls/
-   - label: "<strong>KEYNOTES</strong><br>–<span style='color: #b31aff;'><a href="https://www.universiteitleiden.nl/en/staffmembers/suzan-verberne#tab-1">Prof Suzan Verberne</a> (Leiden University)<br>–<span style='color: #b31aff;'><a href="https://alistairewj.github.io/">Dr Alistair Johnson</a> (Glowyr)<br><br><br>"
+   - label: "<strong>KEYNOTES</strong><br>–<span style='color: #b31aff;'>Prof Suzan Verberne (Leiden University)</span><br>–<span style='color: #b31aff;'>Dr Alistair Johnson (Glowyr)<br><br><br>"
       icon: "fas fa-user-friends"
       url: https://healtac2024.github.io/keynotes/
     - label: "HealTAC-2023"
