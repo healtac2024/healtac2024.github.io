@@ -62,9 +62,10 @@ author:
 #  avatar : "/assets/images/bio-photo.jpg"
   bio    : "7th Healthcare Text Analytics Conference"
   links:
-    - label: "HealTAC-2024"
-      icon: "fas fa-fw fa-link"
-      url: "https://healtac2024.github.io/"
+    - label: "KEY DATES <br> – Conference: June 15th and 16th 2023 <br> – Tutorials and pre-conf events: June 14th 2023 "
+    # - label: "HealTAC-2024"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://healtac2024.github.io/"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
@@ -92,6 +93,7 @@ author:
     - label: "HealTAC-2018"
       icon: "fas fa-fw fa-link"
       url: http://healtex.org/healtac-2018/
+
 
 footer:
   links:
