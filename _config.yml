@@ -62,7 +62,7 @@ author:
 #  avatar : "/assets/images/bio-photo.jpg"
   bio    : "7th Healthcare Text Analytics Conference"
   links:
-    - label: "<strong>KEY DATES</strong><br>–<strong>Conference:</strong><br> June 13th and 14th 2024<br>–<strong>Tutorials:</strong><br> June 12th 2024<br><br>"
+    - label: "<strong>KEY DATES</strong><br>–<span style='color: #1E417A;'><strong>Conference:</strong><br> June 13-14, 2024</span><br>–<span style='color: #326441;'><strong>Tutorials:</strong><br> June 12, 2024</span><br><br><br>"
       url: ""
       icon: "far fa-calendar-alt"
       # url: https://healtac2024.github.io/datesandcalls/
