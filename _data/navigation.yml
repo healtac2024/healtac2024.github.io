@@ -14,6 +14,8 @@ main:
   #   url: /submissions/
   # - title: "Dates"
   #   url: /dates/
+  - title: "Keynote Speakers"
+    url: /keynotes/
   - title: "Committees"
     url: /committees/
   - title: "Venue"
@@ -24,5 +26,3 @@ main:
   #   url: /sponsors/
   - title: "News"
     url: /posts/
-  - title: "Keynote Speakers"
-    url: /keynotes/
