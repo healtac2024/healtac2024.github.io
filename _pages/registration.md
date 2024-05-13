@@ -1,6 +1,6 @@
 ---
 permalink: /registration/
-title: "Registration"
+title: " "
 ---
 
 <html>
@@ -9,7 +9,10 @@ title: "Registration"
 <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 </head>
 <body>
-
+<br>
+<br>
+<br>
+  
 <h1 style="color:#528;">Registration will open soon  <i class="fas fa-sync-alt fa-spin"></i>
 </h1>
 
