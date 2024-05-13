@@ -163,6 +163,23 @@ div.scroll-container img {
 <br>
 <br>
 <br>
+
+
+<div class="image-container-1">
+  <div class="text-1">LANCASTER UNIVERSITY</div>
+</div>
+
+<div class="scroll-container">
+    <img src="/assets/images/alex_square/20200530_194450255_iOS.jpeg" width="300" height="300">
+    <img src="/assets/images/infolab/20210917_175340223_iOS.jpg" width="300" height="300"> 
+    <img src="/assets/images/university/20170501_135102767_iOS.jpg" width="300" height="300">
+    <img src="/assets/images/alex_square/20210205_170511772_iOS.jpeg" width="300" height="300">
+</div>
+
+<br>
+<br>
+<br>
+<br>
  
 <div class="image-container">
   <div class="text">LANCASTER</div>
@@ -183,22 +200,7 @@ div.scroll-container img {
     <img src="/assets/images/town/IMG_5298.jpg" width="300" height="300">
 </div>
 
-<br>
-<br>
-<br>
-<br>
 
-
-<div class="image-container-1">
-  <div class="text-1">LANCASTER UNIVERSITY</div>
-</div>
-
-<div class="scroll-container">
-    <img src="/assets/images/alex_square/20200530_194450255_iOS.jpeg" width="300" height="300">
-    <img src="/assets/images/infolab/20210917_175340223_iOS.jpg" width="300" height="300"> 
-    <img src="/assets/images/university/20170501_135102767_iOS.jpg" width="300" height="300">
-    <img src="/assets/images/alex_square/20210205_170511772_iOS.jpeg" width="300" height="300">
-</div>
 
 </body>
 </html>
