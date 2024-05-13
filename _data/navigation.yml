@@ -2,6 +2,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "Registration"
+    url: /registration/
   - title: "Programme"
     url: /programme/
   # - title: "Calls"
