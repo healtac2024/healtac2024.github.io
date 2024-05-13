@@ -155,8 +155,8 @@ div.scroll-container img {
     <pre class="tab1" style="font-family: 'Akaya Telivigala';">    Lancaster University</pre>
 	<pre class="tab1" style="font-family: 'Akaya Telivigala';">    Lancaster</pre>
 	<pre class="tab1" style="font-family: 'Akaya Telivigala';">    United Kingdom</pre>
-    <pre class="tab1" style="font-family: 'Akaya Telivigala';">    LA1 4YW</pre>
-	  <p> </p>
+     <pre class="tab1" style="font-family: 'Akaya Telivigala';">    LA1 4YW</pre>
+     <pre class="tab1" style="font-family: 'Akaya Telivigala';">         </pre>
   </div>
 </div>
 
