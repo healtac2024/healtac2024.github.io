@@ -165,7 +165,7 @@ td {
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">14:00-15:15</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Panel: 
-<button class="collapsible">Secure data environments for healthcare NLP applications</button>
+<button class="collapsible">Secure data environments for healthcare NLP</button>
 <div class="content">
   <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><strong>Chair:</strong> Arlene Casey (University of Edinburgh) and Vishnu Chandrabalan (Lancaster University)
 </p></div></td>
