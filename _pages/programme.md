@@ -114,7 +114,7 @@ td {
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="20%">14:00-17:00</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Pre-conference workshop:<br><button class="collapsible">Healthcare Text Analytics in the Era of Large Language Models</button>
-<div class="content"><p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;">Recent advancements in large language models (LLMs), such as ChatGPT, has revolutionised the field of natural language processing (NLP) and opened new possibilities for healthcare text analytics. This tutorial, structured as a combination of lectures and demonstrations, aims to provide a comprehensive guide to leveraging large language models in the healthcare domain, focusing on advanced techniques and applications. The tutorial will begin with an overview of the open source LLMs, emphasising their potential in addressing complex challenges within healthcare text analytics. Special attention will be given to the unique issues surrounding privacy, security, and domain-specific nuances inherent in healthcare data. Participants will be guided through practical applications of LLMs in two distinct healthcare text domains: 1) Discharge Note Generation and 2) PubMed Abstract Information Extraction. Practical demonstrations will illustrate how LLMs can be tailored for each specific domain using prompting, in-context learning, instruction tuning (finetuning). Furthermore, we will delve into LLMs’ challenges in adapting to handle multi-modal data representations.<br><br><strong>Tutorial organisers:</strong> Yunsoo Kim, Jinge Wu and Honghan Wu (University College London, Institute of Health Informatics)</p></div></td>
+<div class="content"><p style=" color: black; background-color: white; text-decoration: none;">Recent advancements in large language models (LLMs), such as ChatGPT, has revolutionised the field of natural language processing (NLP) and opened new possibilities for healthcare text analytics. This tutorial, structured as a combination of lectures and demonstrations, aims to provide a comprehensive guide to leveraging large language models in the healthcare domain, focusing on advanced techniques and applications. The tutorial will begin with an overview of the open source LLMs, emphasising their potential in addressing complex challenges within healthcare text analytics. Special attention will be given to the unique issues surrounding privacy, security, and domain-specific nuances inherent in healthcare data. Participants will be guided through practical applications of LLMs in two distinct healthcare text domains: 1) Discharge Note Generation and 2) PubMed Abstract Information Extraction. Practical demonstrations will illustrate how LLMs can be tailored for each specific domain using prompting, in-context learning, instruction tuning (finetuning). Furthermore, we will delve into LLMs’ challenges in adapting to handle multi-modal data representations.<br><br><strong>Tutorial organisers:</strong> Yunsoo Kim, Jinge Wu and Honghan Wu (University College London, Institute of Health Informatics)</p></div></td>
 </tr>
 </table>
 
@@ -133,7 +133,7 @@ td {
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Keynote: <strong style="font-weight: bold;">Prof Suzan Verberne</strong> (Leiden University). <br>
 <button class="collapsible">Large Language Models in healthcare: should we care more?</button>
 <div class="content">
-  <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;">ChatGPT can do a lot for us: it can serve as a text corrector, as a source of inspiration, as a programming aid, and as an interactive search engine. ChatGPT is also widely used in the health domain, both by doctors and patients. Large language models (LLMs) such as ChatGPT can write very convincing texts, but being able to write fluently is not the same as providing correct information. Should we worry about that? In my presentation I will first discuss our work on text mining from patient experiences, highlighting the challenges of extracting medical information from informal text. Then I will discuss the opportunities of using LLMs, and go into the risks and challenges. I will also make suggestions for responsible use of LLMs for medical applications.</p></div></td>
+  <p style=" color: black; background-color: white; text-decoration: none;">ChatGPT can do a lot for us: it can serve as a text corrector, as a source of inspiration, as a programming aid, and as an interactive search engine. ChatGPT is also widely used in the health domain, both by doctors and patients. Large language models (LLMs) such as ChatGPT can write very convincing texts, but being able to write fluently is not the same as providing correct information. Should we worry about that? In my presentation I will first discuss our work on text mining from patient experiences, highlighting the challenges of extracting medical information from informal text. Then I will discuss the opportunities of using LLMs, and go into the risks and challenges. I will also make suggestions for responsible use of LLMs for medical applications.</p></div></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">11:15-11:30</td>
@@ -144,8 +144,8 @@ td {
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Presentations:&nbsp;
 <button class="collapsible">Session 1</button>
 <div class="content">
-  <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><strong>Chair:</strong></p>
-  <ul style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><br><li>Arlene Casey, Matúš Falis, Franz S. Gruber, Matthew Murrell, Spyro Nita, Amy Tilbrook, Charlie Mayor, Katherine O’Sullivan and Kathy Harrison. Developing a Common Schema for De-identification of Personal Health Identifiers in EHRs across Scotland.</li>
+  <p style="color: black; background-color: white; text-decoration: none;"><strong>Chair:</strong></p>
+  <ul style="color: black; background-color: white; text-decoration: none;"><br><li>Arlene Casey, Matúš Falis, Franz S. Gruber, Matthew Murrell, Spyro Nita, Amy Tilbrook, Charlie Mayor, Katherine O’Sullivan and Kathy Harrison. Developing a Common Schema for De-identification of Personal Health Identifiers in EHRs across Scotland.</li>
 <li>Elizabeth Ford, Kerina Jones, Rob Stewart, Angus Roberts, Goran Nenadic, Simon Pillinger and Ben Fell. How can we conceptualise and measure re-identification risk from de-identified clinical free text data?</li>
 <li>Daisy Monika Lal, Paul Rayson, Erik Van Mulligen and Jan Kors. Leveraging Large Language Models to Extract Cancer Patient Experiences. (lightning talk)</li>
 <li>Liliana Valles, Alice Tapper, Daniel Goldwater and Matthew Taylor. Accelerating NHS feedback moderation at NHS.UK with NLP. (lightning talk)<br></li></ul></div></td>
@@ -155,7 +155,7 @@ td {
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Open community forum and discussions:&nbsp;
 <button class="collapsible">Session 1</button>
 <div class="content">
-  <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;">This is an open slot for colleagues to briefly inform the community about any ongoing or future activities, initiatives, projects, etc. It can be used to invite collaborations, highlight opportunities and challenges, etc. Every speaker will have 3 minutes.</p>
+  <p style="color: black; background-color: white; text-decoration: none;">This is an open slot for colleagues to briefly inform the community about any ongoing or future activities, initiatives, projects, etc. It can be used to invite collaborations, highlight opportunities and challenges, etc. Every speaker will have 3 minutes.</p>
 </div></td>
 </tr>
 <tr>
@@ -167,7 +167,7 @@ td {
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Panel: 
 <button class="collapsible">Secure data environments for healthcare NLP</button>
 <div class="content">
-  <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><strong>Chair:</strong> Arlene Casey (University of Edinburgh) and Vishnu Chandrabalan (Lancaster University)
+  <p style="color: black; background-color: white; text-decoration: none;"><strong>Chair:</strong> Arlene Casey (University of Edinburgh) and Vishnu Chandrabalan (Lancaster University)
 </p></div></td>
 </tr>
 <tr>
@@ -175,17 +175,17 @@ td {
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">PhD forum: 
 <button class="collapsible">Session 1</button>
 <div class="content">
-  <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><strong>Chairs:</strong> Arlene Casey (University of Edinburgh) and Ruizhe Li (University of Aberdeen)</p>
-<ul style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><br><li>Carly Yung. Measuring Clinical Critical Cultural Awareness, a Sociolinguistic Analysis on Clinicians’ Language Change in Patients’ Mental Health Records Across Different Groups in the UK</li>
+  <p style="color: black; background-color: white; text-decoration: none;"><strong>Chairs:</strong> Arlene Casey (University of Edinburgh) and Ruizhe Li (University of Aberdeen)</p>
+<ul style="color: black; background-color: white; text-decoration: none;"><br><li>Carly Yung. Measuring Clinical Critical Cultural Awareness, a Sociolinguistic Analysis on Clinicians’ Language Change in Patients’ Mental Health Records Across Different Groups in the UK</li>
 <li>Yunsoo Kim. Multimodal LLM for Computer Assisted Intervention: Human in the Loop with Eye Gaze of Radiologists<br></li></ul>
-<p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><strong>Panel:</strong></p>
+<p style="color: black; background-color: white; text-decoration: none;"><strong>Panel:</strong></p>
 </div></td></tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">16:00-17:30</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Posters and demos:&nbsp;
 <button class="collapsible">Session 1</button>
 <div class="content">
-  <ul style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><br><li>Franz S. Gruber, Matúš Falis, Amy Tilbrook and Arlene Casey. A Privacy Risk Dashboard for Clinical Free-text (DEMO)</li>
+  <ul style="color: black; background-color: white; text-decoration: none;"><br><li>Franz S. Gruber, Matúš Falis, Amy Tilbrook and Arlene Casey. A Privacy Risk Dashboard for Clinical Free-text (DEMO)</li>
 <li>Fawaz Alarfaj, Hikmat Ullah Khan and Muzamil Ahmed. Context-aware Medical Question Answering: An Extended Transformers-Based Approach with BioBERT Encoding for Restricted Domain Queries</li>
 <li>Warren Del-Pinto, Jenny Humphreys, Meghna Jani, Prajwal Khairnar, Ana Aldana, Robyn Hamilton, Karim Webb, Goran Nenadic and William Dixon. Annotation of Outpatient Letters to Estimate Prevalence and Misclassification of Musculoskeletal Disease</li>
 <li>Jack Wu, Jonathan Breeze, Dhruva Biswas, Sam Brown, Brian Tam To, Matthew Ryan, Theresa McDonagh, Daniel Bromage, Antonio Cannata, Thomas Searle, James Teo, Richard Dobson, Ajay Shah and Kevin O’Gallagher. How representative are heart failure clinical trials? A comparative study using natural language processing</li>
@@ -207,9 +207,9 @@ td {
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Birds of feather meetings:&nbsp;
 <button class="collapsible">Session</button>
 <div class="content">
-  <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><strong>Chair:</strong></p>
-  <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;">Space will be available for colleagues to self-organise and run birds-of-feather or specific project meetings. The following groups will meet: </p>
-  <ul style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><li>Standards for data modelling and representation (OMOP, FHIR)</li>
+  <p style="color: black; background-color: white; text-decoration: none;"><strong>Chair:</strong></p>
+  <p style="color: black; background-color: white; text-decoration: none;">Space will be available for colleagues to self-organise and run birds-of-feather or specific project meetings. The following groups will meet: </p>
+  <ul style="color: black; background-color: white; text-decoration: none;"><li>Standards for data modelling and representation (OMOP, FHIR)</li>
 <li>Computational infrastructure</li>
 <li>PPIE</li>
 <li>Clinical NLP governance</li>
@@ -234,8 +234,8 @@ td {
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Presentations:&nbsp;
 <button class="collapsible">Session 2</button>
 <div class="content">
-  <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><strong>Chair:</strong></p>
-  <br><ul style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><li>Jennifer Jiang, James Brandreth, Mairead McErlean, Jack Ross, Maisarah Amran, Enrico Costanza, Yogini Jani, Leilei Zhu, Richard Dobson, Folkert Asselbergs, Wai Keong Wong and Anoop Shah. Feasibility study of ‘MiADE’ point of care natural language processing system: methodology and initial results.</li>
+  <p style="color: black; background-color: white; text-decoration: none;"><strong>Chair:</strong></p>
+  <br><ul style="color: black; background-color: white; text-decoration: none;"><li>Jennifer Jiang, James Brandreth, Mairead McErlean, Jack Ross, Maisarah Amran, Enrico Costanza, Yogini Jani, Leilei Zhu, Richard Dobson, Folkert Asselbergs, Wai Keong Wong and Anoop Shah. Feasibility study of ‘MiADE’ point of care natural language processing system: methodology and initial results.</li>
 <li>Stephen Barlow, Anna Barnes, Gary Cook, Sugama Chicklore, Yulan He and Thomas Wagner. Automatic TNM staging classification for [18F] fluorodeoxyglucose PET-CT reports for lung cancer utilising natural language processing and multi-task learning.</li>
 <li>Ratchakrit Arreerard and Scott Piao. Exploring GPT-4 for Fine-Grained Emotion Classification.</li>
 <li>Arlene Casey, Matúš Falis, Franz S. Gruber, Amy Tilbrook, Elizabeth Ford and Kathy Harrison. Beyond the Surface – Exploring and Defining Indirect Risks in Clinical Free-text (lightning talk)<br></li></ul>
@@ -246,10 +246,10 @@ td {
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">PhD forum: 
 <button class="collapsible">Session 2</button>
 <div class="content">
-  <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><strong>Chairs:</strong> Arlene Casey (University of Edinburgh) and Ruizhe Li (University of Aberdeen)</p>
-<ul style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><br><li>Adam Williams. Developing AI Methods for Animal Health and Welfare Monitoring</li>
+  <p style="color: black; background-color: white; text-decoration: none;"><strong>Chairs:</strong> Arlene Casey (University of Edinburgh) and Ruizhe Li (University of Aberdeen)</p>
+<ul style="color: black; background-color: white; text-decoration: none;"><br><li>Adam Williams. Developing AI Methods for Animal Health and Welfare Monitoring</li>
 <li>Simon Ellershaw. Automated Generation of Hospital Discharge Summaries Using Clinical Guidelines and Large Language Models</li><br></ul>
-<p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><strong>Panel:</strong></p>
+<p style="color: black; background-color: white; text-decoration: none;"><strong>Panel:</strong></p>
 </div></td>
 </tr>
 <tr>
@@ -257,7 +257,7 @@ td {
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Posters and demos:&nbsp;
 <button class="collapsible">Session 2</button>
 <div class="content">
-  <ul style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><br><li>Faizan E Mustafa and Juan G. Diaz Ochoa. Tool for mapping of medical narratives into medical ontologies in low resource setting: A case study for German (DEMO )</li>
+  <ul style="color: black; background-color: white; text-decoration: none;"><br><li>Faizan E Mustafa and Juan G. Diaz Ochoa. Tool for mapping of medical narratives into medical ontologies in low resource setting: A case study for German (DEMO )</li>
 <li>Lifeng Han, Serge Gladkoff, Betty Galiano, Irina Sorokina, Gleb Erofeev and Goran Nenadic. Neural Machine Translation of Clinical Text between English and Spanish</li>
 <li>Shubham Agarwal, Thomas Searle, Richard Dobson, Anthony Shek and James Teo. Improving Multi-Task Text Classification Performance in Electronic Health Records</li>
 <li>Joseph Cronin, Keiran Tait, Jamie Wallis and Robert Durichen. ArcTEX – a precise clinical data enrichment model to support real world evidence studies</li>
@@ -275,7 +275,7 @@ td {
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Open community forum and discussions:&nbsp;
 <button class="collapsible">Session 2</button>
 <div class="content">
-  <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;">This is an open slot for colleagues to briefly inform the community about any ongoing or future activities, initiatives, projects, etc. It can be used to invite collaborations, highlight opportunities and challenges, etc. Every speaker will have 3 minutes.</p>
+  <p style="color: black; background-color: white; text-decoration: none;">This is an open slot for colleagues to briefly inform the community about any ongoing or future activities, initiatives, projects, etc. It can be used to invite collaborations, highlight opportunities and challenges, etc. Every speaker will have 3 minutes.</p>
 </div></td>
 </tr>
 <tr>
@@ -287,15 +287,15 @@ td {
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Keynote:&nbsp;<strong style="font-weight: bold;"> Dr Alistair Johnson</strong>&nbsp;(Glowyr, Inc.)<br />
 <button class="collapsible">The bottleneck has always been data!</button>
 <div class="content">
-  <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;">The world has been in awe at the recent applications of sophisticated machine learning models derived from large datasets. Yet in medicine, we continue to use decades old algorithms to support patient care. Models for cancer progression are based upon staging guidelines defined in the 70s, patient severity of illness is estimated using a scoring system from the 90s, and our latest and greatest criteria for sepsis was a model with three input variables. The reasons for the technological naivety in medicine are multifactorial, but one aspect stands out: researchers simply do not have much data. In this talk I will highlight the MIMIC series of databases, a suite of publicly accessible deidentified medical records. I’ll give an insider’s view on how the electronic health records for thousands of individuals were comprehensively deidentified, transformed, and shared for research without harm to the individual’s themselves. I’ll overview the utility of this data, and highlight some of our own work on language modeling enabled by the broad access to deidentified free-text clinical notes. I’ll conclude with my thoughts on how the field should better balance the benefits and risks of using patient data for research.</p></div></td>
+  <p style="color: black; background-color: white; text-decoration: none;">The world has been in awe at the recent applications of sophisticated machine learning models derived from large datasets. Yet in medicine, we continue to use decades old algorithms to support patient care. Models for cancer progression are based upon staging guidelines defined in the 70s, patient severity of illness is estimated using a scoring system from the 90s, and our latest and greatest criteria for sepsis was a model with three input variables. The reasons for the technological naivety in medicine are multifactorial, but one aspect stands out: researchers simply do not have much data. In this talk I will highlight the MIMIC series of databases, a suite of publicly accessible deidentified medical records. I’ll give an insider’s view on how the electronic health records for thousands of individuals were comprehensively deidentified, transformed, and shared for research without harm to the individual’s themselves. I’ll overview the utility of this data, and highlight some of our own work on language modeling enabled by the broad access to deidentified free-text clinical notes. I’ll conclude with my thoughts on how the field should better balance the benefits and risks of using patient data for research.</p></div></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">14:45-16:00</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Industry forum:&nbsp;
 <button class="collapsible">Collaboration models for clinical large language models</button>
 <div class="content">
-  <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><strong>Chair:</strong> Dr Ben Fell (Akrivia)</p>
- <p style=" color: #6495ED; background-color: #F0F8FF; text-decoration: none;"><strong>Panel:</strong> Richard Dobson (King’s College London)</p>
+  <p style="color: black; background-color: white; text-decoration: none;"><strong>Chair:</strong> Dr Ben Fell (Akrivia)</p>
+ <p style="color: black; background-color: white; text-decoration: none;"><strong>Panel:</strong> Richard Dobson (King’s College London)</p>
 </div>
 </td>
 </tr>
