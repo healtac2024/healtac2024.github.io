@@ -145,7 +145,7 @@ td {
 <button class="collapsible">Session 1</button>
 <div class="content">
   <p style="color: black; background-color: white; text-decoration: none;"><strong>Chair:</strong></p>
-  <ul style="color: black; background-color: white; text-decoration: none;"><br><li>Arlene Casey, Matúš Falis, Franz S. Gruber, Matthew Murrell, Spyro Nita, Amy Tilbrook, Charlie Mayor, Katherine O’Sullivan and Kathy Harrison. Developing a Common Schema for De-identification of Personal Health Identifiers in EHRs across Scotland.</li>
+  <ul style="color: black; background-color: white; text-decoration: none;"><li>Arlene Casey, Matúš Falis, Franz S. Gruber, Matthew Murrell, Spyro Nita, Amy Tilbrook, Charlie Mayor, Katherine O’Sullivan and Kathy Harrison. Developing a Common Schema for De-identification of Personal Health Identifiers in EHRs across Scotland.</li>
 <li>Elizabeth Ford, Kerina Jones, Rob Stewart, Angus Roberts, Goran Nenadic, Simon Pillinger and Ben Fell. How can we conceptualise and measure re-identification risk from de-identified clinical free text data?</li>
 <li>Daisy Monika Lal, Paul Rayson, Erik Van Mulligen and Jan Kors. Leveraging Large Language Models to Extract Cancer Patient Experiences. (lightning talk)</li>
 <li>Liliana Valles, Alice Tapper, Daniel Goldwater and Matthew Taylor. Accelerating NHS feedback moderation at NHS.UK with NLP. (lightning talk)<br></li></ul></div></td>
@@ -176,7 +176,7 @@ td {
 <button class="collapsible">Session 1</button>
 <div class="content">
   <p style="color: black; background-color: white; text-decoration: none;"><strong>Chairs:</strong> Arlene Casey (University of Edinburgh) and Ruizhe Li (University of Aberdeen)</p>
-<ul style="color: black; background-color: white; text-decoration: none;"><br><li>Carly Yung. Measuring Clinical Critical Cultural Awareness, a Sociolinguistic Analysis on Clinicians’ Language Change in Patients’ Mental Health Records Across Different Groups in the UK</li>
+<ul style="color: black; background-color: white; text-decoration: none;"><li>Carly Yung. Measuring Clinical Critical Cultural Awareness, a Sociolinguistic Analysis on Clinicians’ Language Change in Patients’ Mental Health Records Across Different Groups in the UK</li>
 <li>Yunsoo Kim. Multimodal LLM for Computer Assisted Intervention: Human in the Loop with Eye Gaze of Radiologists<br></li></ul>
 <p style="color: black; background-color: white; text-decoration: none;"><strong>Panel:</strong></p>
 </div></td></tr>
@@ -185,7 +185,7 @@ td {
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Posters and demos:&nbsp;
 <button class="collapsible">Session 1</button>
 <div class="content">
-  <ul style="color: black; background-color: white; text-decoration: none;"><br><li>Franz S. Gruber, Matúš Falis, Amy Tilbrook and Arlene Casey. A Privacy Risk Dashboard for Clinical Free-text (DEMO)</li>
+  <ul style="color: black; background-color: white; text-decoration: none;"><li>Franz S. Gruber, Matúš Falis, Amy Tilbrook and Arlene Casey. A Privacy Risk Dashboard for Clinical Free-text (DEMO)</li>
 <li>Fawaz Alarfaj, Hikmat Ullah Khan and Muzamil Ahmed. Context-aware Medical Question Answering: An Extended Transformers-Based Approach with BioBERT Encoding for Restricted Domain Queries</li>
 <li>Warren Del-Pinto, Jenny Humphreys, Meghna Jani, Prajwal Khairnar, Ana Aldana, Robyn Hamilton, Karim Webb, Goran Nenadic and William Dixon. Annotation of Outpatient Letters to Estimate Prevalence and Misclassification of Musculoskeletal Disease</li>
 <li>Jack Wu, Jonathan Breeze, Dhruva Biswas, Sam Brown, Brian Tam To, Matthew Ryan, Theresa McDonagh, Daniel Bromage, Antonio Cannata, Thomas Searle, James Teo, Richard Dobson, Ajay Shah and Kevin O’Gallagher. How representative are heart failure clinical trials? A comparative study using natural language processing</li>
@@ -235,7 +235,7 @@ td {
 <button class="collapsible">Session 2</button>
 <div class="content">
   <p style="color: black; background-color: white; text-decoration: none;"><strong>Chair:</strong></p>
-  <br><ul style="color: black; background-color: white; text-decoration: none;"><li>Jennifer Jiang, James Brandreth, Mairead McErlean, Jack Ross, Maisarah Amran, Enrico Costanza, Yogini Jani, Leilei Zhu, Richard Dobson, Folkert Asselbergs, Wai Keong Wong and Anoop Shah. Feasibility study of ‘MiADE’ point of care natural language processing system: methodology and initial results.</li>
+  <ul style="color: black; background-color: white; text-decoration: none;"><li>Jennifer Jiang, James Brandreth, Mairead McErlean, Jack Ross, Maisarah Amran, Enrico Costanza, Yogini Jani, Leilei Zhu, Richard Dobson, Folkert Asselbergs, Wai Keong Wong and Anoop Shah. Feasibility study of ‘MiADE’ point of care natural language processing system: methodology and initial results.</li>
 <li>Stephen Barlow, Anna Barnes, Gary Cook, Sugama Chicklore, Yulan He and Thomas Wagner. Automatic TNM staging classification for [18F] fluorodeoxyglucose PET-CT reports for lung cancer utilising natural language processing and multi-task learning.</li>
 <li>Ratchakrit Arreerard and Scott Piao. Exploring GPT-4 for Fine-Grained Emotion Classification.</li>
 <li>Arlene Casey, Matúš Falis, Franz S. Gruber, Amy Tilbrook, Elizabeth Ford and Kathy Harrison. Beyond the Surface – Exploring and Defining Indirect Risks in Clinical Free-text (lightning talk)<br></li></ul>
@@ -247,7 +247,7 @@ td {
 <button class="collapsible">Session 2</button>
 <div class="content">
   <p style="color: black; background-color: white; text-decoration: none;"><strong>Chairs:</strong> Arlene Casey (University of Edinburgh) and Ruizhe Li (University of Aberdeen)</p>
-<ul style="color: black; background-color: white; text-decoration: none;"><br><li>Adam Williams. Developing AI Methods for Animal Health and Welfare Monitoring</li>
+<ul style="color: black; background-color: white; text-decoration: none;"><li>Adam Williams. Developing AI Methods for Animal Health and Welfare Monitoring</li>
 <li>Simon Ellershaw. Automated Generation of Hospital Discharge Summaries Using Clinical Guidelines and Large Language Models</li><br></ul>
 <p style="color: black; background-color: white; text-decoration: none;"><strong>Panel:</strong></p>
 </div></td>
@@ -257,7 +257,7 @@ td {
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Posters and demos:&nbsp;
 <button class="collapsible">Session 2</button>
 <div class="content">
-  <ul style="color: black; background-color: white; text-decoration: none;"><br><li>Faizan E Mustafa and Juan G. Diaz Ochoa. Tool for mapping of medical narratives into medical ontologies in low resource setting: A case study for German (DEMO )</li>
+  <ul style="color: black; background-color: white; text-decoration: none;"><li>Faizan E Mustafa and Juan G. Diaz Ochoa. Tool for mapping of medical narratives into medical ontologies in low resource setting: A case study for German (DEMO )</li>
 <li>Lifeng Han, Serge Gladkoff, Betty Galiano, Irina Sorokina, Gleb Erofeev and Goran Nenadic. Neural Machine Translation of Clinical Text between English and Spanish</li>
 <li>Shubham Agarwal, Thomas Searle, Richard Dobson, Anthony Shek and James Teo. Improving Multi-Task Text Classification Performance in Electronic Health Records</li>
 <li>Joseph Cronin, Keiran Tait, Jamie Wallis and Robert Durichen. ArcTEX – a precise clinical data enrichment model to support real world evidence studies</li>
