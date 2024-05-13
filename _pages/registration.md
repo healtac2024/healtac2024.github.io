@@ -10,10 +10,8 @@ title: " "
 </head>
 <body>
 <br>
-<br>
-  
-<h1 style="color:#528;">&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;Registration will open soon  <i class="fas fa-sync-alt fa-spin"></i>
-</h1></h1>
+
+<h1 style="color:#528;">&ensp; &ensp; &ensp; &ensp;Registration will open soon  <i class="fas fa-sync-alt fa-spin"></i></h1>
 
 </body>
 </html>
