@@ -62,13 +62,13 @@ author:
 #  avatar : "/assets/images/bio-photo.jpg"
   bio    : "7th Healthcare Text Analytics Conference"
   links:
-    - label: "<strong>REGISTRATION</strong><br><span style='color: #b22aad;'>Opening soon.<br>"
+    - label: "<strong>REGISTRATION</strong><br><span style='color:#ff6933;'>Opening soon.<br><br>"
       icon: "far fa-comment"
       url: https://healtac2024.github.io/registration/
-    - label: "<strong>KEY DATES</strong><br>–<span style='color: #6495ED;'><strong>Conference:</strong><br>June 13-14, 2024</span><br>–<span style='color: #6495ED;'><strong>Tutorials:</strong><br>June 12, 2024</span><br>"
+    - label: "<strong>KEY DATES</strong><br>–<span style='color: #6495ED;'><strong>Conference:</strong><br>June 13-14, 2024</span><br>–<span style='color: #6495ED;'><strong>Tutorials:</strong><br>June 12, 2024</span><br><br>"
       icon: "far fa-calendar-alt"
       url: https://healtac2024.github.io/datesandcalls/
-    - label: "<strong>KEYNOTES</strong><br>–<span style='color:#c44dff;'><strong>Prof Suzan Verberne</strong><br>(Leiden University)</span><br>–<span style='color: #c44dff;'><strong>Dr Alistair Johnson</strong><br>(Glowyr)<br>"
+    - label: "<strong>KEYNOTES</strong><br>–<span style='color:#c44dff;'><strong>Prof Suzan Verberne</strong><br>(Leiden University)</span><br>–<span style='color: #c44dff;'><strong>Dr Alistair Johnson</strong><br>(Glowyr)<br><br>"
       icon: "fas fa-user-friends"
       url: https://healtac2024.github.io/keynotes/
     - label: "HealTAC-2023"
