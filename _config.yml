@@ -72,7 +72,7 @@ author:
       icon: "fas fa-user-friends"
       url: https://healtac2024.github.io/keynotes/
     - label: "<strong>EVENT SERIES</strong>"
-      icon: "material-icons"
+      icon: "far fa-calendar-check"
       url: /
     - label: "- HealTAC-2023"
       # icon: "fas fa-fw fa-link"
