@@ -62,7 +62,7 @@ author:
 #  avatar : "/assets/images/bio-photo.jpg"
   bio    : "7th Healthcare Text Analytics Conference"
   links:
-    - label: "<span style='color: #6495ED;'>Registration will open soon."
+    - label: "<strong>Registration</strong><br><span style='color: #6495ED;'>Coming soon."
       icon: "far fa-comment"
       url: https://healtac2024.github.io/registration/
     - label: "<strong>KEY DATES</strong><br>–<span style='color: #6495ED;'><strong>Conference:</strong><br>June 13-14, 2024</span><br>–<span style='color: #6495ED;'><strong>Tutorials:</strong><br>June 12, 2024</span><br><br>"
