@@ -74,22 +74,22 @@ author:
     - label: "<strong>EVENT SERIES</strong>"
       icon: "far fa-calendar-check"
       url: /
-    - label: "- HealTAC-2023"
+    - label: "<span style='color: #ff6600;'>HealTAC-2023</span>"
       # icon: "fas fa-fw fa-link"
       url: http://healtex.org/healtac-2023/
-    - label: "- HealTAC-2022"
+    - label: "<span style='color: #ff6600;'>HealTAC-2022</span>"
       # icon: "fas fa-fw fa-link"
       url: https://healtac2022.github.io/
-    - label: "- HealTAC-2021"
+    - label: "<span style='color: #ff6600;'>HealTAC-2021</span>"
       # icon: "fas fa-fw fa-link"
       url: http://healtex.org/healtac-2021/
-    - label: "- HealTAC-2020"
+    - label: "<span style='color: #ff6600;'>HealTAC-2020</span>"
       # icon: "fas fa-fw fa-link"
       url: http://healtex.org/healtac-2020/
-    - label: "- HealTAC-2019"
+    - label: "<span style='color: #ff6600;'>HealTAC-2019</span>"
       # icon: "fas fa-fw fa-link"
       url: http://healtex.org/healtac-2019/
-    - label: "- HealTAC-2018"
+    - label: "<span style='color: #ff6600;'>HealTAC-2018</span>"
       # icon: "fas fa-fw fa-link"
       url: http://healtex.org/healtac-2018/
 
