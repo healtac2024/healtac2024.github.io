@@ -71,23 +71,26 @@ author:
     - label: "<strong>KEYNOTES</strong><br>–<span style='color:#c44dff;'><strong>Prof Suzan Verberne</strong><br>(Leiden University)</span><br>–<span style='color: #c44dff;'><strong>Dr Alistair Johnson</strong><br>(Glowyr)<br><br>"
       icon: "fas fa-user-friends"
       url: https://healtac2024.github.io/keynotes/
-    - label: "HealTAC-2023"
-      icon: "fas fa-fw fa-link"
+    - label: "<strong>EVENT SERIES</strong>"
+      icon: "material-icons"
+      url: /
+    - label: "- HealTAC-2023"
+      # icon: "fas fa-fw fa-link"
       url: http://healtex.org/healtac-2023/
-    - label: "HealTAC-2022"
-      icon: "fas fa-fw fa-link"
+    - label: "- HealTAC-2022"
+      # icon: "fas fa-fw fa-link"
       url: https://healtac2022.github.io/
-    - label: "HealTAC-2021"
-      icon: "fas fa-fw fa-link"
+    - label: "- HealTAC-2021"
+      # icon: "fas fa-fw fa-link"
       url: http://healtex.org/healtac-2021/
-    - label: "HealTAC-2020"
-      icon: "fas fa-fw fa-link"
+    - label: "- HealTAC-2020"
+      # icon: "fas fa-fw fa-link"
       url: http://healtex.org/healtac-2020/
-    - label: "HealTAC-2019"
-      icon: "fas fa-fw fa-link"
+    - label: "- HealTAC-2019"
+      # icon: "fas fa-fw fa-link"
       url: http://healtex.org/healtac-2019/
-    - label: "HealTAC-2018"
-      icon: "fas fa-fw fa-link"
+    - label: "- HealTAC-2018"
+      # icon: "fas fa-fw fa-link"
       url: http://healtex.org/healtac-2018/
 
 
