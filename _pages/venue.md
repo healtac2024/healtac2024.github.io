@@ -200,7 +200,7 @@ div.scroll-container img {
     <img src="/assets/images/town/20201224_150148482_iOS.jpeg" width="300" height="300">
     <img src="/assets/images/town/IMG_5298.jpg" width="300" height="300">
 </div>
-
+<p> </p>
 <p>Photo Credit: Mo Haj (@melhaj) (<a href="https://www.instagram.com/melhaj/" target="_blank">https://www.instagram.com/melhaj/</a>)</p>
 
 
