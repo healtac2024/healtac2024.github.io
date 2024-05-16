@@ -156,7 +156,6 @@ div.scroll-container img {
 	<pre class="tab1" style="font-family: 'Akaya Telivigala';">    Lancaster</pre>
 	<pre class="tab1" style="font-family: 'Akaya Telivigala';">    United Kingdom</pre>
      <pre class="tab1" style="font-family: 'Akaya Telivigala';">    LA1 4YW</pre>
-     <pre class="tab1" style="font-family: 'Akaya Telivigala';">         </pre>
   </div>
 </div>
 
@@ -201,7 +200,7 @@ div.scroll-container img {
     <img src="/assets/images/town/IMG_5298.jpg" width="300" height="300">
 </div>
 <p> </p>
-<p>Photo Credit: Mo Haj (@melhaj) (<a href="https://www.instagram.com/melhaj/" target="_blank">https://www.instagram.com/melhaj/</a>)</p>
+<p style="font-family: 'Akaya Telivigala';">Photo Credit: Mo Haj (@melhaj) (<a href="https://www.instagram.com/melhaj/" target="_blank">https://www.instagram.com/melhaj/</a>)</p>
 
 
 </body>
