@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .container {
   position: relative;
-  max-width:1000px;
+  max-width:650px;
   margin: 0 auto;
 }
 	
