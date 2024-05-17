@@ -11,29 +11,25 @@ body, html {
   margin: 0;
   font-family: 'Akaya Telivigala'
 }
-
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Akaya Telivigala';
+}
 * {
   box-sizing: border-box;
 }
-
 .bg-image {
   /* The image used */
   background-image: url("https://www.conferences.lancs.ac.uk/bedandbreakfast/Clients/Lancaster/Images/banner.jpg");
-  
   /* Add the blur effect */
   filter: blur(3px);
-  -webkit-filter: blur(3px);
-  
+  -webkit-filter: blur(3px); 
   /* Full height */
   height: 100%; 
-  
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: repeat;
   background-size: cover;
 }
-
-
 /* Position text in the middle of the page/image */
 .bg-text {
   background-color: rgb(0,0,0); /* Fallback color */
