@@ -7,11 +7,13 @@ title: "Accommodation"
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Accommodation Booking</title>
   <style>
   body, html {
   height: 100%;
   margin: 0;
+  font-family: 'Akaya Telivigala';
+  }
+    h1, h2, h3, h4, h5, h6{
   font-family: 'Akaya Telivigala';
   }
   * {
