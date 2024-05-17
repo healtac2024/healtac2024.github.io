@@ -1,6 +1,6 @@
 ---
-permalink: /accomodation/
-title: "accomodation"
+permalink: /accommodation/
+title: "accommodation"
 ---
 <html>
 <head>
