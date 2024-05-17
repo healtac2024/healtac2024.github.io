@@ -62,7 +62,7 @@ author:
 #  avatar : "/assets/images/bio-photo.jpg"
   bio    : "7th Healthcare Text Analytics Conference"
   links:
-    - label: "<strong>ACCOMMODATION</strong><br><span style='color:#01582D;'>Book now.<br><br>"
+    - label: "<strong>ACCOMMODATION</strong><br><span style='color:#107542;'>Book now.<br><br>"
       icon: "fas fa-home"
       url: https://healtac2024.github.io/accommodation/
     - label: "<strong>REGISTRATION</strong><br><span style='color:#ff6933;'>Opening soon.<br><br>"
