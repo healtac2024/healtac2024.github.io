@@ -1,6 +1,6 @@
 ---
 permalink: /accommodation/
-title: "accommodation"
+title: "Accommodation"
 ---
 <html>
 <head>
