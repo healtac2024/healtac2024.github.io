@@ -29,9 +29,8 @@ body, html {
   
   /* Center and scale the image nicely */
   background-position: center;
-  background-repeat: repeat-x;
+  background-repeat: repeat;
   background-size: cover;
-  image-resolution: from-image 100dpi;
 }
 
 
@@ -66,4 +65,5 @@ body, html {
 <p>We have a limited set of on campus accommodation reserved (until 28th May) for two nights bed and breakfast using the promotion code HealTAC2024. The room rate is £70 per room per night, and covers check in from Wednesday 12th to check out on Friday 14th. Please book via the Lancaster conferences and <a href="https://www.conferences.lancs.ac.uk/bedandbreakfast/">events page</a>. On the same page (without using the promotion code), you will find other room options without breakfast, or double or twin rooms, and you can also book for extra nights.</p>
 </body>
 </html>
+
 
