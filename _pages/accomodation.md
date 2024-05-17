@@ -2,6 +2,7 @@
 permalink: /accommodation/
 title: "Accommodation"
 ---
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -48,10 +49,7 @@ h1, h2, h3, h4, h5, h6 {
   background-image:  url("https://www.conferences.lancs.ac.uk/bedandbreakfast/Clients/Lancaster/Images/banner.jpg");
   background-size: cover;
   position: relative;
-  height: 400px;
-    /* Add the blur effect */
-  filter: blur(1px);
-  -webkit-filter: blur(1px);
+  height: 500px;
 }
 
 
@@ -131,14 +129,13 @@ div.scroll-container img {
 </head>
 
 <body>
- 
+<br>
 <div class="image-container">
   <div class="text"><h2>Promotion code: HealTAC2024</h2>
-    <h1>CAMPUS ACCOMMODATION</h1><a href="https://www.conferences.lancs.ac.uk/bedandbreakfast/" style="color:#7859FF">Book Now</a></div>
+    <h1>CAMPUS ACCOMMODATION</h1><a href="https://www.conferences.lancs.ac.uk/bedandbreakfast/" style="color:blue">Book Now</a></div>
 </div>
-
+<br>
   <p>We have a limited set of on campus accommodation reserved (until 28th May) for two nights bed and breakfast using the promotion code HealTAC2024. The room rate is £70 per room per night, and covers check in from Wednesday 12th to check out on Friday 14th. Please book via the Lancaster conferences and <a href="https://www.conferences.lancs.ac.uk/bedandbreakfast/">events page</a>. On the same page (without using the promotion code), you will find other room options without breakfast, or double or twin rooms, and you can also book for extra nights.</p>
 
 </body>
 </html>
-
