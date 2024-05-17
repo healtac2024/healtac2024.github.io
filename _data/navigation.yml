@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: /
-  # - title: "Accommodation"
-  #   url: /accommodation/
+  - title: "Accommodation"
+    url: /accommodation/
   - title: "Registration"
     url: /registration/
   - title: "Programme"
