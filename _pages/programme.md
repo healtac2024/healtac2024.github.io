@@ -205,7 +205,7 @@ td {
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">17:30-18:30</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Birds of feather meetings:&nbsp;
-<button class="collapsible">Session</button>
+<button class="collapsible">Details</button>
 <div class="content">
   <p style="color: black; background-color: white; text-decoration: none;"><strong>Chair:</strong></p>
   <p style="color: black; background-color: white; text-decoration: none;">Space will be available for colleagues to self-organise and run birds-of-feather or specific project meetings. The following groups will meet: </p>
