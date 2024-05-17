@@ -60,11 +60,11 @@ h1, h2, h3, h4, h5, h6 {
 .text {
   background-color: white;
   color: black;
-  font-size: 5vw; 
+  font-size: 4vw; 
   font-weight: bold;
   margin: 0 auto;
   padding: 10px;
-  width: 50%;
+  width: 30%;
   text-align: center;
   position: absolute;
   top: 50%;
@@ -80,10 +80,10 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
   margin: 0 auto;
   padding: 10px;
-  width: 50%;
+  width: 30%;
   text-align: center;
   position: absolute;
-  top: 30%;
+  top: 40%;
   left: 20%;
   transform: translate(-30%, -30%);
   mix-blend-mode: screen;
@@ -148,15 +148,8 @@ div.scroll-container img {
 
 <body>
 <div class="container">
-  <img src="https://www.lancaster.ac.uk/media/lancaster-university/content-assets/images/facilities/conferences/Faraday-Featurebox2.jpg" alt="Notebook" style="height:100%;">
-  <div class="content">
     <h2>Conference Venue</h2>
-    <pre class="tab1" style="font-family: 'Akaya Telivigala';">    Faraday Complex</pre>
-    <pre class="tab1" style="font-family: 'Akaya Telivigala';">    Lancaster University</pre>
-	<pre class="tab1" style="font-family: 'Akaya Telivigala';">    Lancaster</pre>
-	<pre class="tab1" style="font-family: 'Akaya Telivigala';">    United Kingdom</pre>
-     <pre class="tab1" style="font-family: 'Akaya Telivigala';">    LA1 4YW</pre>
-  </div>
+    <pre class="tab1" style="font-family: 'Akaya Telivigala';"> <iframe src="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.784247,54.010977&zoom=18&sharepoitype=poi&sharepoi=1000463037" width="800" height="500" frameborder="0" style="border:0" allowfullscreen></iframe> </pre>
 </div>
 
 <br>
