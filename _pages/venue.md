@@ -149,7 +149,7 @@ div.scroll-container img {
 <body>
 <div class="container">
     <h2>Conference Venue</h2>
-    <pre class="tab1" style="font-family: 'Akaya Telivigala';"> <iframe src="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.784247,54.010977&zoom=18&sharepoitype=poi&sharepoi=1000463037" width="800" height="500" frameborder="0" style="border:0" allowfullscreen></iframe> </pre>
+    <pre class="tab1" style="font-family: 'Akaya Telivigala';"> <iframe src="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.784247,54.010977&zoom=18&sharepoitype=poi&sharepoi=1000463037" width="1000" height="500" frameborder="0" style="border:0" allowfullscreen></iframe> </pre>
 </div>
 
 <br>
