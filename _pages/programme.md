@@ -142,7 +142,7 @@ td {
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">11:30-12:20</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Presentations:&nbsp;
-<button class="collapsible">Session 1</button>
+<button class="collapsible">Details</button>
 <div class="content">
   <p style="color: black; background-color: white; text-decoration: none;"><strong>Chair:</strong></p>
   <ul style="color: black; background-color: white; text-decoration: none;"><li>Arlene Casey, Matúš Falis, Franz S. Gruber, Matthew Murrell, Spyro Nita, Amy Tilbrook, Charlie Mayor, Katherine O’Sullivan and Kathy Harrison. Developing a Common Schema for De-identification of Personal Health Identifiers in EHRs across Scotland.</li>
@@ -153,7 +153,7 @@ td {
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">12:20-12:35</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Open community forum and discussions:&nbsp;
-<button class="collapsible">Session 1</button>
+<button class="collapsible">Details</button>
 <div class="content">
   <p style="color: black; background-color: white; text-decoration: none;">This is an open slot for colleagues to briefly inform the community about any ongoing or future activities, initiatives, projects, etc. It can be used to invite collaborations, highlight opportunities and challenges, etc. Every speaker will have 3 minutes.</p>
 </div></td>
@@ -173,7 +173,7 @@ td {
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">15:15-15:55</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">PhD forum: 
-<button class="collapsible">Session 1</button>
+<button class="collapsible">Details</button>
 <div class="content">
   <p style="color: black; background-color: white; text-decoration: none;"><strong>Chairs:</strong> Arlene Casey (University of Edinburgh) and Ruizhe Li (University of Aberdeen)</p>
 <ul style="color: black; background-color: white; text-decoration: none;"><li>Carly Yung. Measuring Clinical Critical Cultural Awareness, a Sociolinguistic Analysis on Clinicians’ Language Change in Patients’ Mental Health Records Across Different Groups in the UK</li>
@@ -183,7 +183,7 @@ td {
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">16:00-17:30</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Posters and demos:&nbsp;
-<button class="collapsible">Session 1</button>
+<button class="collapsible">Details</button>
 <div class="content">
   <ul style="color: black; background-color: white; text-decoration: none;"><li>Franz S. Gruber, Matúš Falis, Amy Tilbrook and Arlene Casey. A Privacy Risk Dashboard for Clinical Free-text (DEMO)</li>
 <li>Fawaz Alarfaj, Hikmat Ullah Khan and Muzamil Ahmed. Context-aware Medical Question Answering: An Extended Transformers-Based Approach with BioBERT Encoding for Restricted Domain Queries</li>
@@ -232,7 +232,7 @@ td {
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="20%">09:30-10:20</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Presentations:&nbsp;
-<button class="collapsible">Session 2</button>
+<button class="collapsible">Details</button>
 <div class="content">
   <p style="color: black; background-color: white; text-decoration: none;"><strong>Chair:</strong></p>
   <ul style="color: black; background-color: white; text-decoration: none;"><li>Jennifer Jiang, James Brandreth, Mairead McErlean, Jack Ross, Maisarah Amran, Enrico Costanza, Yogini Jani, Leilei Zhu, Richard Dobson, Folkert Asselbergs, Wai Keong Wong and Anoop Shah. Feasibility study of ‘MiADE’ point of care natural language processing system: methodology and initial results.</li>
@@ -244,7 +244,7 @@ td {
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="20%">10:20-11:00</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">PhD forum: 
-<button class="collapsible">Session 2</button>
+<button class="collapsible">Details</button>
 <div class="content">
   <p style="color: black; background-color: white; text-decoration: none;"><strong>Chairs:</strong> Arlene Casey (University of Edinburgh) and Ruizhe Li (University of Aberdeen)</p>
 <ul style="color: black; background-color: white; text-decoration: none;"><li>Adam Williams. Developing AI Methods for Animal Health and Welfare Monitoring</li>
@@ -255,7 +255,7 @@ td {
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">11:05-12:20</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Posters and demos:&nbsp;
-<button class="collapsible">Session 2</button>
+<button class="collapsible">Details</button>
 <div class="content">
   <ul style="color: black; background-color: white; text-decoration: none;"><li>Faizan E Mustafa and Juan G. Diaz Ochoa. Tool for mapping of medical narratives into medical ontologies in low resource setting: A case study for German (DEMO )</li>
 <li>Lifeng Han, Serge Gladkoff, Betty Galiano, Irina Sorokina, Gleb Erofeev and Goran Nenadic. Neural Machine Translation of Clinical Text between English and Spanish</li>
@@ -273,7 +273,7 @@ td {
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="20%">12:20-12:35</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Open community forum and discussions:&nbsp;
-<button class="collapsible">Session 2</button>
+<button class="collapsible">Details</button>
 <div class="content">
   <p style="color: black; background-color: white; text-decoration: none;">This is an open slot for colleagues to briefly inform the community about any ongoing or future activities, initiatives, projects, etc. It can be used to invite collaborations, highlight opportunities and challenges, etc. Every speaker will have 3 minutes.</p>
 </div></td>
