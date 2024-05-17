@@ -60,11 +60,11 @@ h1, h2, h3, h4, h5, h6 {
 .text {
   background-color: white;
   color: black;
-  font-size: 4vw; 
+  font-size: 3vw; 
   font-weight: bold;
   margin: 0 auto;
   padding: 10px;
-  width: 30%;
+  width: 50%;
   text-align: center;
   position: absolute;
   top: 50%;
@@ -76,14 +76,14 @@ h1, h2, h3, h4, h5, h6 {
 .text-1 {
   background-color: white;
   color: black;
-  font-size: 4vw; 
+  font-size: 3vw; 
   font-weight: bold;
   margin: 0 auto;
   padding: 10px;
-  width: 30%;
+  width: 50%;
   text-align: center;
   position: absolute;
-  top: 40%;
+  top: 30%;
   left: 20%;
   transform: translate(-30%, -30%);
   mix-blend-mode: screen;
