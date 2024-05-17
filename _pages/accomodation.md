@@ -64,10 +64,6 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
   font-family: 'Akaya Telivigala';
 }
-	
-span {
-  background-color: DodgerBlue;
-}
 
 * {
   box-sizing: border-box;
@@ -128,7 +124,7 @@ div.scroll-container img {
 
 <body>
 <br>
-<h5><span>Kindly note that accommodation must be booked separately from registration.</span></h5>
+<h5 style="color:DodgerBlue;">Kindly note that accommodation must be booked separately from registration.</h5>
 <br>
 <div class="image-container">
   <div class="text"><h2>Promotion code: HealTAC2024</h2>
