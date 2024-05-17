@@ -15,14 +15,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Akaya Telivigala';
 }
-span {
-  background-color: DodgerBlue;
-}
 	
-* {
-  box-sizing: border-box;
-}
-
 .container {
   position: relative;
   max-width:650px;
@@ -55,7 +48,6 @@ span {
   height: 500px;
 }
 
-
 .text {
   background-color: rgb(0.4, 0, 0); /* Fallback color */
   background-color: rgba(0, 0, 0, 0.3); /* Black w/opacity/see-through */
@@ -72,7 +64,10 @@ span {
   text-align: center;
   font-family: 'Akaya Telivigala';
 }
-
+	
+span {
+  background-color: DodgerBlue;
+}
 
 * {
   box-sizing: border-box;
