@@ -15,6 +15,9 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Akaya Telivigala';
 }
+span {
+  background-color: DodgerBlue;
+}
 	
 * {
   box-sizing: border-box;
@@ -130,6 +133,8 @@ div.scroll-container img {
 
 <body>
 <br>
+<h5><span>Kindly note that accommodation must be booked separately from registration.</span></h5>
+<br>
 <div class="image-container">
   <div class="text"><h2>Promotion code: HealTAC2024</h2>
     <h1>CAMPUS ACCOMMODATION</h1><a href="https://www.conferences.lancs.ac.uk/bedandbreakfast/" style="color:blue">Book Now</a></div>
@@ -137,6 +142,5 @@ div.scroll-container img {
 <br>
   <p>We have a limited set of on-campus accommodation reserved (until 28th May) for two nights bed and breakfast using the promotion code HealTAC2024. The room rate is £70 per room per night, and covers check-in from Wednesday 12th to check-out on Friday 14th. Please book via the Lancaster conferences and <a href="https://www.conferences.lancs.ac.uk/bedandbreakfast/" style="color:blue">events page</a>. On the same page (without using the promotion code), you will find other room options without breakfast, or double or twin rooms, and you can also book for extra nights.</p>
 <br>
-<h5 style="background-color:DodgerBlue;">Kindly note that accommodation must be booked separately from registration.</h5>
 </body>
 </html>
