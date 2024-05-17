@@ -123,7 +123,6 @@ div.scroll-container img {
 </head>
 
 <body>
-<br>
 <h5 style="color:DodgerBlue;">Kindly note that accommodation must be booked separately from registration.</h5>
 <br>
 <div class="image-container">
