@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .bg-image {
   /* The image used */
-  background-image: url("https://www.conferences.lancs.ac.uk/bedandbreakfast/Clients/Lancaster/Images/banner.jpg");
+  background-image: url("/assets/images/banner-acc.jpg");
   /* Add the blur effect */
   filter: blur(3px);
   -webkit-filter: blur(3px); 
