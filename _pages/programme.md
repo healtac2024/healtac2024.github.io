@@ -292,7 +292,7 @@ td {
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">14:45-16:00</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Industry forum:&nbsp;
-<button class="collapsible">Collaboration models for clinical large language models</button>
+<button class="collapsible">Collaboration models for clinical large language modelling</button>
 <div class="content">
   <p style="color: black; background-color: white; text-decoration: none;"><strong>Chair:</strong> Dr Ben Fell (Akrivia)</p>
 </div>
