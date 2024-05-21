@@ -26,7 +26,7 @@ HealTAC 2024 is pleased to announce the full programme of the conference, includ
 <li></li> Tutorial on "Healthcare Text Analytics in the Era of LLMs"  (Wednesday 12 June)
 </ul>
 
-Follow the links for the details on registration, travel and accommodation.
+Follow the links for the details on < href="https://healtac2024.github.io/registration/">registration</a>, <a href="https://healtac2024.github.io/venue/">travel</a> and <a href="https://healtac2024.github.io/accommodation/">accommodation</a>.
   
 </body>
 </html>
