@@ -154,10 +154,11 @@ div.scroll-container img {
 
 <br>
 <br>
-Information about travel is available <a href="https://www.lancaster.ac.uk/sustainability/action/travel/">here</a>.
+<div>Information about travel to the campus is available <a href="https://www.lancaster.ac.uk/sustainability/action/travel/">here</a>.
+</div>
 <br>
 <br>
-
+<br>
 
 <div class="image-container-1">
   <div class="text-1">LANCASTER UNIVERSITY</div>
