@@ -167,7 +167,7 @@ td {
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Panel: 
 <button class="collapsible">Secure data environments for healthcare NLP</button>
 <div class="content">
-  <p style="color: black; background-color: white; text-decoration: none;"><strong>Chair:</strong> Arlene Casey (University of Edinburgh) and Vishnu Chandrabalan (Lancaster University)
+  <p style="color: black; background-color: white; text-decoration: none;"><strong>Chairs:</strong> Arlene Casey (University of Edinburgh) and Vishnu Chandrabalan (Lancaster University)
 </p></div></td>
 </tr>
 <tr>
@@ -295,7 +295,6 @@ td {
 <button class="collapsible">Collaboration models for clinical large language models</button>
 <div class="content">
   <p style="color: black; background-color: white; text-decoration: none;"><strong>Chair:</strong> Dr Ben Fell (Akrivia)</p>
- <p style="color: black; background-color: white; text-decoration: none;"><strong>Panel:</strong> Richard Dobson (King’s College London)</p>
 </div>
 </td>
 </tr>
