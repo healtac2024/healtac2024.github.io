@@ -13,5 +13,10 @@ title: " "
 
 <h1 style="color:#528;">&ensp;Registration will open soon <i class="fas fa-sync-alt fa-spin"></i></h1>
 
+Expected registration fees:
+<ul>
+  <li>Full registration: £200</li>
+  <li>Student registration: £100</li>
+</ul>
 </body>
 </html>
