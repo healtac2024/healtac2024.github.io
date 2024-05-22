@@ -11,9 +11,11 @@ title: " "
 <body>
 <br>
 
-<h1 style="color:#528;">&ensp;Registration will open soon <i class="fas fa-sync-alt fa-spin"></i></h1>
+<h1 style="color:#528;">&ensp;Registration is now open!</h1>
 
-Expected registration fees:
+Please book via the <a href=https://online-payments.lancaster-university.co.uk/product-catalogue/events/science-and-technology-fst/school-of-computing-and-communications/healtac-2024-conference">Lancaster University online store</a>
+
+Registration fees:
 <ul>
   <li>Full registration: £200</li>
   <li>Student registration: £100</li>
