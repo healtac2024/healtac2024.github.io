@@ -10,7 +10,7 @@ title: "Programme"
 h1, h2, h3, h4, h5 {
   font-family: 'Akaya Telivigala';
 } 
-body, span {
+body, span, strong {
     font-family: 'Akaya Telivigala';
 } 
 html {
