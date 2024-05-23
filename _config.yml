@@ -65,7 +65,7 @@ author:
     - label: "<strong>ACCOMMODATION</strong><br><span style='color:#107542;'>Book now.<br><br>"
       icon: "fas fa-home"
       url: https://healtac2024.github.io/accommodation/
-    - label: "<strong>REGISTRATION</strong><br><span style='color:#107542;'>Now open.<br><br>"
+    - label: "<strong>REGISTRATION</strong><br><span style='color:#e60073;'>Now open.<br><br>"
       icon: "far fa-comment"
       url: https://healtac2024.github.io/registration/
     - label: "<strong>KEY DATES</strong><br>–<span style='color: #6495ED;'><strong>Conference:</strong><br>June 13-14, 2024</span><br>–<span style='color: #6495ED;'><strong>Tutorials:</strong><br>June 12, 2024</span><br><br>"
