@@ -55,6 +55,13 @@ h1, h2, h3, h4, h5, h6 {
   height: 500px;
 }
 
+.image-container-2 {
+  background-image:  url("https://cdn.thecrazytourist.com/wp-content/uploads/2018/09/ccimage-shutterstock_362421311.jpg");
+  background-size: cover;
+  position: relative;
+  height: 500px;
+}
+
 .text {
   background-color: rgb(0.4, 0, 0); /* Fallback color */
   background-color: rgba(0, 0, 0, 0.3); /* Black w/opacity/see-through */
@@ -89,6 +96,22 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Akaya Telivigala';
 }
 
+.text-2 {
+  background-color: rgb(0.4, 0, 0); /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.3); /* Black w/opacity/see-through */
+  color:  #ffd11a;
+  font-weight: bold;
+  border: 3px solid #f1f1f1;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+  text-align: center;
+  font-family: 'Akaya Telivigala';
+}
 
 * {
   box-sizing: border-box;
@@ -161,6 +184,13 @@ div.scroll-container img {
 <div class="image-container-1">
   <div class="text-1"><h2>Lancaster House Hotel</h2>
     <h1>The closest to the university campus</h1><a href="https://www.classicbritishhotels.com/hotel/lancaster-house-hotel/" style="color:#FEF7DB;">Book Now</a></div>
+</div>
+<br>
+<br>
+<h2 style="color:#ff0066;">Accomodation and Activities</h2>
+<div class="image-container-2">
+  <div class="text-2"><h2>Recommendations</h2>
+    <h1>Visit Lancaster!</h1><a href="https://www.visitlancashire.com/explore/lancaster/stay-in-lancaster" style="color:#FEF7DB;">Check out</a></div>
 </div>
 <br>
 
