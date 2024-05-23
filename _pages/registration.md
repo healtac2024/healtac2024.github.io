@@ -20,9 +20,9 @@ Registration fees:
   <li>Full registration: £200</li>
   <li>Student registration: £100</li>
 </ul>
-<p>The fee includes participation for 3 days (including the tutorial day), lunch on June 13th and 14th, and dinner on 12th and 13th. If a presenting author, please indicate the relevant submission number.
+<p>The fee includes participation for 3 days (including the tutorial day), lunches on June 13th and 14th, and dinners on 12th and 13th. 
   
-![image](https://github.com/healtac2024/healtac2024.github.io/assets/7965626/b71bced2-0797-45bb-bea1-391ba34ef272)
 </p>
+
 </body>
 </html>
