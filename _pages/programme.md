@@ -10,8 +10,8 @@ title: "Programme"
 h1, h2, h3, h4, h5 {
   font-family: 'Akaya Telivigala';
 } 
-body {
-    font-family: 'Akaya Telivigala'; font-color: #6b6b6b;
+body, span {
+    font-family: 'Akaya Telivigala';
 } 
 html {
   box-sizing: border-box;
@@ -200,7 +200,7 @@ td {
 <li>Samuel Belkadi, Nicolo Micheletti, Lifeng Han, Warren Del-Pinto and Goran Nenadic. Label-To-Text-Transformer: Generating Synthetic Medication Prescriptions</li>
 <li>Yunsoo Kim, Jinge Wu and Honghan Wu. Exploring Training Methods for Medical LLMs.</li>
 <br></ul>
-</div> <span style="color:#cc0000; background-color:#e9e9e9">All poster presenters should prepare their poster in A0 portrait format.</span></td>
+</div> <br> <span style="color:#cc0000; background-color:#e9e9e9">All poster presenters should prepare their poster in A0 portrait format.</span></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">17:30-18:30</td>
@@ -268,7 +268,7 @@ td {
 <li>Huda M. Alshammari, Denham Phipps, Penny Lewis, Haifa Alrdahi and Riza Batista-Navarro. Development of Guidelines for Annotating Medication-Related Incident Reports</li>
 <li>Jose Rodríguez Torres, Antonio Espinosa de Los Monteros, Angelo Santana, David Killick, P-J Noble and Alan Radford. Shedding light about canine and feline cancer in the UK. A text-mining approach to analyse 1,000,000 canine and feline tumour diagnoses between 2010 and 2023.</li>
 <li>Mengxuan Sun, Ehud Reiter, Lisa Duncan and Rosalind Adam. The role of natural language processing in cancer care: a systematic scoping review with narrative synthesis</li><br></ul>
-</div><span style="color:#cc0000; background-color:#e9e9e9">All poster presenters should prepare their poster in A0 portrait format.</span></td>
+</div> <br> <span style="color:#cc0000; background-color:#e9e9e9">All poster presenters should prepare their poster in A0 portrait format.</span></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="20%">12:20-12:35</td>
