@@ -31,7 +31,7 @@ Registration fees:
   <li>Full registration: £200</li>
   <li>Student registration: £100</li>
 </ul>
-<p>The fee includes participation for three days (including the tutorial day), lunches on June 13th and 14th, and dinners on 12th and 13th. 
+<p style="color: #9370DB; background-color: #F0F8FF; text-decoration: none;">The fee includes participation for three days (including the tutorial day), lunches on June 13th and 14th, and dinners on 12th and 13th. 
   
 </p>
 
