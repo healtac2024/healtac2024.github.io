@@ -17,15 +17,14 @@ h1, h2, h3, h5, h6 {
 h4 {
   font-family: 'Akaya Telivigala';
 }
-
-
+</style>
 </head>
 <body>
 <br>
 
 <h1 style="color:#528;">Registration is now open!</h1>
 
-Please book via the <a href="https://online-payments.lancaster-university.co.uk/product-catalogue/events/science-and-technology-fst/school-of-computing-and-communications/healtac-2024-conference">Lancaster University online store</a>.
+Please book via the <a href="https://online-payments.lancaster-university.co.uk/product-catalogue/events/science-and-technology-fst/school-of-computing-and-communications/healtac-2024-conference" style="color: #9370DB; background-color: #F0F8FF; text-decoration: none;">Lancaster University online store</a>.
 <p></p>
 Registration fees:
 <ul>
