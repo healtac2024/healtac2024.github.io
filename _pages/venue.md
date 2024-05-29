@@ -172,9 +172,8 @@ div.scroll-container img {
 
 
 <br>
-<p>&ensp; &ensp; &thinsp; Information about travel to the campus is available <a href="https://www.lancaster.ac.uk/sustainability/action/travel/">here</a>.
+<p>&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  Information about travel to the campus is available <a href="https://www.lancaster.ac.uk/sustainability/action/travel/">here</a>.
 </p>
-<br>
 <br>
 <br>
 
