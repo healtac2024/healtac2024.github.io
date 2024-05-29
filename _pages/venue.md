@@ -170,7 +170,7 @@ div.scroll-container img {
 	<p>Bowland North, Floor A</p>
     <p>Lancaster University Campus</p>
     <p>United Kingdom</p>
-    <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:DodgerBlue;"> <i class='fas fa-map' style='font-size:24px'> Elizabeth Livingston Lecture Theatre</i> 
+<a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:DodgerBlue; font-family:Akaya Telivigala"> <i class='fas fa-map' style='font-size:24px font-family:Akaya Telivigala'> Elizabeth Livingston Lecture Theatre</i> 
 </a>
 </div>
 
