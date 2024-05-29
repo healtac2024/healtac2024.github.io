@@ -11,7 +11,7 @@ body {
     font-family: 'Akaya Telivigala';
 } 
 	
-h1, h2, h3, h4, h5, h6, p, i {
+h1, h2, h3, h4, h5, h6, {
   font-family: 'Akaya Telivigala';
 }
 	
