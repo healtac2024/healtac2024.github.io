@@ -4,7 +4,8 @@ permalink: /venue/
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
 <style>
 body {
     font-family: 'Akaya Telivigala';
@@ -147,12 +148,29 @@ div.scroll-container img {
 </head>
 
 <body>
+
+<div class="container">
+    <h2>Tutorial Venue</h2>
+    <p>School of Computing and Communications</p>
+    <p>InfoLab21 B79</p>
+    <p>Lancaster University</p>
+    <p>United Kingdom</p>
+	<p>LA1 4WA</p>
+    <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283"><i class='fas fa-map' style='font-size:24px'>  Map</i></a>
+</div>
+<br>
 <div class="container">
     <h2>Conference Venue</h2>
-    <pre class="tab1" style="font-family: 'Akaya Telivigala';"> <iframe src="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.784247,54.010977&zoom=18&sharepoitype=poi&sharepoi=1000463037" width="800" height="500" frameborder="0" style="border:0" allowfullscreen></iframe> </pre>
+    <p>Elizabeth Livingston Lecture Theatre</p>
+	<p>A022, Lecture Theatre</p>
+	<p>Bowland North, Floor A</p>
+    <p>Lancaster University Campus</p>
+    <p>United Kingdom</p>
+    <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283"> <i class='fas fa-map' style='font-size:24px'> Map</i></a>
+
 </div>
 
-<br>
+
 <br>
 <div>Information about travel to the campus is available <a href="https://www.lancaster.ac.uk/sustainability/action/travel/">here</a>.
 </div>
