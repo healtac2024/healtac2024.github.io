@@ -3,6 +3,7 @@ permalink: /venue/
 ---
 <html>
 <head>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
@@ -11,7 +12,7 @@ body {
     font-family: 'Akaya Telivigala';
 } 
 	
-h1, h2, h3, h4, h5, h6, {
+h1, h2, h3, h4, h5, h6, p, i {
   font-family: 'Akaya Telivigala';
 }
 	
@@ -154,14 +155,14 @@ div.scroll-container img {
     <p>School of Computing and Communications</p>
     <p>InfoLab21, Lancaster University</p>
     <p>United Kingdom, LA1 4WA</p>
-    <p> </p>
     <p><strong style="color:DodgerBlue;">Registration:</strong> InfoLab21 Reception, Floor B</p>
     <p><strong style="color:DodgerBlue;">Tutorial:</strong> InfoLab21, Floor B, Room B79</p>
     <p><strong style="color:DodgerBlue;">Dinner:</strong> InfoLab21 Sky Lounge, Floor D</p>
+    <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:DodgerBlue;"><i class='fas fa-map' style='font-size:24px'>  InfoLab21</i></a>
 </div>
-    <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:DodgerBlue;" class='fas fa-map' style='font-size:24px'> InfoLab21</a>
+
 <br>
-<br>
+
 <div class="container">
     <h2>Conference Venue - June 13-14, 2024</h2>
     <p>Elizabeth Livingston Lecture Theatre</p>
@@ -169,9 +170,10 @@ div.scroll-container img {
 	<p>Bowland North, Floor A</p>
     <p>Lancaster University Campus</p>
     <p>United Kingdom</p>
+    <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:DodgerBlue;"> <i class='fas fa-map' style='font-size:24px'> Elizabeth Livingston Lecture Theatre</i> 
+</a>
 </div>
-    <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:DodgerBlue;" class='fas fa-map' style='font-size:24px'> Elizabeth Livingston Lecture Theatre</a>
-<br>
+
 <br>
 <p>Information about travel to the campus is available <a href="https://www.lancaster.ac.uk/sustainability/action/travel/" style="color:DodgerBlue;">here</a>.
 </p>
