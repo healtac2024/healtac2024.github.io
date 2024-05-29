@@ -11,7 +11,7 @@ body {
     font-family: 'Akaya Telivigala';
 } 
 	
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, p, i {
   font-family: 'Akaya Telivigala';
 }
 	
@@ -22,7 +22,7 @@ h1, h2, h3, h4, h5, h6 {
 .container {
   position: relative;
   max-width:650px;
-  margin: 0 auto;
+  margin: 0 0;
 }
 	
  .tab1 {
@@ -167,13 +167,12 @@ div.scroll-container img {
     <p>Lancaster University Campus</p>
     <p>United Kingdom</p>
     <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283"> <i class='fas fa-map' style='font-size:24px'> Map</i></a>
-
 </div>
 
-
 <br>
-<p>&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Information about travel to the campus is available <a href="https://www.lancaster.ac.uk/sustainability/action/travel/">here</a>.
+<p>Information about travel to the campus is available <a href="https://www.lancaster.ac.uk/sustainability/action/travel/">here</a>.
 </p>
+<br>
 <br>
 <br>
 
