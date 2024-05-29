@@ -150,27 +150,30 @@ div.scroll-container img {
 <body>
 
 <div class="container">
-    <h2>Tutorial Venue</h2>
+    <h2>Tutorial Venue - June 12, 2024</h2>
     <p>School of Computing and Communications</p>
-    <p>InfoLab21 B79</p>
-    <p>Lancaster University</p>
-    <p>United Kingdom</p>
-	<p>LA1 4WA</p>
-    <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283"><i class='fas fa-map' style='font-size:24px'>  Map</i></a>
+    <p>InfoLab21, Lancaster University</p>
+    <p>United Kingdom, LA1 4WA</p>
+    <p><strong style="color:DodgerBlue;">Registration:</strong> InfoLab21 Reception, Floor B</p>
+    <p><strong style="color:DodgerBlue;">Tutorial:</strong> InfoLab21, Floor B, Room B79</p>
+    <p><strong style="color:DodgerBlue;">Dinner:</strong> InfoLab21 Sky Lounge, Floor D</p>
+    <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:DodgerBlue;"><i class='fas fa-map' style='font-size:24px'>  InfoLab21</i></a>
 </div>
+
 <br>
+
 <div class="container">
-    <h2>Conference Venue</h2>
+    <h2>Conference Venue - June 13-14, 2024</h2>
     <p>Elizabeth Livingston Lecture Theatre</p>
 	<p>A022, Lecture Theatre</p>
 	<p>Bowland North, Floor A</p>
     <p>Lancaster University Campus</p>
     <p>United Kingdom</p>
-    <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283"> <i class='fas fa-map' style='font-size:24px'> Map</i></a>
+    <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:DodgerBlue;"> <i class='fas fa-map' style='font-size:24px'> Elizabeth Livingston Lecture Theatre</i></a>
 </div>
 
 <br>
-<p>Information about travel to the campus is available <a href="https://www.lancaster.ac.uk/sustainability/action/travel/">here</a>.
+<p>Information about travel to the campus is available <a href="https://www.lancaster.ac.uk/sustainability/action/travel/" style="color:DodgerBlue;">here</a>.
 </p>
 <br>
 <br>
