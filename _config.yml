@@ -68,10 +68,10 @@ author:
     - label: "<strong style='color:#6495ED;'>REGISTRATION</strong><br><span style='color:black;'>Now open.<br><br>"
       icon: "far fa-comment"
       url: https://healtac2024.github.io/registration/
-    - label: "<strong style='color:#6495ED;'>KEY DATES</strong><br>–<span style='color: black;'><strong>Conference:</strong><br>June 13-14, 2024</span><br>–<span style='color: #6495ED;'><strong>Tutorials:</strong><br>June 12, 2024</span><br><br>"
+    - label: "<strong style='color:#6495ED;'>KEY DATES</strong><br>–<span style='color: black;'><strong>Conference:</strong><br>June 13-14, 2024</span><br>–<span style='color: black;'><strong>Tutorials:</strong><br>June 12, 2024</span><br><br>"
       icon: "far fa-calendar-alt"
       url: https://healtac2024.github.io/datesandcalls/
-    - label: "<strong style='color:#6495ED;'>KEYNOTES</strong><br>–<span style='color:black;'><strong>Prof Suzan Verberne</strong><br>(Leiden University)</span><br>–<span style='color: #c44dff;'><strong>Dr Alistair Johnson</strong><br>(Glowyr)<br><br>"
+    - label: "<strong style='color:#6495ED;'>KEYNOTES</strong><br>–<span style='color:black;'><strong>Prof Suzan Verberne</strong><br>(Leiden University)</span><br>–<span style='color: black;'><strong>Dr Alistair Johnson</strong><br>(Glowyr)<br><br>"
       icon: "fas fa-user-friends"
       url: https://healtac2024.github.io/keynotes/
     - label: "<strong style='color:#6495ED;'>EVENT SERIES</strong>"
