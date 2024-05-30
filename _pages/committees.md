@@ -7,14 +7,7 @@ title: "Committees"
 <meta name="viewport" content="width=device-width, initial-scale=1"> 
 <head>
 <style>
-body {
-    font-family: 'Akaya Telivigala';
-} 
-h1, h2, h3, h5, h6 {
-  font-family: 'Akaya Telivigala';
-}
 h4 {
-  font-family: 'Akaya Telivigala';
   font-size: 20px;
 }
 p {
