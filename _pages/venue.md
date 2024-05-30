@@ -175,8 +175,7 @@ div.scroll-container img {
 <br>
 <p>Information about travel to the campus is available <a href="https://www.lancaster.ac.uk/sustainability/action/travel/" style="color:DodgerBlue;">here</a>.
 </p>
-<br>
-<br>
+
 <br>
 
 <div class="image-container-1">
