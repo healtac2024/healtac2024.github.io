@@ -19,6 +19,7 @@ body {
   border: none;
   text-align: left;
   outline: none;
+  font-family: Times New Roman;
   font-size: 30px;
 }
 .active, .collapsible:hover {
@@ -31,6 +32,7 @@ body {
   font-weight: bold;
   float: right;
   margin-left: 10px;
+  font-family: Times New Roman;
 }
 .active:after {
   content: "\2212";
@@ -41,8 +43,6 @@ body {
   overflow: hidden;
   transition: max-height 0.2s ease-out;
 }
-* {
-  box-sizing: border-box;
 mark { 
   background-color:  rgba(150, 212, 212, 0.4);
   color: black;
