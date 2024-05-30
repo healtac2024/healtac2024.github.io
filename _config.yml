@@ -60,7 +60,7 @@ plugins:
 author:
   # name   : "HealTAC 2024"
 #  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "7th Healthcare Text Analytics Conference"
+  # bio    : "7th Healthcare Text Analytics Conference"
   links:
     - label: "<strong>ACCOMMODATION</strong><br><span style='color:#107542;'>Book now.<br><br>"
       icon: "fas fa-home"
