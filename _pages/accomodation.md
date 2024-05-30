@@ -69,7 +69,6 @@ title: "Accommodation"
   width: 80%;
   padding: 20px;
   text-align: center;
-  font-family: 'Akaya Telivigala';
 }
 
 .text-1 {
@@ -86,7 +85,6 @@ title: "Accommodation"
   width: 80%;
   padding: 20px;
   text-align: center;
-  font-family: 'Akaya Telivigala';
 }
 
 .text-2 {
@@ -103,7 +101,6 @@ title: "Accommodation"
   width: 80%;
   padding: 20px;
   text-align: center;
-  font-family: 'Akaya Telivigala';
 }
 
 * {
