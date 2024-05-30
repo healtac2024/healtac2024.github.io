@@ -74,7 +74,7 @@ title: "Accommodation"
 .text-1 {
   background-color: rgb(0.4, 0, 0); /* Fallback color */
   background-color: rgba(0, 0, 0, 0.3); /* Black w/opacity/see-through */
-  color: #b3e6ff;
+  color: #FEF7DB;
   font-weight: bold;
   border: 3px solid #f1f1f1;
   position: absolute;
@@ -90,7 +90,7 @@ title: "Accommodation"
 .text-2 {
   background-color: rgb(0.4, 0, 0); /* Fallback color */
   background-color: rgba(0, 0, 0, 0.3); /* Black w/opacity/see-through */
-  color:  #ffd11a;
+  color:  #FEF7DB;
   font-weight: bold;
   border: 3px solid #f1f1f1;
   position: absolute;
@@ -161,23 +161,23 @@ div.scroll-container img {
 </head>
 
 <body>
-<h5 style="color:#1ab2ff;">Kindly note that accommodation must be booked separately from registration.</h5>
+<h5 style="color:#6495ED;">Kindly note that accommodation must be booked separately from registration.</h5>
 <div class="image-container">
   <div class="text"><h2>Promotion code: HealTAC2024</h2>
-    <h1>Campus Accomodation</h1><a href="https://www.conferences.lancs.ac.uk/bedandbreakfast/" style="color:#1ab2ff">Book Now</a></div>
+    <h1>Campus Accomodation</h1><a href="https://www.conferences.lancs.ac.uk/bedandbreakfast/" style="color:#FEF7DB">Book Now</a></div>
 </div>
 <br>
 <p>We have a limited set of on-campus accommodation reserved (until 28th May) for two nights bed and breakfast using the promotion code HealTAC2024. The room rate is £70 per room per night, and covers check-in from Wednesday 12th to check-out on Friday 14th. Please book via the Lancaster conferences and <a href="https://www.conferences.lancs.ac.uk/bedandbreakfast/" style="color:blue">events page</a>. On the same page (without using the promotion code), you will find other room options without breakfast, or double or twin rooms, and you can also book for extra nights.</p>
 <br>
 
-<h2 style="color:#66ccff;">You can also book!</h2>
+<h2 style="color:#6495ED;">You can also book!</h2>
 <div class="image-container-1">
   <div class="text-1"><h2>Lancaster House Hotel</h2>
     <h1>The closest to the university campus</h1><a href="https://www.classicbritishhotels.com/hotel/lancaster-house-hotel/" style="color:#FEF7DB;">Book Now</a></div>
 </div>
 <br>
 <br>
-<h2 style="color:#ff0066;">Accomodation and Activities</h2>
+<h2 style="color:#6495ED;">Accomodation and Activities</h2>
 <div class="image-container-2">
   <div class="text-2"><h2>Recommendations</h2>
     <h1>Visit Lancaster!</h1><a href="https://www.visitlancashire.com/explore/lancaster/stay-in-lancaster" style="color:#FEF7DB;">Check out</a></div>
