@@ -5,12 +5,6 @@ title: "Second Call"
 <html>
 <head>
 <style>
-h1, h2, h3, h4, h5 {
-  font-family: 'Akaya Telivigala';
-} 
-body {
-    font-family: 'Akaya Telivigala'; font-color: #6b6b6b;
-} 
 mark { 
   background-color:  rgba(150, 212, 212, 0.4);
   color: black;
