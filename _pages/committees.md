@@ -7,6 +7,9 @@ title: "Committees"
 <meta name="viewport" content="width=device-width, initial-scale=1"> 
 <head>
 <style>
+body {
+  font-family: Times New Roman;
+}
 a:link {
   color:  black;
   background-color: transparent;
