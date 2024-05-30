@@ -16,13 +16,11 @@ title: "Calls and Dates"
   border: none;
   text-align: left;
   outline: none;
-  font-family: 'Akaya Telivigala';
   font-size: 30px;
 }
 .active, .collapsible:hover {
   background-color: #0999;
   color: black;
-  font-family: 'Akaya Telivigala';
 }
 .collapsible:after {
   content: '\002B';
