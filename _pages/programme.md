@@ -9,52 +9,38 @@ title: "Programme"
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
 <style>
-h1, h2, h3, h4, h5, a, p, i, td, tr {
-  font-family: 'Akaya Telivigala';
-} 
-body, span, strong {
-    font-family: 'Akaya Telivigala';
-} 
 html {
   box-sizing: border-box;
 }
-
 *, *:before, *:after {
   box-sizing: inherit;
 }
-
 .column {
   float: left;
   width: auto;
   margin-bottom: 16px;
   padding: 0 0px;
 }
-
 @media screen and (max-width: 650px) {
   .column {
     width: auto;
     display: block;
   }
 }
-
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
-
 .container {
   padding: 0 0px;
 }
-
 .container::after, .row::after {
   content: "";
   clear: both;
   display: table;
 }
-
 .title {
   color: grey;
 }
-
 .button {
   border: none;
   outline: 0;
@@ -66,15 +52,12 @@ html {
   cursor: pointer;
   width: 100%;
 }
-
 .button:hover {
   background-color: #009999
 }
-
 table {
   width: auto;
 }
-
 th, td {
   text-align: left;
   padding: 40px;
@@ -82,8 +65,6 @@ th, td {
 td {
   border-bottom: 1px solid #ddd;
 }
-
-
 .collapsible {
   background-color:  #F0F8FF;
   color: #6495ED;
@@ -95,13 +76,11 @@ td {
   font-family: 'Akaya Telivigala';
   font-size: 15px;
 }
-
 .active, .collapsible:hover {
   background-color: #6495ED;
   color: black;
   font-family: 'Akaya Telivigala';
 }
-
 .content {
   padding: 0 8px;
   max-height: 0;
