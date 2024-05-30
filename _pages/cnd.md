@@ -19,13 +19,11 @@ title: "Calls and Dates"
   font-family: 'Akaya Telivigala';
   font-size: 30px;
 }
-
 .active, .collapsible:hover {
   background-color: #0999;
   color: black;
   font-family: 'Akaya Telivigala';
 }
-
 .collapsible:after {
   content: '\002B';
   color: white;
@@ -33,11 +31,9 @@ title: "Calls and Dates"
   float: right;
   margin-left: 10px;
 }
-
 .active:after {
   content: "\2212";
 }
-
 .content {
   padding: 2px 18px;
   max-height: 0;
@@ -46,37 +42,24 @@ title: "Calls and Dates"
 }
 * {
   box-sizing: border-box;
-}
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Akaya Telivigala'; font-color: #0999;
-}
-body {
-    font-family: 'Akaya Telivigala'; font-color: #6b6b6b;
-} 
-
 mark { 
   background-color:  rgba(150, 212, 212, 0.4);
   color: black;
 }
-
 /* Float three columns side by side */
 .column {
   float: left;
   width: 30%;
   padding: 0 5px;
 }
-
 /* Remove extra left and right margins, due to padding */
 .row {margin: 0 -5px;}
-
 /* Clear floats after the columns */
 .row:after {
   content: "";
   display: table;
   clear: both;
 }
-
-
 /* Style the counter cards table*/
 .card-1 {
   box-shadow: 0 2px 6px 0 rgba(0.2, 0.2, 0.2, 0.2);
@@ -85,7 +68,6 @@ mark {
   background-color: white;
   color:black;
 }
-
 .card {
   padding: 10px;
   text-align: center;
@@ -93,37 +75,26 @@ mark {
   color: black; 
   text-shadow: 0.1px 0.1px;
 }
-
 html {
   box-sizing: border-box;
 }
-
 *, *:before, *:after {
   box-sizing: inherit;
 }
-
 .column {
   float: left;
   width: auto;
   margin-bottom: 6px;
   padding: 0 6px;
 }
-
-
 .container {
   padding: 0 52px;
 }
-
 .container::after, .row::after {
   content: "";
   clear: both;
   display: table;
 }
-
-table {
-  font-family: 'Akaya Telivigala'; 
-}
-
 th, td {
   text-align: left;
   padding: 10px;
@@ -131,22 +102,17 @@ th, td {
 td {
   border-bottom: 1px solid #ddd;
 }
-
-
 div.gallery img {
   width: 50%;
   height: auto;
 }
-
 div.desc {
   padding: 5px;
   text-align: center;
 }
-
 * {
   box-sizing: border-box;
 }
-
 .clearfix:after {
   content: "";
   display: table;
