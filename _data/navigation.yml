@@ -22,7 +22,6 @@ main:
   #   url: /keynotes/
   - title: "Committees"
     url: /committees/
-
   - title: "Calls and Dates"
     url: /datesandcalls/
   # - title: "Sponsors"
