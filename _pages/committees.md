@@ -7,12 +7,6 @@ title: "Committees"
 <meta name="viewport" content="width=device-width, initial-scale=1"> 
 <head>
 <style>
-h4 {
-  font-size: 20px;
-}
-p {
-font-size: 16px;
-}
 a:link {
   color:  black;
   background-color: transparent;
