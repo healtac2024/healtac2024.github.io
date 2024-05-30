@@ -9,7 +9,7 @@ title: "Accommodation"
 
 <style>
 body {
-  font-family: Times New Roman
+  font-family: Times New Roman;
 }	
 .container {
   position: relative;
