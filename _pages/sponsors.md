@@ -5,13 +5,7 @@ title: "Sponsors"
 
 <html>
 <head> 
-  <style>
-    h1, h2, h3, h4, h5 {
-      font-family: 'Akaya Telivigala';
-}
-body {
-    font-family: 'Akaya Telivigala';
-} 
+<style>
 div.gallery {
   border: 1px solid #ccc;
 }
