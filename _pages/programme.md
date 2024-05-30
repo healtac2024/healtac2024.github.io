@@ -117,16 +117,19 @@ td {
 <table class="programme-table" style="background-color: #ffffff; margin-bottom: 20px; width: 790.2px; border-color: #e9e9e9; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: start;" border="0">
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="20%">13:00-14:00</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Registration ( Venue: <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=1000463113" style="color:#bf80ff; font-size:16px;"><i class='fas fa-map'></i> InfoLab21 Reception, Floor B</a> )</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Registration </td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;"> <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=2&center=-2.784951,54.005468&zoom=18.8&sharepoitype=poi&sharepoi=985454" style="color:#bf80ff;"><i class='fas fa-map'></i> InfoLab21 Reception, Floor B</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="20%">14:00-17:00</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Pre-conference tutorial:<br><button class="collapsible">Healthcare Text Analytics in the Era of Large Language Models</button>
-<div class="content"><p style=" color: black; background-color: white; text-decoration: none;">Recent advancements in large language models (LLMs), such as ChatGPT, has revolutionised the field of natural language processing (NLP) and opened new possibilities for healthcare text analytics. This tutorial, structured as a combination of lectures and demonstrations, aims to provide a comprehensive guide to leveraging large language models in the healthcare domain, focusing on advanced techniques and applications. The tutorial will begin with an overview of the open source LLMs, emphasising their potential in addressing complex challenges within healthcare text analytics. Special attention will be given to the unique issues surrounding privacy, security, and domain-specific nuances inherent in healthcare data. Participants will be guided through practical applications of LLMs in two distinct healthcare text domains: 1) Discharge Note Generation and 2) PubMed Abstract Information Extraction. Practical demonstrations will illustrate how LLMs can be tailored for each specific domain using prompting, in-context learning, instruction tuning (finetuning). Furthermore, we will delve into LLMs’ challenges in adapting to handle multi-modal data representations.<br><br><strong>Tutorial organisers:</strong> Yunsoo Kim, Jinge Wu and Honghan Wu (University College London, Institute of Health Informatics)</p></div><p> </p><p>( Venue: <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=2&center=-2.785174,54.005410&zoom=18&sharepoitype=poi&sharepoi=1002042427" style="color:#00cc99; font-size:16px;"><i class='fas fa-map' ></i> InfoLab21, Floor B, Room B79</a> )</p></td>
+<div class="content"><p style=" color: black; background-color: white; text-decoration: none;">Recent advancements in large language models (LLMs), such as ChatGPT, has revolutionised the field of natural language processing (NLP) and opened new possibilities for healthcare text analytics. This tutorial, structured as a combination of lectures and demonstrations, aims to provide a comprehensive guide to leveraging large language models in the healthcare domain, focusing on advanced techniques and applications. The tutorial will begin with an overview of the open source LLMs, emphasising their potential in addressing complex challenges within healthcare text analytics. Special attention will be given to the unique issues surrounding privacy, security, and domain-specific nuances inherent in healthcare data. Participants will be guided through practical applications of LLMs in two distinct healthcare text domains: 1) Discharge Note Generation and 2) PubMed Abstract Information Extraction. Practical demonstrations will illustrate how LLMs can be tailored for each specific domain using prompting, in-context learning, instruction tuning (finetuning). Furthermore, we will delve into LLMs’ challenges in adapting to handle multi-modal data representations.<br><br><strong>Tutorial organisers:</strong> Yunsoo Kim, Jinge Wu and Honghan Wu (University College London, Institute of Health Informatics)</p></div></td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;"> <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=2&center=-2.785174,54.005410&zoom=18&sharepoitype=poi&sharepoi=1002042427" style="color:#bf80ff; font-size:16px;"><i class='fas fa-map'></i> InfoLab21, Floor B, Room B79</a> </td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="20%">18:30 onwards</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Dinner ( Venue: <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=4&center=-2.784403,54.005521&zoom=18&sharepoitype=poi&sharepoi=986188" style="color:#cc66cc; font-size:16px;"><i class='fas fa-map' ></i> InfoLab21 Sky Lounge, Floor D</a> )</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Dinner </td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;"> <a href="https://use.mazemap.com/?utm_medium=shorturl&fromshortlink=true#v=1&campusid=341&zlevel=4&center=-2.784951,54.005468&zoom=18.8&sharepoitype=poi&sharepoi=986143" style="color:#bf80ff; font-size:16px;"><i class='fas fa-map'></i> InfoLab21 Sky Lounge, Floor D</a> </td>
 </tr>
 </table>
 
@@ -134,11 +137,13 @@ td {
 <table class="programme-table" style="background-color: #ffffff; margin-bottom: 20px; width: 790.2px; border-color: #e9e9e9;  font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: start;" border="0">
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="20%">9:30-10:15</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Registration ( Venue:  <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:#666699;"> <i class='fas fa-map' style='font-size:16px'></i> Elizabeth Livingston Lecture Theatre</a>)</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Registration</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;"><a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785377,54.011042&zoom=19.1&sharepoitype=poi&sharepoi=902362" style="color:#00cc99; font-size:16px;"> <i class='fas fa-map' style='font-size:16px'></i> Welcome Centre Lobby</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="20%">10:15-10:30</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Welcome </td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Welcome</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;"> <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:#d279d2; font-family:Akaya Telivigala"> <i class='fas fa-map' style='font-size:16px font-family:Akaya Telivigala'></i> Elizabeth Livingston Lecture Theatre (A022)</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">10:30-11:15</td>
@@ -146,10 +151,12 @@ td {
 <button class="collapsible">Large Language Models in healthcare: should we care more?</button>
 <div class="content">
   <p style=" color: black; background-color: white; text-decoration: none;">ChatGPT can do a lot for us: it can serve as a text corrector, as a source of inspiration, as a programming aid, and as an interactive search engine. ChatGPT is also widely used in the health domain, both by doctors and patients. Large language models (LLMs) such as ChatGPT can write very convincing texts, but being able to write fluently is not the same as providing correct information. Should we worry about that? In my presentation I will first discuss our work on text mining from patient experiences, highlighting the challenges of extracting medical information from informal text. Then I will discuss the opportunities of using LLMs, and go into the risks and challenges. I will also make suggestions for responsible use of LLMs for medical applications.</p></div></td>
+ <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;"> <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:#d279d2; font-family:Akaya Telivigala"> <i class='fas fa-map' style='font-size:16px font-family:Akaya Telivigala'></i> Elizabeth Livingston Lecture Theatre (A022)</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">11:15-11:30</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Break</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;"><a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785377,54.011042&zoom=19.1&sharepoitype=poi&sharepoi=902362" style="color:#00cc99; font-size:16px;"> <i class='fas fa-map' style='font-size:16px'></i>Welcome Centre Lobby</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">11:30-12:20</td>
@@ -161,6 +168,7 @@ td {
 <li>Elizabeth Ford, Kerina Jones, Rob Stewart, Angus Roberts, Goran Nenadic, Simon Pillinger and Ben Fell. How can we conceptualise and measure re-identification risk from de-identified clinical free text data?</li>
 <li>Daisy Monika Lal, Paul Rayson, Erik Van Mulligen and Jan Kors. Leveraging Large Language Models to Extract Cancer Patient Experiences. (lightning talk)</li>
 <li>Liliana Valles, Alice Tapper, Daniel Goldwater and Matthew Taylor. Accelerating NHS feedback moderation at NHS.UK with NLP. (lightning talk)<br></li></ul></div></td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;"> <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:#d279d2; font-family:Akaya Telivigala"> <i class='fas fa-map' style='font-size:16px font-family:Akaya Telivigala'></i> Elizabeth Livingston Lecture Theatre (A022)</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">12:20-12:35</td>
@@ -169,10 +177,12 @@ td {
 <div class="content">
   <p style="color: black; background-color: white; text-decoration: none;">This is an open slot for colleagues to briefly inform the community about any ongoing or future activities, initiatives, projects, etc. It can be used to invite collaborations, highlight opportunities and challenges, etc. Every speaker will have 3 minutes.</p>
 </div></td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;"> <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:#d279d2; font-family:Akaya Telivigala"> <i class='fas fa-map' style='font-size:16px font-family:Akaya Telivigala'></i> Elizabeth Livingston Lecture Theatre (A022)</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">12:35-14:00</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Lunch</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;"><a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785377,54.011042&zoom=19.1&sharepoitype=poi&sharepoi=902362" style="color:#00cc99; font-size:16px;"> <i class='fas fa-map' style='font-size:16px'></i>Welcome Centre Lobby</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">14:00-15:15</td>
@@ -181,6 +191,7 @@ td {
 <div class="content">
   <p style="color: black; background-color: white; text-decoration: none;"><strong>Chairs:</strong> Arlene Casey (University of Edinburgh) and Vishnu Chandrabalan (Lancaster University)
 </p></div></td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;"> <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:#d279d2; font-family:Akaya Telivigala"> <i class='fas fa-map' style='font-size:16px font-family:Akaya Telivigala'></i> Elizabeth Livingston Lecture Theatre (A022)</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">15:15-15:55</td>
@@ -191,7 +202,9 @@ td {
 <ul style="color: black; background-color: white; text-decoration: none;"><li>Carly Yung. Measuring Clinical Critical Cultural Awareness, a Sociolinguistic Analysis on Clinicians’ Language Change in Patients’ Mental Health Records Across Different Groups in the UK</li>
 <li>Yunsoo Kim. Multimodal LLM for Computer Assisted Intervention: Human in the Loop with Eye Gaze of Radiologists<br></li></ul>
 <p style="color: black; background-color: white; text-decoration: none;"><strong>Panel:</strong></p>
-</div></td></tr>
+</div></td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;"> <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:#d279d2; font-family:Akaya Telivigala"> <i class='fas fa-map' style='font-size:16px font-family:Akaya Telivigala'></i> Elizabeth Livingston Lecture Theatre (A022)</a></td>
+</tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">16:00-17:30</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Posters and demos:&nbsp; 
@@ -212,7 +225,8 @@ td {
 <li>Samuel Belkadi, Nicolo Micheletti, Lifeng Han, Warren Del-Pinto and Goran Nenadic. Label-To-Text-Transformer: Generating Synthetic Medication Prescriptions</li>
 <li>Yunsoo Kim, Jinge Wu and Honghan Wu. Exploring Training Methods for Medical LLMs.</li>
 <br></ul>
-</div> <br> <span style="color:#cc0000; background-color:#e9e9e9">All poster presenters should prepare their poster in A0 portrait format.</span></td>
+</div> <br> <span style="color:#cc0000; background-color:#e9e9e9; font-size:14px">All poster presenters should prepare their poster in A0 portrait format.</span></td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left"><a href="https://use.mazemap.com/?utm_medium=shorturl&fromshortlink=true#v=1&campusid=341&zlevel=1&center=-2.785377,54.011042&zoom=19.1&sharepoitype=poi&sharepoi=902353" style="color:DodgerBlue; font-family:Akaya Telivigala"> <i class='fas fa-map' style='font-size:16px font-family:Akaya Telivigala'></i> Welcome Centre LT1 (A34)</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">17:30-18:30</td>
@@ -228,10 +242,12 @@ td {
 <li>Funding models for healthcare NLP<br></li></ul>
 </div>
 </td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;"> <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:#d279d2; font-family:Akaya Telivigala"> <i class='fas fa-map' style='font-size:16px font-family:Akaya Telivigala'></i> Elizabeth Livingston Lecture Theatre (A022)</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">18:30-22:00</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Drinks reception (18:30) and conference dinner (from 19:00)</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;"><a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.784753,54.012183&zoom=19.6&sharepoitype=poi&sharepoi=869091" style="color:#ace600; font-size:16px;"> <i class='fas fa-map' style='font-size:16px'></i> Marketplace, County South</a></td>
 </tr>
 </table>
 
@@ -240,6 +256,7 @@ td {
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="20%">09:15-09:30</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Introduction to Day 2</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;"> <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:#d279d2; font-family:Akaya Telivigala"> <i class='fas fa-map' style='font-size:16px font-family:Akaya Telivigala'></i> Elizabeth Livingston Lecture Theatre (A022)</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="20%">09:30-10:20</td>
@@ -252,6 +269,7 @@ td {
 <li>Ratchakrit Arreerard and Scott Piao. Exploring GPT-4 for Fine-Grained Emotion Classification.</li>
 <li>Arlene Casey, Matúš Falis, Franz S. Gruber, Amy Tilbrook, Elizabeth Ford and Kathy Harrison. Beyond the Surface – Exploring and Defining Indirect Risks in Clinical Free-text (lightning talk)<br></li></ul>
 </div></td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;"> <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:#d279d2; font-family:Akaya Telivigala"> <i class='fas fa-map' style='font-size:16px font-family:Akaya Telivigala'></i> Elizabeth Livingston Lecture Theatre (A022)</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="20%">10:20-11:00</td>
@@ -263,6 +281,7 @@ td {
 <li>Simon Ellershaw. Automated Generation of Hospital Discharge Summaries Using Clinical Guidelines and Large Language Models</li><br></ul>
 <p style="color: black; background-color: white; text-decoration: none;"><strong>Panel:</strong></p>
 </div></td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;"> <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:#d279d2; font-family:Akaya Telivigala"> <i class='fas fa-map' style='font-size:16px font-family:Akaya Telivigala'></i> Elizabeth Livingston Lecture Theatre (A022)</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">11:05-12:20</td>
@@ -280,7 +299,8 @@ td {
 <li>Huda M. Alshammari, Denham Phipps, Penny Lewis, Haifa Alrdahi and Riza Batista-Navarro. Development of Guidelines for Annotating Medication-Related Incident Reports</li>
 <li>Jose Rodríguez Torres, Antonio Espinosa de Los Monteros, Angelo Santana, David Killick, P-J Noble and Alan Radford. Shedding light about canine and feline cancer in the UK. A text-mining approach to analyse 1,000,000 canine and feline tumour diagnoses between 2010 and 2023.</li>
 <li>Mengxuan Sun, Ehud Reiter, Lisa Duncan and Rosalind Adam. The role of natural language processing in cancer care: a systematic scoping review with narrative synthesis</li><br></ul>
-</div> <br> <span style="color:#cc0000; background-color:#e9e9e9">All poster presenters should prepare their poster in A0 portrait format.</span></td>
+</div> <br> <span style="color:#cc0000; background-color:#e9e9e9; font-size:14px">All poster presenters should prepare their poster in A0 portrait format.</span></td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left"><a href="https://use.mazemap.com/?utm_medium=shorturl&fromshortlink=true#v=1&campusid=341&zlevel=1&center=-2.785377,54.011042&zoom=19.1&sharepoitype=poi&sharepoi=902353" style="color:DodgerBlue; font-family:Akaya Telivigala"> <i class='fas fa-map' style='font-size:16px font-family:Akaya Telivigala'></i> Welcome Centre LT1 (A34)</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="20%">12:20-12:35</td>
@@ -289,10 +309,12 @@ td {
 <div class="content">
   <p style="color: black; background-color: white; text-decoration: none;">This is an open slot for colleagues to briefly inform the community about any ongoing or future activities, initiatives, projects, etc. It can be used to invite collaborations, highlight opportunities and challenges, etc. Every speaker will have 3 minutes.</p>
 </div></td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;"><a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:#d279d2; font-family:Akaya Telivigala"> <i class='fas fa-map' style='font-size:16px font-family:Akaya Telivigala'></i> Elizabeth Livingston Lecture Theatre (A022)</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">12:35-14:00</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Lunch</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;"><a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785377,54.011042&zoom=19.1&sharepoitype=poi&sharepoi=902362" style="color:#00cc99; font-size:16px;"> <i class='fas fa-map' style='font-size:16px'></i>Welcome Centre Lobby</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">14:00-14:45</td>
@@ -300,19 +322,27 @@ td {
 <button class="collapsible">The bottleneck has always been data!</button>
 <div class="content">
   <p style="color: black; background-color: white; text-decoration: none;">The world has been in awe at the recent applications of sophisticated machine learning models derived from large datasets. Yet in medicine, we continue to use decades old algorithms to support patient care. Models for cancer progression are based upon staging guidelines defined in the 70s, patient severity of illness is estimated using a scoring system from the 90s, and our latest and greatest criteria for sepsis was a model with three input variables. The reasons for the technological naivety in medicine are multifactorial, but one aspect stands out: researchers simply do not have much data. In this talk I will highlight the MIMIC series of databases, a suite of publicly accessible deidentified medical records. I’ll give an insider’s view on how the electronic health records for thousands of individuals were comprehensively deidentified, transformed, and shared for research without harm to the individual’s themselves. I’ll overview the utility of this data, and highlight some of our own work on language modeling enabled by the broad access to deidentified free-text clinical notes. I’ll conclude with my thoughts on how the field should better balance the benefits and risks of using patient data for research.</p></div></td>
+  <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;"> <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:#d279d2; font-family:Akaya Telivigala"> <i class='fas fa-map' style='font-size:16px font-family:Akaya Telivigala'></i> Elizabeth Livingston Lecture Theatre (A022)</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">14:45-16:00</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Industry forum:&nbsp;
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Industry forum:<br>
 <button class="collapsible">Collaboration models for clinical large language modelling</button>
 <div class="content">
   <p style="color: black; background-color: white; text-decoration: none;"><strong>Chair:</strong> Dr Ben Fell (Akrivia)</p>
 </div>
 </td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;"> <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:#d279d2; font-family:Akaya Telivigala"> <i class='fas fa-map' style='font-size:16px font-family:Akaya Telivigala'></i> Elizabeth Livingston Lecture Theatre (A022)</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">16:00-16:15</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Final remarks and close</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;"> <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:#d279d2; font-family:Akaya Telivigala"> <i class='fas fa-map' style='font-size:16px font-family:Akaya Telivigala'></i> Elizabeth Livingston Lecture Theatre (A022)</a></td>
+</tr>
+<tr>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">16:15 onwards</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Refreshments</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left;"><a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785377,54.011042&zoom=19.1&sharepoitype=poi&sharepoi=902362" style="color:#00cc99; font-size:16px;"> <i class='fas fa-map' style='font-size:16px'></i>Welcome Centre Lobby</a></td>
 </tr>
 </table>
 <script>
