@@ -6,54 +6,38 @@ title: "Dates"
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-h1, h2, h3, h4, h5 {
-  font-family: 'Akaya Telivigala';
-} 
-body {
-    font-family: 'Akaya Telivigala'; 
-} 
-  
 html {
   box-sizing: border-box;
 }
-
 *, *:before, *:after {
   box-sizing: inherit;
 }
-
 .column {
   float: left;
   width: auto;
   margin-bottom: 6px;
   padding: 0 6px;
 }
-
 @media screen and (max-width: 1000px) {
   .column {
     width: auto;
     display: block;
   }
 }
-
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
-
 .container {
   padding: 0 52px;
 }
-
 .container::after, .row::after {
   content: "";
   clear: both;
   display: table;
 }
-
 table {
-  font-family: 'Akaya Telivigala'; 
   width: auto;
 }
-
 th, td {
   text-align: left;
   padding: 10px;
