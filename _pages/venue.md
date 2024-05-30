@@ -8,30 +8,18 @@ permalink: /venue/
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
 <style>
-body {
-    font-family: 'Akaya Telivigala';
-} 
-	
-h1, h2, h3, h4, h5, h6, p, i {
-  font-family: 'Akaya Telivigala';
-}
-	
 * {
   box-sizing: border-box;
 }
-
 .container {
   position: relative;
   max-width:650px;
   margin: 0 0;
 }
-	
  .tab1 {
             tab-size: 2;
         }
-
 .container img {vertical-align: middle;}
-
 .container .content {
   font-family: 'Akaya Telivigala';
   position: absolute;
@@ -44,21 +32,18 @@ h1, h2, h3, h4, h5, h6, p, i {
   height: 100%;
   padding: 10px;
 }
-	
 .image-container {
   background-image:  url("/assets/images/main.jpg");
   background-size: cover;
   position: relative;
   height: 400px;
 }
-	
 .image-container-1 {
   background-image:  url("/assets/images/university/20240214_194800601_iOS.jpg");
   background-size: cover;
   position: relative;
   height: 400px;
 }
-
 .text {
   background-color: white;
   color: black;
@@ -74,7 +59,6 @@ h1, h2, h3, h4, h5, h6, p, i {
   transform: translate(-50%, -50%);
   mix-blend-mode: screen;
 }
-
 .text-1 {
   background-color: white;
   color: black;
@@ -90,16 +74,13 @@ h1, h2, h3, h4, h5, h6, p, i {
   transform: translate(-30%, -30%);
   mix-blend-mode: screen;
 }
-
 * {
   box-sizing: border-box;
 }
-
 .header {
   text-align: center;
   padding: 32px;
 }
-
 .row {
   display: -ms-flexbox; /* IE10 */
   display: flex;
@@ -107,12 +88,10 @@ h1, h2, h3, h4, h5, h6, p, i {
   flex-wrap: wrap;
   padding: 0 4px;
 }
-
 .header {
   text-align: center;
   padding: 32px;
 }
-
 .row {
   display: -ms-flexbox; /* IE10 */
   display: flex;
@@ -120,7 +99,6 @@ h1, h2, h3, h4, h5, h6, p, i {
   flex-wrap: wrap;
   padding: 0 4px;
 }
-
 /* Create four equal columns that sits next to each other */
 .column {
   -ms-flex: 25%; /* IE10 */
@@ -128,20 +106,17 @@ h1, h2, h3, h4, h5, h6, p, i {
   max-width: 25%;
   padding: 0 4px;
 }
-
 .column img {
   margin-top: 8px;
   vertical-align: middle;
   width: 100%;
 }
-
 div.scroll-container {
   background-color: white;
   overflow: auto;
   white-space: nowrap;
   padding: 5px;
 }
-
 div.scroll-container img {
   padding: 2px;
 }
