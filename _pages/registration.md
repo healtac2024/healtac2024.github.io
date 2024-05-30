@@ -4,21 +4,8 @@ title: " "
 ---
 
 <html>
-<head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
-<style>
-body {
-    font-family: 'Akaya Telivigala';
-} 
-h1, h2, h3, h5, h6 {
-  font-family: 'Akaya Telivigala';
-}
-h4 {
-  font-family: 'Akaya Telivigala';
-}
-</style>
-</head>
 <body>
 <br>
 
