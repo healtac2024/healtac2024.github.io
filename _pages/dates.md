@@ -6,6 +6,9 @@ title: "Dates"
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+body {
+  font-family: Times New Roman;
+}
 html {
   box-sizing: border-box;
 }
