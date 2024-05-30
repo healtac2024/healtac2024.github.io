@@ -6,52 +6,38 @@ title: "Keynote Speakers"
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-h1, h2, h3, h4, h5 {
-  font-family: 'Akaya Telivigala';
-} 
-body {
-    font-family: 'Akaya Telivigala'; font-color: #6b6b6b;
-} 
 html {
   box-sizing: border-box;
 }
-
 *, *:before, *:after {
   box-sizing: inherit;
 }
-
 .column {
   float: left;
   width: auto;
   margin-bottom: 16px;
   padding: 0 8px;
 }
-
 @media screen and (max-width: 650px) {
   .column {
     width: auto;
     display: block;
   }
 }
-
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
-
 .container {
   padding: 0 16px;
 }
-
 .container::after, .row::after {
   content: "";
   clear: both;
   display: table;
 }
-
 .title {
   color: grey;
 }
-
 .button {
   border: none;
   outline: 0;
@@ -63,15 +49,12 @@ html {
   cursor: pointer;
   width: 100%;
 }
-
 .button:hover {
   background-color: #009999
 }
-
 table {
   width: auto;
 }
-
 th, td {
   text-align: left;
   padding: 40px;
@@ -79,7 +62,6 @@ th, td {
 td {
   border-bottom: 1px solid #ddd;
 }
-
 </style>
 </head>
 <body>
