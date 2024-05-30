@@ -6,6 +6,13 @@ tags:
   - calls
 ---
 <html>
+<head>
+<style>
+body {
+  font-family: Times New Roman;
+}
+</style>
+</head>
 <body>
 HealTAC 2024 invites contributions that address any aspect of healthcare text analytics. This year, we invite submissions in the form of extended abstracts that describe either methodological or application work that has not been previously presented in a conference. Submissions (up to 2 pages) should be prepared based on a template that is available at the conference web site. 
 
