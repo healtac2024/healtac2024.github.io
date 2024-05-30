@@ -202,7 +202,7 @@ td {
 <li>Yunsoo Kim, Jinge Wu and Honghan Wu. Exploring Training Methods for Medical LLMs.</li>
 <br></ul>
 </div> <br> <span style="color:#cc0000; background-color:#e9e9e9; font-size:14px">All poster presenters should prepare their poster in A0 portrait format.</span></td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left; font-size:14px;"><a href="https://use.mazemap.com/?utm_medium=shorturl&fromshortlink=true#v=1&campusid=341&zlevel=1&center=-2.785377,54.011042&zoom=19.1&sharepoitype=poi&sharepoi=902353" style="color:00cc99; "> <i class='fas fa-map' style='font-size:14px;'></i> Welcome Centre LT1 (A34)</a></td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left; font-size:14px;"><a href="https://use.mazemap.com/?utm_medium=shorturl&fromshortlink=true#v=1&campusid=341&zlevel=1&center=-2.785377,54.011042&zoom=19.1&sharepoitype=poi&sharepoi=902353" style="color:#00cc99; "> <i class='fas fa-map' style='font-size:14px;'></i> Welcome Centre LT1 (A34)</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">17:30-18:30</td>
@@ -276,7 +276,7 @@ td {
 <li>Jose Rodríguez Torres, Antonio Espinosa de Los Monteros, Angelo Santana, David Killick, P-J Noble and Alan Radford. Shedding light about canine and feline cancer in the UK. A text-mining approach to analyse 1,000,000 canine and feline tumour diagnoses between 2010 and 2023.</li>
 <li>Mengxuan Sun, Ehud Reiter, Lisa Duncan and Rosalind Adam. The role of natural language processing in cancer care: a systematic scoping review with narrative synthesis</li><br></ul>
 </div> <br> <span style="color:#cc0000; background-color:#e9e9e9; font-size:14px">All poster presenters should prepare their poster in A0 portrait format.</span></td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left; font-size:14px;" width="25%"><a href="https://use.mazemap.com/?utm_medium=shorturl&fromshortlink=true#v=1&campusid=341&zlevel=1&center=-2.785377,54.011042&zoom=19.1&sharepoitype=poi&sharepoi=902353" style="color:00cc99; "> <i class='fas fa-map' style='font-size:14px;'></i> Welcome Centre LT1 (A34)</a></td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left; font-size:14px;" width="25%"><a href="https://use.mazemap.com/?utm_medium=shorturl&fromshortlink=true#v=1&campusid=341&zlevel=1&center=-2.785377,54.011042&zoom=19.1&sharepoitype=poi&sharepoi=902353" style="color:#00cc99; "> <i class='fas fa-map' style='font-size:14px;'></i> Welcome Centre LT1 (A34)</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">12:20-12:35</td>
