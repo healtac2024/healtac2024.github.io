@@ -12,13 +12,6 @@ title: "Calls"
 * {
   box-sizing: border-box;
 }
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Akaya Telivigala'; font-color: #009999;
-}
-body {
-    font-family: 'Akaya Telivigala'; font-color: #6b6b6b;
-} 
-
 /* Float three columns side by side */
 .column {
   float: left;
