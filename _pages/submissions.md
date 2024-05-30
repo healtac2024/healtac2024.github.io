@@ -7,7 +7,7 @@ title: "Submissions"
 <head> 
 <style>
 body {
-    font-color: #6b6b6b;
+    font-color: #6b6b6b; font-family: Times New Roman;
 } 
 </style>
 </head>
