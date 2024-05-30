@@ -5,6 +5,10 @@ title: "Programme"
 
 <html>
 <head>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 h1, h2, h3, h4, h5 {
@@ -112,9 +116,17 @@ td {
 <h5 style="margin-bottom: 0.9375rem; font-weight: bold; line-height: 1.1; color: #6495ED; font-size: 0.9375rem; clear: both; text-transform: uppercase; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-align: start;">WEDNESDAY, JUNE 12TH 2024</h5>
 <table class="programme-table" style="background-color: #ffffff; margin-bottom: 20px; width: 790.2px; border-color: #e9e9e9; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: start;" border="0">
 <tr>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="20%">13:00-14:00</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Registration ( Venue: <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=1000463113" style="color:#bf80ff; font-size:16px font-family:Akaya Telivigala;"><i class='fas fa-map'></i> InfoLab21 Reception, Floor B</a> )</td>
+</tr>
+<tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="20%">14:00-17:00</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Pre-conference tutorial:<br><button class="collapsible">Healthcare Text Analytics in the Era of Large Language Models</button>
-<div class="content"><p style=" color: black; background-color: white; text-decoration: none;">Recent advancements in large language models (LLMs), such as ChatGPT, has revolutionised the field of natural language processing (NLP) and opened new possibilities for healthcare text analytics. This tutorial, structured as a combination of lectures and demonstrations, aims to provide a comprehensive guide to leveraging large language models in the healthcare domain, focusing on advanced techniques and applications. The tutorial will begin with an overview of the open source LLMs, emphasising their potential in addressing complex challenges within healthcare text analytics. Special attention will be given to the unique issues surrounding privacy, security, and domain-specific nuances inherent in healthcare data. Participants will be guided through practical applications of LLMs in two distinct healthcare text domains: 1) Discharge Note Generation and 2) PubMed Abstract Information Extraction. Practical demonstrations will illustrate how LLMs can be tailored for each specific domain using prompting, in-context learning, instruction tuning (finetuning). Furthermore, we will delve into LLMs’ challenges in adapting to handle multi-modal data representations.<br><br><strong>Tutorial organisers:</strong> Yunsoo Kim, Jinge Wu and Honghan Wu (University College London, Institute of Health Informatics)</p></div></td>
+<div class="content"><p style=" color: black; background-color: white; text-decoration: none;">Recent advancements in large language models (LLMs), such as ChatGPT, has revolutionised the field of natural language processing (NLP) and opened new possibilities for healthcare text analytics. This tutorial, structured as a combination of lectures and demonstrations, aims to provide a comprehensive guide to leveraging large language models in the healthcare domain, focusing on advanced techniques and applications. The tutorial will begin with an overview of the open source LLMs, emphasising their potential in addressing complex challenges within healthcare text analytics. Special attention will be given to the unique issues surrounding privacy, security, and domain-specific nuances inherent in healthcare data. Participants will be guided through practical applications of LLMs in two distinct healthcare text domains: 1) Discharge Note Generation and 2) PubMed Abstract Information Extraction. Practical demonstrations will illustrate how LLMs can be tailored for each specific domain using prompting, in-context learning, instruction tuning (finetuning). Furthermore, we will delve into LLMs’ challenges in adapting to handle multi-modal data representations.<br><br><strong>Tutorial organisers:</strong> Yunsoo Kim, Jinge Wu and Honghan Wu (University College London, Institute of Health Informatics)</p></div><p>( Venue: <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=2&center=-2.785174,54.005410&zoom=18&sharepoitype=poi&sharepoi=1002042427" style="color:#666699; font-size:16px font-family:Akaya Telivigala;"><i class='fas fa-map' ></i> InfoLab21, Floor B, Room B79</a> )</p></td>
+</tr>
+<tr>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="20%">18:30 onwards</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Dinner ( Venue: <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=4&center=-2.784403,54.005521&zoom=18&sharepoitype=poi&sharepoi=986188" style="color:#00cc99; font-size:16px font-family:Akaya Telivigala;"><i class='fas fa-map' ></i> InfoLab21 Sky Lounge, Floor D</a> )</td>
 </tr>
 </table>
 
@@ -122,7 +134,7 @@ td {
 <table class="programme-table" style="background-color: #ffffff; margin-bottom: 20px; width: 790.2px; border-color: #e9e9e9;  font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: start;" border="0">
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="20%">9:30-10:15</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Registration</td>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Registration  ( Venue: <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:#cc66cc; font-family:Akaya Telivigala"> <i class='fas fa-map' style='font-size:16px font-family:Akaya Telivigala'></i> Elizabeth Livingston Lecture Theatre</a>)</td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="20%">10:15-10:30</td>
