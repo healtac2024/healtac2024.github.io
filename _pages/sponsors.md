@@ -6,6 +6,9 @@ title: "Sponsors"
 <html>
 <head> 
 <style>
+body {
+  font-family: Times New Roman;
+}
 div.gallery {
   border: 1px solid #ccc;
 }
