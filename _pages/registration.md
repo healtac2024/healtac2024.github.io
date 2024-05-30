@@ -1,6 +1,6 @@
 ---
 permalink: /registration/
-title: " "
+title: "Registration"
 ---
 
 <html>
@@ -8,8 +8,6 @@ title: " "
 <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 <body>
 <br>
-
-<h2 style="color:#6495ED;">Registration is now open!</h2>
 
 Please book via the <a href="https://online-payments.lancaster-university.co.uk/product-catalogue/events/science-and-technology-fst/school-of-computing-and-communications/healtac-2024-conference" style="color: #6495ED; background-color: #F0F8FF; text-decoration: none;">Lancaster University online store</a>.
 <p></p>
