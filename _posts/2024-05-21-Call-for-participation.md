@@ -6,17 +6,6 @@ tags:
   - calls
 ---
 <html>
-<!-- <link href='https://fonts.googleapis.com/css?family=Akaya Telivigala' rel='stylesheet'> -->
-<head> 
-<style>
-    h1, h2, h3, h4, h5, h6 {
-        font-family: 'Akaya Telivigala';
-}
-body {
-    font-family: 'Akaya Telivigala';
-} 
-</style>
-</head>
 <body>
 HealTAC 2024 is pleased to announce the full programme of the conference, including 
 <ul>
