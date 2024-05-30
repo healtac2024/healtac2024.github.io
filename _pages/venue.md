@@ -149,8 +149,7 @@ div.scroll-container img {
 </head>
 
 <body>
-
-<div class="container">
+<!-- <div class="container">
     <h2>Tutorial Venue - June 12, 2024</h2>
     <p>School of Computing and Communications</p>
     <p>InfoLab21, Lancaster University</p>
@@ -171,7 +170,7 @@ div.scroll-container img {
     <p>Lancaster University Campus</p>
     <p>United Kingdom</p>
 <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:DodgerBlue; font-family:Akaya Telivigala"> <i class='fas fa-map' style='font-size:24px font-family:Akaya Telivigala'></i> Elizabeth Livingston Lecture Theatre</a>
-</div>
+</div> -->
 
 <br>
 <p>Information about travel to the campus is available <a href="https://www.lancaster.ac.uk/sustainability/action/travel/" style="color:DodgerBlue;">here</a>.
