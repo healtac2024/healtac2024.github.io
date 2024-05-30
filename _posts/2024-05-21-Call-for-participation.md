@@ -6,6 +6,13 @@ tags:
   - calls
 ---
 <html>
+<head>
+<style>
+body {
+  font-family: Times New Roman;
+}
+</style>
+</head>
 <body>
 HealTAC 2024 is pleased to announce the full programme of the conference, including 
 <ul>
