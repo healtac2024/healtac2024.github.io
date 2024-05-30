@@ -8,13 +8,6 @@ title: "Accommodation"
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <style>
-body {
-    font-family: 'Akaya Telivigala';
-} 
-	
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Akaya Telivigala';
-}
 	
 .container {
   position: relative;
