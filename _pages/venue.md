@@ -16,7 +16,7 @@ body {
 }
 .container {
   position: relative;
-  max-width:650px;
+  max-width:1000px;
   margin: 0 0;
 }
  .tab1 {
