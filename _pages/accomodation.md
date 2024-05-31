@@ -17,8 +17,8 @@ body {
   margin: 0 auto;
 }	
  .tab1 {
-            tab-size: 2;
-        }
+   tab-size: 2;
+  }
 .container img {vertical-align: middle;}
 .container .content {
   font-family: Times New Roman;  
@@ -67,6 +67,7 @@ body {
   text-align: center;
 }
 .text-1 {
+  font-family: Times New Roman;
   background-color: rgb(0.4, 0, 0); /* Fallback color */
   background-color: rgba(0, 0, 0, 0.3); /* Black w/opacity/see-through */
   color: #FEF7DB;
@@ -82,6 +83,7 @@ body {
   text-align: center;
 }
 .text-2 {
+  font-family: Times New Roman;
   background-color: rgb(0.4, 0, 0); /* Fallback color */
   background-color: rgba(0, 0, 0, 0.3); /* Black w/opacity/see-through */
   color:  #FEF7DB;
@@ -143,7 +145,7 @@ div.scroll-container img {
 </head>
 
 <body>
-<h5 style="color:#6495ED;">Kindly note that accommodation must be booked separately from registration.</h5>
+<h5 style="color:#6495ED; font-family: Times New Roman;">Kindly note that accommodation must be booked separately from registration.</h5>
 <div class="image-container">
   <div class="text"><h2>Promotion code: HealTAC2024</h2>
     <h1>Campus Accomodation</h1><a href="https://www.conferences.lancs.ac.uk/bedandbreakfast/" style="color:#FEF7DB">Book Now</a></div>
