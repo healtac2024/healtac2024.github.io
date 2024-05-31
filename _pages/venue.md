@@ -63,7 +63,7 @@ body {font-family: Verdana, sans-serif;}
 img {vertical-align: middle;}
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
+  max-width: 800px;
   position: relative;
   margin: auto;
 }
@@ -101,7 +101,7 @@ img {vertical-align: middle;}
 /* Fading animation */
 .fade {
   animation-name: fade;
-  animation-duration: 1.5s;
+  animation-duration: 2.0s;
 }
 @keyframes fade {
   from {opacity: .6} 
@@ -176,7 +176,7 @@ function showSlides() {
   }
   slides[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " active";
-  setTimeout(showSlides, 2500); 
+  setTimeout(showSlides, 2000); 
 }
 </script>
 <p style="font-family: 'Akaya Telivigala';">Photo Credit: Mo Haj (@melhaj) (<a href="https://www.instagram.com/melhaj/" target="_blank">https://www.instagram.com/melhaj/</a>)</p>
