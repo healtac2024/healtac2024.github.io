@@ -123,27 +123,27 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <img src="/assets/images/university/20240214_194800601_iOS.jpg" width="100%">  
+  <img src="/assets/images/university/20240214_194800601_iOS.jpg" width="600" height="600">  
   <div class="text">Library</div>
 </div>
 
 <div class="mySlides fade">
-  <img src="/assets/images/alex_square/20200530_194450255_iOS.jpeg" width="100%">  
+  <img src="/assets/images/alex_square/20200530_194450255_iOS.jpeg" width="600" height="600">  
   <div class="text">Outdoors</div>
 </div>
 
 <div class="mySlides fade">
-  <img src="/assets/images/infolab/20210917_175340223_iOS.jpg" width="100%"> 
+  <img src="/assets/images/infolab/20210917_175340223_iOS.jpg" width="600" height="600"> 
   <div class="text">InfoLab21</div>
 </div>
 
 <div class="mySlides fade">
-   <img src="/assets/images/university/20170501_135102767_iOS.jpg" width="100%">
+   <img src="/assets/images/university/20170501_135102767_iOS.jpg" width="600" height="600">
   <div class="text">Lake Carter Bridge</div>
 </div>
 
 <div class="mySlides fade">
-    <img src="/assets/images/alex_square/20210205_170511772_iOS.jpeg" width="100%">
+    <img src="/assets/images/alex_square/20210205_170511772_iOS.jpeg" width="600" height="600">
   <div class="text">Alexandra Square</div>
 </div>
 </div>
