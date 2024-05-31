@@ -23,6 +23,7 @@ html {
   width: auto;
   margin-bottom: 16px;
   padding: 0 0px;
+  font-family: Times New Roman;
 }
 @media screen and (max-width: 650px) {
   .column {
@@ -35,11 +36,13 @@ html {
 }
 .container {
   padding: 0 0px;
+  font-family: Times New Roman;
 }
 .container::after, .row::after {
   content: "";
   clear: both;
   display: table;
+  font-family: Times New Roman;
 }
 .title {
   color: grey;
@@ -64,6 +67,7 @@ table {
 th, td {
   text-align: left;
   padding: 40px;
+  font-family: Times New Roman;
 }
 td {
   border-bottom: 1px solid #ddd;
@@ -77,6 +81,7 @@ td {
   text-align: left;
   outline: none;
   font-size: 15px;
+  font-family: Times New Roman;
 }
 .active, .collapsible:hover {
   background-color: #6495ED;
@@ -88,6 +93,7 @@ td {
   overflow: hidden;
   transition: max-height 0.2s ease-out;
   font-size: 14px;
+  font-family: Times New Roman;
 }
 </style>
 </head>
