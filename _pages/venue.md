@@ -123,7 +123,7 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <img src="/assets/images/main.jpg" width="100%">  
+  <img src="/assets/images/university/20240214_194800601_iOS.jpg" width="100%">  
   <div class="text">Library</div>
 </div>
 
@@ -176,7 +176,7 @@ function showSlides() {
   }
   slides[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " active";
-  setTimeout(showSlides, 1500); 
+  setTimeout(showSlides, 2500); 
 }
 </script>
 <p style="font-family: 'Akaya Telivigala';">Photo Credit: Mo Haj (@melhaj) (<a href="https://www.instagram.com/melhaj/" target="_blank">https://www.instagram.com/melhaj/</a>)</p>
