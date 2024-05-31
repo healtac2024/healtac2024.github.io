@@ -15,16 +15,13 @@ body {
   position: relative;
   max-width:650px;
   margin: 0 auto;
-}
-	
+}	
  .tab1 {
             tab-size: 2;
         }
-
 .container img {vertical-align: middle;}
-
 .container .content {
-  font-family: 'Akaya Telivigala';
+  font-family: Times New Roman;  
   position: absolute;
   bottom: 0;
   background: rgb(0, 0, 0); /* Fallback color */
@@ -34,30 +31,27 @@ body {
   min-width: 30%;
   height: 100%;
   padding: 10px;
-}
-	
+}	
 .image-container {
   background-image:  url("https://www.conferences.lancs.ac.uk/bedandbreakfast/Clients/Lancaster/Images/banner.jpg");
   background-size: cover;
   position: relative;
   height: 500px;
 }
-
 .image-container-1 {
   background-image:  url("https://th.bing.com/th/id/OIP.TPRGpp454UYLQB5c5AhPAAHaEV?rs=1&pid=ImgDetMain");
   background-size: cover;
   position: relative;
   height: 500px;
 }
-
 .image-container-2 {
   background-image:  url("https://cdn.thecrazytourist.com/wp-content/uploads/2018/09/ccimage-shutterstock_362421311.jpg");
   background-size: cover;
   position: relative;
   height: 500px;
 }
-
 .text {
+  font-family: Times New Roman;
   background-color: rgb(0.4, 0, 0); /* Fallback color */
   background-color: rgba(0, 0, 0, 0.3); /* Black w/opacity/see-through */
   color: #FEF7DB;
@@ -72,7 +66,6 @@ body {
   padding: 20px;
   text-align: center;
 }
-
 .text-1 {
   background-color: rgb(0.4, 0, 0); /* Fallback color */
   background-color: rgba(0, 0, 0, 0.3); /* Black w/opacity/see-through */
@@ -88,7 +81,6 @@ body {
   padding: 20px;
   text-align: center;
 }
-
 .text-2 {
   background-color: rgb(0.4, 0, 0); /* Fallback color */
   background-color: rgba(0, 0, 0, 0.3); /* Black w/opacity/see-through */
@@ -104,16 +96,10 @@ body {
   padding: 20px;
   text-align: center;
 }
-
-* {
-  box-sizing: border-box;
-}
-
 .header {
   text-align: center;
   padding: 32px;
 }
-
 .row {
   display: -ms-flexbox; /* IE10 */
   display: flex;
@@ -121,12 +107,10 @@ body {
   flex-wrap: wrap;
   padding: 0 4px;
 }
-
 .header {
   text-align: center;
   padding: 32px;
 }
-
 .row {
   display: -ms-flexbox; /* IE10 */
   display: flex;
@@ -134,7 +118,6 @@ body {
   flex-wrap: wrap;
   padding: 0 4px;
 }
-
 /* Create four equal columns that sits next to each other */
 .column {
   -ms-flex: 25%; /* IE10 */
@@ -142,20 +125,17 @@ body {
   max-width: 25%;
   padding: 0 4px;
 }
-
 .column img {
   margin-top: 8px;
   vertical-align: middle;
   width: 100%;
 }
-
 div.scroll-container {
   background-color: white;
   overflow: auto;
   white-space: nowrap;
   padding: 5px;
 }
-
 div.scroll-container img {
   padding: 2px;
 }
