@@ -23,8 +23,10 @@ Registration fees:
   <li>Full registration: £200</li>
   <li>Student registration: £100</li>
 </ul>
-<p style="color: #6495ED; background-color: #F0F8FF; text-decoration: none;">The fee includes participation for three days (including the tutorial day), lunches on June 13th and 14th, and dinners on 12th and 13th. 
-  
+<p style="color: #6495ED; background-color: #F0F8FF; text-decoration: none;">The fee includes participation for three days (including the tutorial day), lunches on June 13th and 14th, and dinners on 12th and 13th.  
+</p>
+<p style="color: #6495ED; background-color: #F0F8FF; text-decoration: none;">
+  Note: as of Monday 3rd June, we are nearing capacity for the Wednesday tutorial session, so you may need to be put on a waiting list when we reach maximum numbers for the lab size.
 </p>
 
 </body>
