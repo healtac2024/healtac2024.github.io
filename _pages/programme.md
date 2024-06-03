@@ -196,7 +196,6 @@ td {
 <button class="collapsible">Details</button>
 <div class="content">
   <ul style="color: black; background-color: white; text-decoration: none;"><li>Franz S. Gruber, Matúš Falis, Amy Tilbrook and Arlene Casey. A Privacy Risk Dashboard for Clinical Free-text (DEMO)</li>
-<li>Fawaz Alarfaj, Hikmat Ullah Khan and Muzamil Ahmed. Context-aware Medical Question Answering: An Extended Transformers-Based Approach with BioBERT Encoding for Restricted Domain Queries</li>
 <li>Warren Del-Pinto, Jenny Humphreys, Meghna Jani, Prajwal Khairnar, Ana Aldana, Robyn Hamilton, Karim Webb, Goran Nenadic and William Dixon. Annotation of Outpatient Letters to Estimate Prevalence and Misclassification of Musculoskeletal Disease</li>
 <li>Jack Wu, Jonathan Breeze, Dhruva Biswas, Sam Brown, Brian Tam To, Matthew Ryan, Theresa McDonagh, Daniel Bromage, Antonio Cannata, Thomas Searle, James Teo, Richard Dobson, Ajay Shah and Kevin O’Gallagher. How representative are heart failure clinical trials? A comparative study using natural language processing</li>
 <li>Sean Farrell, Noura Al Moubayed, Alan Radford, Gina Pinchbeck and Peter-John Mäntylä Noble. Where are all the antimicrobials being used? Large Language Models for Monitoring and Adherence to Stewardship Guidelines in Veterinary Practices</li>
