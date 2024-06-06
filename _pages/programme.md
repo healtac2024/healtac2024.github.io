@@ -195,7 +195,7 @@ td {
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Posters and demos (including refreshments):&nbsp; 
 <button class="collapsible">Details</button>
 <div class="content">
-  <ul style="color: black; background-color: white; text-decoration: none;"><li>Franz S. Gruber, Matúš Falis, Amy Tilbrook and Arlene Casey. A Privacy Risk Dashboard for Clinical Free-text (DEMO)</li>
+  <ul style="color: black; background-color: white; text-decoration: none;"><li>Faizan E Mustafa and Juan G. Diaz Ochoa. Tool for mapping of medical narratives into medical ontologies in low resource setting: A case study for German (DEMO )</li>
 <li>Warren Del-Pinto, Jenny Humphreys, Meghna Jani, Prajwal Khairnar, Ana Aldana, Robyn Hamilton, Karim Webb, Goran Nenadic and William Dixon. Annotation of Outpatient Letters to Estimate Prevalence and Misclassification of Musculoskeletal Disease</li>
 <li>Jack Wu, Jonathan Breeze, Dhruva Biswas, Sam Brown, Brian Tam To, Matthew Ryan, Theresa McDonagh, Daniel Bromage, Antonio Cannata, Thomas Searle, James Teo, Richard Dobson, Ajay Shah and Kevin O’Gallagher. How representative are heart failure clinical trials? A comparative study using natural language processing</li>
 <li>Sean Farrell, Noura Al Moubayed, Alan Radford, Gina Pinchbeck and Peter-John Mäntylä Noble. Where are all the antimicrobials being used? Large Language Models for Monitoring and Adherence to Stewardship Guidelines in Veterinary Practices</li>
@@ -272,7 +272,7 @@ td {
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Posters and demos (including refreshments):&nbsp;
 <button class="collapsible">Details</button>
 <div class="content">
-  <ul style="color: black; background-color: white; text-decoration: none;"><li>Faizan E Mustafa and Juan G. Diaz Ochoa. Tool for mapping of medical narratives into medical ontologies in low resource setting: A case study for German (DEMO )</li>
+  <ul style="color: black; background-color: white; text-decoration: none;"><li>Franz S. Gruber, Matúš Falis, Amy Tilbrook and Arlene Casey. A Privacy Risk Dashboard for Clinical Free-text (DEMO)</li>
 <li>Lifeng Han, Serge Gladkoff, Betty Galiano, Irina Sorokina, Gleb Erofeev and Goran Nenadic. Neural Machine Translation of Clinical Text between English and Spanish</li>
 <li>Shubham Agarwal, Thomas Searle, Richard Dobson, Anthony Shek and James Teo. Improving Multi-Task Text Classification Performance in Electronic Health Records</li>
 <li>Joseph Cronin, Keiran Tait, Jamie Wallis and Robert Durichen. ArcTEX – a precise clinical data enrichment model to support real world evidence studies</li>
