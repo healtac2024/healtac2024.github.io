@@ -62,9 +62,9 @@ author:
 #  avatar : "/assets/images/bio-photo.jpg"
   # bio    : "7th Healthcare Text Analytics Conference"
   links:
-    - label: "<strong style='color:#6495ED;'>BOOK OF ABSTRACTS</strong><br><a style='color:black;' href="https://github.com/healtac2024/healtac2024.github.io/blob/main/_data/Book_of_Abstracts.pdf" download>BOOK OF ABSTRACTS</a><br><br>"
+    - label: "<strong style='color:#6495ED;'>BOOK OF ABSTRACTS</strong><br>Download</a><br><br>"
       icon: "fas fa-file-pdf"
-      # url: https://github.com/healtac2024/healtac2024.github.io/blob/main/_data/Book_of_Abstracts.pdf
+      url: <a href="https://github.com/healtac2024/healtac2024.github.io/blob/main/_data/Book_of_Abstracts.pdf" download>
     - label: "<strong style='color:#6495ED;'>ACCOMMODATION</strong><br><span style='color:black;'>Book now.<br><br>"
       icon: "fas fa-home"
       url: https://healtac2024.github.io/accommodation/
