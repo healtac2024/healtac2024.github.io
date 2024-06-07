@@ -64,7 +64,7 @@ author:
   links:
     - label: "<strong style='color:#6495ED;'>BOOK OF ABSTRACTS</strong><br>Download</a><br>"
       icon: "fas fa-file-pdf"
-      url: _data/Book_of_Abstracts.pdf
+      url: /_data/Book_of_Abstracts.pdf
       download: "HealTAC2024_Book_of_Abstracts.pdf"
     - label: "<strong style='color:#6495ED;'>ACCOMMODATION</strong><br><span style='color:black;'>Book now.<br><br>"
       icon: "fas fa-home"
