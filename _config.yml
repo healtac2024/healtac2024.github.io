@@ -62,7 +62,7 @@ author:
 #  avatar : "/assets/images/bio-photo.jpg"
   # bio    : "7th Healthcare Text Analytics Conference"
   links:
-    - label: "<strong style='color:#6495ED;'>BOOK OF ABSTRACTS</strong><br>Download</a><br>"
+    - label: "<strong style='color:#6495ED;'>BOOK OF ABSTRACTS</strong><br><span style='color:black;'>Download<br>"
       icon: "fas fa-file-pdf"
       url: https://drive.usercontent.google.com/u/0/uc?id=1oBAgnUsqvdGFpUPL8GAdw5XmnF7M2gUC&export=download
       download: "HealTAC2024_Book_of_Abstracts.pdf"
