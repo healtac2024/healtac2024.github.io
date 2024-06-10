@@ -1,4 +1,4 @@
-<---
+---
 permalink: /programme/
 title: "Programme"
 ---
