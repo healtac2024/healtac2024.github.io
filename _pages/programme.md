@@ -175,8 +175,8 @@ td {
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Panel: 
 <button class="collapsible">Secure data environments for healthcare NLP</button>
 <div class="content">
-  <p style="color: black; background-color: white; text-decoration: none;"><strong>Chairs:</strong> Arlene Casey (University of Edinburgh) and Vishnu Chandrabalan (Lancaster University)
-</p></div></td>
+  <p style="color: black; background-color: white; text-decoration: none;"><strong>Panellists: </strong>Arlene Casey (University of Edinburgh, co-chair), Vishnu Chandrabalan (Lancaster University, co-chair), Rob Stewart (King's College London), Sarah Markham (patient representative) </p>
+</div></td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; font-size:14px;"> <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:#6495ED;"> <i class='fas fa-map' style='font-size:14px;'></i> Elizabeth Livingston Lecture Theatre</a></td>
 </tr>
 <tr>
@@ -243,7 +243,7 @@ td {
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">PhD forum: 
 <button class="collapsible">Details</button>
 <div class="content">
-  <p style="color: black; background-color: white; text-decoration: none;"><strong>Chairs:</strong> Arlene Casey (University of Edinburgh) and Ruizhe Li (University of Aberdeen)</p>
+   <p style="color: black; background-color: white; text-decoration: none;"><strong>Panellists: </strong>Arlene Casey (University of Edinburgh, co-chair), Ruizhe Li ( University of Aberdeen, co-chair), Liz Ford (Brighton and Sussex Medical School), Rob Stewart (King's College London), Honhan Wu (University of Glasgow)</p>
 <ul style="color: black; background-color: white; text-decoration: none;"><li>Yunsoo Kim. Multimodal LLM for Computer Assisted Intervention: Human in the Loop with Eye Gaze of Radiologists</li><li>Adam Williams. Developing AI Methods for Animal Health and Welfare Monitoring</li>
 <li>Simon Ellershaw. Automated Generation of Hospital Discharge Summaries Using Clinical Guidelines and Large Language Models</li></ul></div></td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; font-size:14px;" width="25%"> <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:#6495ED;"> <i class='fas fa-map' style='font-size:14p;'></i> Elizabeth Livingston Lecture Theatre</a></td>
@@ -299,7 +299,7 @@ td {
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Industry forum:
 <button class="collapsible">Collaboration models for clinical large language modelling</button>
 <div class="content">
-  <p style="color: black; background-color: white; text-decoration: none;"><strong>Chair:</strong> Dr Ben Fell (Akrivia)</p>
+  <p style="color: black; background-color: white; text-decoration: none;"><strong>Panellists:</strong> Ben Fell (Akrivia Health, chair),  Shaun Rowark (NICE), Ray Hounon (Google Health Life Sciences & Scientific Research),  Tom Searle (KCL, CogStack), Maria Aretoulaki (Hitachi), Honghan Wu (University of Glasgow)</p>
 </div>
 </td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; font-size:14px;" width="25%"> <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:#6495ED;"> <i class='fas fa-map' style='font-size:14px;'></i> Elizabeth Livingston Lecture Theatre</a></td>
