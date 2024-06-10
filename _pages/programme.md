@@ -120,7 +120,6 @@ td {
 
 <h5 style="margin-bottom: 0.9375rem; font-weight: bold; line-height: 1.1; color: #6495ED; font-size: 0.9375rem; clear: both; text-transform: uppercase; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-align: start; padding-top: 20px;">THURSDAY, JUNE 13TH 2024</h5>
 <table class="programme-table" style="background-color: #ffffff; margin-bottom: 20px; width: 790.2px; border-color: #e9e9e9;  font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: start;" border="0">
-<table class="programme-table" style="background-color: #ffffff; margin-bottom: 20px; width: 790.2px; border-color: #e9e9e9; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; text-align: start;" border="0">
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;" width="15%">9:30-10:15</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Registration</td>
@@ -217,7 +216,7 @@ td {
 <div class="content">
   <p style="color: black; background-color: white; text-decoration: none;"><strong>Chair:</strong></p>
   <p style="color: black; background-color: white; text-decoration: none;">Space will be available for colleagues to self-organise and run birds-of-feather or specific project meetings. The following groups will meet: </p>
-  <ul style="color: black; background-color: white; text-decoration: none;"><li>Standards for data modelling and representation (OMOP, FHIR)</li>
+<ul style="color: black; background-color: white; text-decoration: none;"><li>Standards for data modelling and representation (OMOP, FHIR)</li>
 <li>Computational infrastructure</li>
 <li>PPIE</li>
 <li>Clinical NLP governance</li>
