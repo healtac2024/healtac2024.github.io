@@ -1,6 +1,6 @@
 ---
 permalink: /venue/
-title: " "
+title: Venue
 ---
 <html>
 <head>
@@ -129,8 +129,8 @@ div.scroll-container img {
 </head>
 
 <body>
-<!-- <div class="container">
-    <h2>Tutorial Venue - June 12, 2024</h2>
+ <div class="container">
+    <h3>Tutorial Venue - June 12, 2024</h3>
     <p>School of Computing and Communications</p>
     <p>InfoLab21, Lancaster University</p>
     <p>United Kingdom, LA1 4WA</p>
@@ -141,21 +141,21 @@ div.scroll-container img {
 </div>
 <br>
 <div class="container">
-    <h2>Conference Venue - June 13-14, 2024</h2>
+    <h3>Conference Venue - June 13-14, 2024</h3>
     <p>Elizabeth Livingston Lecture Theatre</p>
 	<p>A022, Lecture Theatre</p>
 	<p>Bowland North, Floor A</p>
     <p>Lancaster University Campus</p>
     <p>United Kingdom</p>
 <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:DodgerBlue; font-family:Akaya Telivigala"> <i class='fas fa-map' style='font-size:24px font-family:Akaya Telivigala'></i> Elizabeth Livingston Lecture Theatre</a>
-</div> -->
+</div> 
 <br>
 <p>Information about travel to the campus is available <a href="https://www.lancaster.ac.uk/sustainability/action/travel/" style="color:DodgerBlue;">here</a>.
 </p>
 
 <br>
 
-<div class="image-container-1">
+<!--<div class="image-container-1">
   <div class="text-1">LANCASTER UNIVERSITY</div>
 </div>
 
@@ -190,7 +190,8 @@ div.scroll-container img {
     <img src="/assets/images/town/IMG_5298.jpg" width="300" height="300">
 </div>
 <p> </p>
-<p style="font-family: Times New Roman;">Photo Credit: Mo Haj (@melhaj) (<a href="https://www.instagram.com/melhaj/" target="_blank">https://www.instagram.com/melhaj/</a>)</p>
+
+<p style="font-family: Times New Roman;">Photo Credit: Mo Haj (@melhaj) (<a href="https://www.instagram.com/melhaj/" target="_blank">https://www.instagram.com/melhaj/</a>)</p>  -->
 
 
 </body>
