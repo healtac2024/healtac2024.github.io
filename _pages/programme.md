@@ -247,7 +247,7 @@ td {
   <p style="color: black; background-color: white; text-decoration: none;"><strong>Chairs:</strong> Arlene Casey (University of Edinburgh) and Ruizhe Li (University of Aberdeen)</p>
 <ul style="color: black; background-color: white; text-decoration: none;"><li>Yunsoo Kim. Multimodal LLM for Computer Assisted Intervention: Human in the Loop with Eye Gaze of Radiologists<br></li><li>Adam Williams. Developing AI Methods for Animal Health and Welfare Monitoring</li>
 <li>Simon Ellershaw. Automated Generation of Hospital Discharge Summaries Using Clinical Guidelines and Large Language Models</li></ul>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; font-size:14px;" width="25%"> <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:#6495ED;"> <i class='fas fa-map' style='font-size:14p;'></i> Elizabeth Livingston Lecture Theatre</a></td></div>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; font-size:14px;" width="25%"> <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:#6495ED;"> <i class='fas fa-map' style='font-size:14p;'></i> Elizabeth Livingston Lecture Theatre</a></div></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">10:30-10:45</td>
@@ -273,7 +273,7 @@ td {
 <li>Imane Guellil, Mike Holder, Aileen Elizabeth Stirling, Beatrice Alex and Bruce Guthrie. Towards one resource for drug prescription within the UK</li>
 <li>Huda M. Alshammari, Denham Phipps, Penny Lewis, Haifa Alrdahi and Riza Batista-Navarro. Development of Guidelines for Annotating Medication-Related Incident Reports</li>
 <li>Jose Rodríguez Torres, Antonio Espinosa de Los Monteros, Angelo Santana, David Killick, P-J Noble and Alan Radford. Shedding light about canine and feline cancer in the UK. A text-mining approach to analyse 1,000,000 canine and feline tumour diagnoses between 2010 and 2023.</li>
-<li>Mengxuan Sun, Ehud Reiter, Lisa Duncan and Rosalind Adam. The role of natural language processing in cancer care: a systematic scoping review with narrative synthesis</li><br></ul>
+<li>Mengxuan Sun, Ehud Reiter, Lisa Duncan and Rosalind Adam. The role of natural language processing in cancer care: a systematic scoping review with narrative synthesis</li></ul>
 </div> </td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: left; font-size:14px;" width="25%"><a href="https://use.mazemap.com/?utm_medium=shorturl&fromshortlink=true#v=1&campusid=341&zlevel=1&center=-2.785377,54.011042&zoom=19.1&sharepoitype=poi&sharepoi=902353" style="color:#6495ED; "> <i class='fas fa-map' style='font-size:14px;'></i> Welcome Centre LT1 (A34)</a></td>
 </tr>
@@ -291,13 +291,14 @@ td {
   <ul style="color: black; background-color: white; text-decoration: none;"><li>Jennifer Jiang, James Brandreth, Mairead McErlean, Jack Ross, Maisarah Amran, Enrico Costanza, Yogini Jani, Leilei Zhu, Richard Dobson, Folkert Asselbergs, Wai Keong Wong and Anoop Shah. Feasibility study of ‘MiADE’ point of care natural language processing system: methodology and initial results.</li>
 <li>Stephen Barlow, Anna Barnes, Gary Cook, Sugama Chicklore, Yulan He and Thomas Wagner. Automatic TNM staging classification for [18F] fluorodeoxyglucose PET-CT reports for lung cancer utilising natural language processing and multi-task learning.</li>
 <li>Ratchakrit Arreerard and Scott Piao. Exploring GPT-4 for Fine-Grained Emotion Classification. (lightning talk)</li>
-<li>Arlene Casey, Matúš Falis, Franz S. Gruber, Amy Tilbrook, Elizabeth Ford and Kathy Harrison. Beyond the Surface – Exploring and Defining Indirect Risks in Clinical Free-text (lightning talk)<br></li></ul>
-</div></td>
+<li>Arlene Casey, Matúš Falis, Franz S. Gruber, Amy Tilbrook, Elizabeth Ford and Kathy Harrison. Beyond the Surface – Exploring and Defining Indirect Risks in Clinical Free-text (lightning talk)</li></ul>
+</div>
+</td>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; font-size:14px;" width="25%"> <a href="https://use.mazemap.com/#v=1&campusid=341&zlevel=1&center=-2.785624,54.011398&zoom=18&sharepoitype=poi&sharepoi=874283" style="color:#6495ED;"> <i class='fas fa-map' style='font-size:14px;'></i> Elizabeth Livingston Lecture Theatre</a></td>
 </tr>
 <tr>
 <td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top; text-align: center;">14:35-15:50</td>
-<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Industry forum:<br>
+<td style="padding: 5px; border-color: #e9e9e9; line-height: 1.42857; vertical-align: top;">Industry forum:
 <button class="collapsible">Collaboration models for clinical large language modelling</button>
 <div class="content">
   <p style="color: black; background-color: white; text-decoration: none;"><strong>Chair:</strong> Dr Ben Fell (Akrivia)</p>
