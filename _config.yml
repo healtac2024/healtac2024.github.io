@@ -66,12 +66,12 @@ author:
       icon: "fas fa-file-pdf"
       url: https://drive.usercontent.google.com/u/0/uc?id=1oBAgnUsqvdGFpUPL8GAdw5XmnF7M2gUC&export=download
       download: "HealTAC2024_Book_of_Abstracts.pdf"
-    - label: "<strong style='color:#6495ED;'>ACCOMMODATION</strong><br><span style='color:black;'>Book now.<br>"
-      icon: "fas fa-home"
-      url: https://healtac2024.github.io/accommodation/
-    - label: "<strong style='color:#6495ED;'>REGISTRATION</strong><br><span style='color:black;'>Now open.<br>"
-      icon: "far fa-comment"
-      url: https://healtac2024.github.io/registration/
+    # - label: "<strong style='color:#6495ED;'>ACCOMMODATION</strong><br><span style='color:black;'>Book now.<br>"
+    #   icon: "fas fa-home"
+    #   url: https://healtac2024.github.io/accommodation/
+    # - label: "<strong style='color:#6495ED;'>REGISTRATION</strong><br><span style='color:black;'>Now open.<br>"
+    #   icon: "far fa-comment"
+      # url: https://healtac2024.github.io/registration/
     - label: "<strong style='color:#6495ED;'>KEY DATES</strong><br>–<span style='color: black;'><strong>Conference:</strong><br>June 13-14, 2024</span><br>–<span style='color: black;'><strong>Tutorials:</strong><br>June 12, 2024</span><br>"
       icon: "far fa-calendar-alt"
       url: https://healtac2024.github.io/datesandcalls/
