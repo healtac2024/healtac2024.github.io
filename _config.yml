@@ -62,6 +62,9 @@ author:
 #  avatar : "/assets/images/bio-photo.jpg"
   # bio    : "7th Healthcare Text Analytics Conference"
   links:
+    - label: " <strong style='color:#339982;'>PRE-CONFERENCE TUTORIAL</strong><br>–<span style='color: black;'><strong>Resources:</strong></span> Available Here!<br>"
+      icon: "fas fa-laptop-code"
+      url: https://knowlab.github.io/healtac2024_tutorial/
     - label: "<strong style='color:#6495ED;'>BOOK OF ABSTRACTS</strong><br><span style='color:black;'>Download<br>"
       icon: "fas fa-file-pdf"
       url: https://drive.usercontent.google.com/u/0/uc?id=1oBAgnUsqvdGFpUPL8GAdw5XmnF7M2gUC&export=download
