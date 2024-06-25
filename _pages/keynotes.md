@@ -113,6 +113,7 @@ td {
         <a href="https://youtu.be/m3-AEOHoXCI?si=SSTvQMz4HNdnv2Q6"><button class="button-1">View Talk</button></a>
         <p> </p>
       </div>
+      <br>
     </div>
   </div>
   
@@ -131,18 +132,12 @@ td {
       </div>
     </div>
     <br>
-    <br>
-    <br>
   </div>
 
-
-
 <h2> Tutorials </h2>
-<br>
   <div class="column">
     <div class="card">
         <div class="container">
-        <br>
         <h3>Healthcare Text Analytics in the Era of Large Language Models</h3>
         <p>A team from the Institute of Health Informatics, University College London (Yunsoo Kim, Jinge Wu, Honghan Wu) will deliver a tutorial on'Healthcare Text Analytics in the Era of Large Language Models'. </p>
 
@@ -156,8 +151,6 @@ possibilities for healthcare text analytics. This tutorial, structured as a comb
     <br>
     <br>
   </div> 
-
-
   
 </body>
 </html>
