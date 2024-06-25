@@ -37,6 +37,7 @@ html {
   content: "";
   clear: both;
   display: table;
+  font-family: Times New Roman;
 }
 .title {
   color: grey;
@@ -51,6 +52,7 @@ html {
   text-align: center;
   cursor: pointer;
   width: 45%;
+  font-family: Times New Roman;
 }
 .button-1 {
   border: none;
@@ -62,11 +64,27 @@ html {
   text-align: center;
   cursor: pointer;
   width: 45%;
+  font-family: Times New Roman;
 }
 .button:hover {
   background-color: DodgerBlue
 }
 .button-1:hover {
+  background-color: black
+}
+.button-2 {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: DodgerBlue;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-family: Times New Roman;
+}
+.button-2:hover {
   background-color: black
 }
 table {
@@ -119,7 +137,7 @@ td {
 
 
 
-<!--<h2> Tutorials </h2>
+<h2> Tutorials </h2>
 <br>
   <div class="column">
     <div class="card">
@@ -130,12 +148,14 @@ td {
 
 <p>Recent advancements in large language models (LLMs), such as ChatGPT, has revolutionised the field of natural language processing (NLP) and opened new
 possibilities for healthcare text analytics. This tutorial, structured as a combination of lectures and demonstrations, aims to provide a comprehensive guide to leveraging large language models in the healthcare domain, focusing on advanced techniques and applications. The tutorial will begin with an overview of the open source LLMs, emphasising their potential in addressing complex challenges within healthcare text analytics. Special attention will be given to the unique issues surrounding privacy, security, and domain-specific nuances inherent in healthcare data. Participants will be guided through practical applications of LLMs in two distinct healthcare text domains: 1) Discharge Note Generation and 2) PubMed Abstract Information Extraction. Practical demonstrations will illustrate how LLMs can be tailored for each specific domain using prompting, in-context learning, instruction tuning (finetuning). Furthermore, we will delve into LLMs’ challenges in adapting to handle multi-modal data representations.</p>
-      </div>
+<a href="https://ca.linkedin.com/in/alistairewj"><button class="button-2">Resources</button></a>
+     <p> </p>
+     </div>
     </div>
     <br>
     <br>
     <br>
-  </div> -->
+  </div> 
 
 
   
