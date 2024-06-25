@@ -51,7 +51,7 @@ html {
   background-color: #000;
   text-align: center;
   cursor: pointer;
-  width: 45%;
+  width: 49%;
   font-family: Times New Roman;
 }
 .button-1 {
@@ -63,7 +63,7 @@ html {
   background-color: DodgerBlue;
   text-align: center;
   cursor: pointer;
-  width: 45%;
+  width: 50%;
   font-family: Times New Roman;
 }
 .button:hover {
