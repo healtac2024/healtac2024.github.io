@@ -129,7 +129,7 @@ div.scroll-container img {
 </head>
 
 <body>
- <div class="container">
+<!-- <div class="container">
     <h3>Tutorial Venue - June 12, 2024</h3>
     <p>School of Computing and Communications</p>
     <p>InfoLab21, Lancaster University</p>
@@ -151,11 +151,11 @@ div.scroll-container img {
 </div> 
 <br>
 <p>Information about travel to the campus is available <a href="https://www.lancaster.ac.uk/sustainability/action/travel/" style="color:DodgerBlue;">here</a>.
-</p>
+</p> 
 
-<br>
+<br> -->
 
-<!--<div class="image-container-1">
+<div class="image-container-1">
   <div class="text-1">LANCASTER UNIVERSITY</div>
 </div>
 
@@ -191,7 +191,7 @@ div.scroll-container img {
 </div>
 <p> </p>
 
-<p style="font-family: Times New Roman;">Photo Credit: Mo Haj (@melhaj) (<a href="https://www.instagram.com/melhaj/" target="_blank">https://www.instagram.com/melhaj/</a>)</p>  -->
+<p style="font-family: Times New Roman;">Photo Credit: Mo Haj (@melhaj) (<a href="https://www.instagram.com/melhaj/" target="_blank">https://www.instagram.com/melhaj/</a>)</p>
 
 
 </body>
