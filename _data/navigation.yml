@@ -4,12 +4,14 @@ main:
     url: /
   - title: "Programme"
     url: /programme/
-  - title: "Registration"
-    url: /registration/
+  - title: "Keynote Speakers"
+    url: /keynotes/
+  # - title: "Registration"
+  #   url: /registration/
   - title: "Venue"
     url: /venue/
-  - title: "Accommodation"
-    url: /accommodation/
+  # - title: "Accommodation"
+  #   url: /accommodation/
   # - title: "Calls"
   #   url: /cfp/
   # - title: "Second Call"
@@ -18,8 +20,6 @@ main:
   #   url: /submissions/
   # - title: "Dates"
   #   url: /dates/
-  # - title: "Keynote Speakers"
-  #   url: /keynotes/
   - title: "Committees"
     url: /committees/
   - title: "Calls and Dates"
