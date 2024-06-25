@@ -50,10 +50,24 @@ html {
   background-color: #000;
   text-align: center;
   cursor: pointer;
-  width: 100%;
+  width: 45%;
+}
+.button-1 {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: DodgerBlue;
+  text-align: center;
+  cursor: pointer;
+  width: 45%;
 }
 .button:hover {
-  background-color: #009999
+  background-color: DodgerBlue
+}
+.button-1:hover {
+  background-color: black
 }
 table {
   width: auto;
@@ -78,6 +92,7 @@ td {
         <p stype><b>Large Language Models in healthcare: should we care more?</b></p>
         <p>ChatGPT can do a lot for us: it can serve as a text corrector, as a source of inspiration, as a programming aid, and as an interactive search engine. ChatGPT is also widely used in the health domain, both by doctors and patients. Large language models (LLMs) such as ChatGPT can write very convincing texts, but being able to write fluently is not the same as providing correct information. Should we worry about that? In my presentation I will first discuss our work on text mining from patient experiences, highlighting the challenges of extracting medical information from informal text. Then I will discuss the opportunities of using LLMs, and go into the risks and challenges. I will also make suggestions for responsible use of LLMs for medical applications.</p>
         <a href="https://liacs.leidenuniv.nl/~verbernes/"><button class="button">More info</button></a>
+        <a href="https://youtu.be/m3-AEOHoXCI?si=SSTvQMz4HNdnv2Q6"><button class="button-1">View Talk</button></a>
         <p> </p>
       </div>
     </div>
@@ -92,6 +107,8 @@ td {
         <p stype><b>The bottleneck has always been data!</b></p>
         <p>The world has been in awe at the recent applications of sophisticated machine learning models derived from large datasets. Yet in medicine, we continue to use decades old algorithms to support patient care. Models for cancer progression are based upon staging guidelines defined in the 70s, patient severity of illness is estimated using a scoring system from the 90s, and our latest and greatest criteria for sepsis was a model with three input variables. The reasons for the technological naivety in medicine are multifactorial, but one aspect stands out: researchers simply do not have much data. In this talk I will highlight the MIMIC series of databases, a suite of publicly accessible deidentified medical records. I'll give an insider's view on how the electronic health records for thousands of individuals were comprehensively deidentified, transformed, and shared for research without harm to the individual's themselves. I'll overview the utility of this data, and highlight some of our own work on language modeling enabled by the broad access to deidentified free-text clinical notes. I'll conclude with my thoughts on how the field should better balance the benefits and risks of using patient data for research.</p>
          <a href="https://ca.linkedin.com/in/alistairewj"><button class="button">More info</button></a>
+         <a href="https://youtu.be/nuRs41057Z4?si=7fPieZHnxLnVhXvX
+"><button class="button-1">View Talk</button></a>
          <p> </p>
       </div>
     </div>
